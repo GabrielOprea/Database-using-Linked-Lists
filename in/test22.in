@@ -1,0 +1,20 @@
+INIT_DB depozit_auchan
+CREATE Camioane FLOAT Pret/metru
+ADD Camioane 0.2187
+CREATE Echipari INT Olimpici
+DELETE Camioane
+PRINT Camioane
+ADD Camioane 0.0013
+ADD Camioane 0.1835
+ADD Echipari 5
+DELETE Echipari
+PRINT Echipari
+CREATE Asistenti STRING Localitate Denumire Garantie
+ADD Echipari 153
+PRINT Echipari
+CREATE Mirodenii FLOAT Consum Pret/metru Discount Pret/bucata
+PRINT Super_Cars
+CREATE Linoleum INT Marcaje Olimpici Rezervate Societati_Comerciale
+PRINT_DB
+DELETE Linoleum
+DELETE_DB

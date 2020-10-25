@@ -1,0 +1,176 @@
+INIT_DB ferma_animale
+CREATE Angajati STRING Strada ID Regiune Denumire Importator Prenume
+CREATE Instalatii FLOAT ID Pret/bucata Pret/metru Salariu_baza TVA Tip Impozit
+PRINT Camioane
+PRINT Elevi
+CREATE Studenti STRING Localitate Prenume Strada Tara_Origine Garantie Denumire Nume Regiune
+PRINT Angajati
+PRINT Super_Cars
+DELETE Tropicale Marcaje <= 102916
+PRINT_DB
+ADD Instalatii 0.4436 0.6306 0.2317 0.1413 0.9824 0.0371 0.6507
+ADD Instalatii 0.2988 0.9386 0.4875 0.7235 0.0102 0.8544 0.2683
+PRINT Studenti
+CREATE Studente INT Cantitate Disponibile ID Marcaje Restantieri Rezervate Societati_Comerciale Rating
+ADD Angajati fancy Linda Jack King Collins Torres
+ADD Studenti Diana horrible Perez carve Sean minor Patricia spiteful
+PRINT Elevi
+PRINT_DB
+PRINT_DB
+ADD Ambientale 472495 16423 69885 22918 113480 417916 499319 634339
+PRINT_DB
+ADD Studenti Foster test ice downtown Anderson Barnes vest Gregory
+CREATE Economie INT Disponibile Marcaje Nr_Defecte Rezervate Rating Cantitate Societati_Comerciale
+CREATE Bujii INT Societati_Comerciale Disponibile Olimpici Rezervate Marcaje Nr_Defecte ID
+ADD Studente 146882 227742 333881 215299 252814 503116 156194 345677
+CREATE Bere FLOAT ID Tip Pret/metru Pret/bucata Impozit Consum Total
+ADD Economie 48222 216734 36639 161034 264744 570447 409149
+ADD Studenti Anne Jack spiteful Powell jewel wakeful Henry Louise
+PRINT Balast
+CREATE Oameni STRING Importator Localitate Strada Nume Garantie Prenume Regiune
+DELETE Doctori Regiune != thoughtful
+DELETE Instalatii
+PRINT_DB
+PRINT Bursieri
+ADD Oameni Ann engine clap average Kathy Evans Perez
+ADD Bujii 357221 351367 272058 382089 375527 633403 24841
+CREATE Masini FLOAT Pret/metru Consum Salariu_baza Tip Pret/bucata ID Total
+PRINT Bere
+ADD Instalatii 0.0779 0.1109 0.5263 0.8657 0.1372 0.4377 0.5756
+DELETE Angajati Localitate != Beverly
+ADD Echipamente Gerald Parker Stephen house Lillian thoughtful Carter Jerry
+PRINT Bursieri
+ADD Bujii 278614 622899 212263 65964 214481 631560 397581
+ADD Oameni escape smash Parker Frances Nicholas Linda damaging
+DELETE Utilaje
+DELETE Profesori
+PRINT_DB
+CREATE Ambientale INT Rating ID Restantieri Marcaje Nr_Defecte Cantitate
+PRINT Bujii
+DELETE Linoleum ID > 354655
+SEARCH Super_Cars Nume < Hall
+CREATE Elevi STRING Nume Localitate Strada Denumire Importator Regiune ID
+PRINT_DB
+PRINT Oameni
+ADD Ambientale 573154 382434 210938 510725 422351 48747
+ADD Economie 405861 527953 124329 185344 224464 451188 649433
+ADD Echipamente arm screeching Evans useless Kelly Denise hot
+DELETE Masini
+CREATE Fainoase INT Restantieri Marcaje Olimpici Rating Disponibile ID
+PRINT Studenti
+PRINT_DB
+ADD Mirodenii 0.0147 0.7396 0.1142 0.0160 0.6833 0.5915 0.7921 0.4743
+ADD Bere 0.1188 0.9971 0.8358 0.1802 0.0418 0.6173 0.3980
+PRINT Studente
+PRINT Studente
+ADD Oameni Linda apathetic rate Brooks blind Anthony Ralph
+PRINT Tropicale
+DELETE Echipari
+ADD Instalatii 0.2354 0.3661 0.8526 0.7065 0.3372 0.6477 0.0926
+ADD Economie 382368 600570 334809 190597 117871 231537 40474
+DELETE Instalatii
+PRINT_DB
+CREATE Racoritoare INT Olimpici Rezervate Disponibile Restantieri Nr_Defecte ID Societati_Comerciale Rating
+CREATE Tropicale INT Rating Restantieri Marcaje Nr_Defecte Disponibile Rezervate Societati_Comerciale ID
+PRINT_DB
+PRINT_DB
+ADD Ambientale 505206 400308 447517 305185 112200 328327
+ADD Electronice 191613 457554 346501 636946 395519 300426 534434
+ADD Masini 0.8556 0.6525 0.2095 0.1143 0.7774 0.3903 0.8456
+ADD Bujii 527452 26775 433670 225282 167219 64302 79304
+ADD Studente 4232 337788 310911 217650 467238 70375 56655 227845
+SEARCH Echipamente Denumire != Bonnie
+SEARCH Oameni ID < Green
+DELETE Ambientale
+ADD Tropicale 154806 388330 455159 327330 546249 329956 288039 221169
+ADD Racoritoare 443896 115688 30361 376284 421027 128843 170324 536109
+ADD Ambientale 561800 648663 287315 194991 385435 643334
+ADD Studente 544781 137138 196795 231216 463853 415781 468539 458375
+CREATE Mirodenii FLOAT Consum Discount Pret/metru Impozit Tip ID TVA
+DELETE Instalatii Impozit != 0.3279
+PRINT_DB
+PRINT Salarii
+DELETE Instalatii Salariu_baza > 0.5029
+PRINT_DB
+SEARCH Masini Tip == 0.1068
+DELETE Camioane
+PRINT Economie
+PRINT Instalatii
+PRINT_DB
+ADD Studente 291450 174275 136856 433634 281523 332414 542272 610831
+PRINT_DB
+CREATE Linoleum INT ID Societati_Comerciale Cantitate Rating Nr_Defecte Disponibile Marcaje Rezervate
+PRINT Studenti
+DELETE Echipari
+ADD Studenti pollution aunt average bloody keen Garcia Sandra fancy
+SEARCH Racoritoare Olimpici >= 463874
+ADD Studenti Rivera Mark live Jack Baker pollution daughter wing
+PRINT Angajati
+PRINT_DB
+PRINT_DB
+CREATE Balast FLOAT Total ID Discount Pret/metru TVA Consum Salariu_baza
+SEARCH Tropicale Disponibile != 66527
+SEARCH Masini Total != 0.9452
+DELETE Echipamente
+SEARCH Economie ID != 523698
+PRINT Economie
+SEARCH Bere Discount == 0.1244
+CREATE Bursieri STRING Tara_Origine ID Localitate Denumire Importator Garantie Regiune
+PRINT_DB
+CREATE Super_Cars STRING Prenume Garantie Nume ID Localitate Strada
+PRINT Uber
+PRINT Bere
+PRINT Fainoase
+ADD Super_Cars Bryant George horrible lying Torres alcoholic
+ADD Economie 144172 241919 487725 616337 12046 57120 432202
+PRINT Studenti
+PRINT_DB
+ADD Studente 414936 449582 593919 98801 95509 15084 170932 356526
+ADD Mirodenii 0.8586 0.5274 0.7926 0.4028 0.4049 0.0706 0.7170
+PRINT Obiecte
+SEARCH Obiecte Pret/metru == 0.6378
+PRINT_DB
+SEARCH Instalatii Salariu_baza > 0.4195
+PRINT_DB
+DELETE Bujii
+PRINT Elevi
+DELETE Bursieri Regiune <= yellow
+PRINT Bujii
+SEARCH Bere Impozit == 0.8142
+ADD Bujii 505584 508417 509378 259756 193685 577209 318343
+PRINT_DB
+PRINT_DB
+ADD Studente 157685 115159 164582 184064 442988 127377 20718 519037
+ADD Bere 0.8160 0.5437 0.2540 0.6545 0.4795 0.0633 0.9098
+PRINT Masini
+PRINT Doctori
+PRINT_DB
+DELETE Economie
+ADD Masini 0.8577 0.6057 0.4265 0.6031 0.7682 0.7599 0.6242
+SEARCH Linoleum Restantieri >= 288125
+ADD Electronice 350267 639148 361859 144732 206551 433551 109523 439688
+ADD Instalatii 0.4773 0.6893 0.7344 0.0078 0.9506 0.7753 0.7831
+ADD Fainoase 35095 73073 642409 34622 274900 235961
+PRINT_DB
+ADD Bursieri Jack Parker lunch unique Evelyn nu Gonzalez
+DELETE Utilaje
+PRINT Utilaje
+ADD Studente 47469 311816 34864 631728 63270 40521 181176 626022
+ADD Economie 233853 394283 61862 337445 219314 566112 382526
+PRINT Elevi
+PRINT Linoleum
+ADD Utilaje 0.8795 0.8669 0.4338 0.2587 0.9960 0.3732
+DELETE Mirodenii Impozit < 0.0072
+ADD Studente 192560 557379 280303 337681 650359 316094 72317 412930
+ADD Oameni Ruby Gray Carter Irene Bell Ruby jewel
+ADD Oameni Hall engine grade subtract Rose profuse line
+PRINT Echipamente
+ADD Racoritoare 499284 521926 67426 127400 51894 524983 306556 334389
+CREATE Salarii FLOAT Total Consum Discount Impozit Pret/bucata TVA Pret/metru
+SEARCH Tropicale Nr_Defecte != 418595
+PRINT Echipari
+PRINT_DB
+PRINT Bursieri
+PRINT Fainoase
+PRINT_DB
+DELETE_DB

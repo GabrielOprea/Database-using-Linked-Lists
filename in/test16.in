@@ -1,0 +1,10 @@
+INIT_DB mobilier
+CREATE Bere FLOAT Consum ID TVA
+CREATE Doctori STRING Garantie Denumire Tara_Origine
+CREATE Angajati STRING Localitate Regiune Tara_Origine
+PRINT Bere
+ADD Doctori escape queue Brown
+SEARCH Angajati Regiune == Garcia
+CREATE Economie INT Cantitate
+SEARCH Economie Olimpici >= 0
+DELETE_DB

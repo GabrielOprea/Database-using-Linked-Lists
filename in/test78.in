@@ -1,0 +1,178 @@
+INIT_DB universitate
+CREATE Racoritoare INT Olimpici Disponibile Rating Rezervate Marcaje Nr_Defecte Cantitate Restantieri
+PRINT Ambientale
+DELETE Studente Rezervate != 348595
+CREATE Echipamente STRING Garantie Regiune Strada Tara_Origine Prenume ID Denumire
+CREATE Angajati STRING Denumire Localitate ID Nume Regiune Importator Tara_Origine
+ADD Angajati Benjamin straight Cook Sanders apathetic Sandra impossible
+PRINT Studenti
+ADD Echipamente Patterson line Rivera Charles Torres Ralph vest
+ADD Racoritoare 42278 42942 493123 364495 630196 338101 32169 358856
+ADD Racoritoare 503028 395862 235577 443318 643899 537754 78086 589726
+CREATE Ambientale INT ID Cantitate Societati_Comerciale Rezervate Marcaje Nr_Defecte
+DELETE Obiecte Impozit <= 0.4099
+PRINT Ambientale
+PRINT Racoritoare
+PRINT Echipamente
+SEARCH Echipamente Importator == pollution
+DELETE Masini Consum < 0.1544
+ADD Echipamente Kimberly snatch Young frightened Smith Julia straight
+PRINT Economie
+PRINT Racoritoare
+SEARCH Echipamente Garantie <= fairies
+PRINT_DB
+ADD Angajati Raymond Paula limit straight Jonathan Barnes Rachel
+ADD Racoritoare 466927 196109 75237 216875 121864 127435 304933 599722
+PRINT Ambientale
+DELETE Echipamente Nume >= abandoned
+ADD Racoritoare 623851 579652 564604 652481 126965 218147 5339 248822
+ADD Ambientale 395181 614050 427130 405097 221197 598655
+CREATE Echipari INT Nr_Defecte Olimpici Rating Cantitate Marcaje Societati_Comerciale Rezervate Restantieri
+PRINT Bujii
+CREATE Electronice INT Restantieri Nr_Defecte ID Olimpici Societati_Comerciale Rezervate
+ADD Angajati Jack Cox Hall Kathleen crooked tremendous delay
+PRINT_DB
+PRINT Echipari
+PRINT Mirodenii
+PRINT Racoritoare
+PRINT_DB
+PRINT Bere
+PRINT Balast
+PRINT_DB
+PRINT Linoleum
+CREATE Doctori STRING Nume Garantie ID Localitate Regiune Denumire Tara_Origine
+PRINT_DB
+ADD Echipamente Anne sort minor Paula Parker Perry Gray
+DELETE Electronice
+CREATE Balast FLOAT Tip TVA Consum Pret/bucata Salariu_baza Impozit
+PRINT Doctori
+DELETE Obiecte Pret/metru != 0.1369
+DELETE Ambientale
+ADD Echipamente Diana screeching fancy Phillip Jenkins threatening Jeremy
+ADD Echipamente smash grade Jane Ann Carter Baker entertaining
+ADD Linoleum 149918 444704 44422 94800 289868 463681 375518 189231
+PRINT_DB
+ADD Electronice 333754 352914 443454 112616 294360 173528
+ADD Fainoase 540000 11186 509413 582855 32211 282046 136694 32783
+ADD Echipamente coat Cox event frightened Ruby Griffin Evelyn
+DELETE Profesori ID < change
+ADD Profesori rate Turner sin entertaining Parker ice Paula
+ADD Balast 0.6441 0.4097 0.7909 0.4122 0.1445 0.7180
+PRINT Angajati
+DELETE Bursieri Importator < Anne
+ADD Balast 0.0413 0.4138 0.4383 0.4471 0.4251 0.0328
+PRINT Mirodenii
+ADD Doctori Rachel Judith continue Moore jewel approval wasteful
+PRINT_DB
+PRINT Angajati
+PRINT Echipamente
+ADD Echipari 4688 35360 554571 309389 431034 71458 12185 223796
+ADD Oameni Patrick sort Coleman Howard keen Kathleen
+PRINT Echipamente
+ADD Tropicale 325437 378243 369423 75560 156522 618943 406188
+SEARCH Racoritoare Societati_Comerciale <= 255799
+ADD Bujii 196773 100868 503371 518270 647195 39424 365887
+DELETE Ambientale
+ADD Doctori live alcoholic Campbell Perez Carlos Turner marble
+CREATE Instalatii FLOAT Impozit Discount ID Tip Consum Pret/bucata
+PRINT_DB
+PRINT Mirodenii
+ADD Mirodenii 0.0661 0.7688 0.3571 0.0503 0.3131 0.8185 0.7437
+PRINT Racoritoare
+CREATE Studenti STRING Tara_Origine Nume Denumire ID Importator Garantie Regiune
+ADD Studenti Moore summer ask motionless change Phillip Baker
+PRINT Echipamente
+ADD Electronice 6997 556396 264970 351893 351568 130035
+ADD Utilaje 0.2916 0.6165 0.0974 0.8623 0.8632 0.6220 0.6782 0.1467
+PRINT_DB
+ADD Racoritoare 176442 483100 494649 315298 592051 432990 266471 424743
+ADD Masini 0.9532 0.5257 0.3389 0.5029 0.0150 0.0915 0.2408 0.6885
+CREATE Elevi STRING Nume Denumire Regiune Importator Localitate Prenume Strada
+ADD Balast 0.1273 0.3823 0.2236 0.9967 0.0601 0.5241
+PRINT_DB
+ADD Studente 351450 43362 120838 4240 321672 431251 31533
+ADD Doctori view keen Cox Cook apathetic threatening vest
+ADD Elevi Diana apathetic Lillian Rogers Baker building arm
+ADD Echipari 102305 149414 619108 377388 453098 540133 108712 354319
+PRINT_DB
+PRINT Elevi
+ADD Doctori Roberts Kathryn recondite Rachel Gonzalez Edwards Cox
+SEARCH Salarii TVA <= 0.2494
+ADD Economie 318602 141495 348318 508511 84043 332532
+SEARCH Angajati Strada == thoughtful
+ADD Doctori Henry loss George guarded Diana Benjamin Powell
+PRINT_DB
+PRINT_DB
+PRINT_DB
+PRINT Studenti
+ADD Utilaje 0.8776 0.2623 0.4597 0.1108 0.4504 0.5146
+SEARCH Racoritoare Olimpici == 16591
+CREATE Asistenti STRING Garantie Importator Prenume Localitate Tara_Origine Nume
+ADD Uber 0.6814 0.5885 0.8856 0.2170 0.6124 0.1847 0.2888
+PRINT Doctori
+PRINT Electronice
+DELETE Masini
+PRINT Balast
+ADD Bursieri Lewis Jonathan Adam Judith abandoned lock Coleman Stephen
+SEARCH Super_Cars Garantie != handy
+PRINT Asistenti
+CREATE Economie INT Nr_Defecte Disponibile Olimpici Cantitate Rating Restantieri Rezervate
+PRINT Studenti
+SEARCH Oameni Importator < Joyce
+CREATE Masini FLOAT Salariu_baza ID Consum Pret/bucata Discount Tip Pret/metru Total
+PRINT Linoleum
+SEARCH Angajati Nume != Sara
+ADD Electronice 193219 530747 86112 45984 509456 507227
+DELETE Echipamente Importator <= Brown
+PRINT Instalatii
+PRINT_DB
+PRINT Asistenti
+ADD Instalatii 0.0314 0.2756 0.2528 0.0663 0.7062 0.3199
+PRINT_DB
+PRINT Racoritoare
+DELETE Ambientale Olimpici > 301106
+ADD Doctori Jimmy Bell Janet synonymous Diane Martin Griffin
+ADD Bursieri Green Coleman bells Anne secret impossible Linda
+ADD Masini 0.1642 0.4046 0.7316 0.8810 0.0996 0.8840 0.0089 0.7441
+PRINT_DB
+ADD Echipari 649582 467241 263339 120935 543062 486635 521917 90829
+DELETE Instalatii TVA == 0.6503
+PRINT_DB
+CREATE Bujii INT Marcaje Olimpici ID Nr_Defecte Cantitate Disponibile Restantieri
+PRINT_DB
+PRINT_DB
+ADD Angajati Patricia Hall pollution Lewis Janet Howard luxuriant
+PRINT Bujii
+PRINT_DB
+PRINT Studenti
+PRINT Echipari
+PRINT_DB
+PRINT Echipamente
+ADD Masini 0.8656 0.9259 0.9928 0.4282 0.7150 0.1999 0.6851 0.3039
+ADD Bere 0.7845 0.1991 0.1715 0.6057 0.5739 0.1587 0.4741 0.6413
+DELETE Masini
+PRINT Racoritoare
+ADD Elevi lunch bloody Parker delay plants Ward apparel
+SEARCH Doctori Localitate != Rachel
+DELETE Elevi
+ADD Profesori Gerald hungry Green Barnes Barnes Diana Stephen apparel
+CREATE Mirodenii FLOAT Consum TVA Discount ID Pret/bucata Salariu_baza Pret/metru Tip
+ADD Elevi reply Mitchell da responsible drip Garcia Andrea
+PRINT Economie
+PRINT_DB
+DELETE Asistenti Importator >= coat
+ADD Masini 0.3016 0.2518 0.1428 0.9100 0.8049 0.0034 0.1984 0.6911
+PRINT Oameni
+ADD Echipari 163479 287028 417397 386451 213626 106647 464552 313734
+PRINT Linoleum
+SEARCH Balast Salariu_baza != 0.3385
+ADD Oameni Gerald development Jenkins rate Andrea Bell
+CREATE Linoleum INT Societati_Comerciale Olimpici Nr_Defecte Restantieri Rating Disponibile
+SEARCH Instalatii Discount <= 0.3641
+ADD Mirodenii 0.6285 0.1238 0.0566 0.6651 0.6970 0.6925 0.2864 0.9192
+SEARCH Studente Rating >= 349644
+SEARCH Racoritoare ID >= 132876
+PRINT Balast
+CREATE Tropicale INT Restantieri Rezervate Nr_Defecte Cantitate Societati_Comerciale Rating Marcaje Olimpici
+PRINT Elevi
+DELETE_DB

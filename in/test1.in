@@ -1,0 +1,10 @@
+INIT_DB masini_fabrica
+CREATE Linoleum INT Cantitate
+PRINT Linoleum
+PRINT Profesori
+SEARCH Linoleum Rating == 9
+SEARCH Linoleum Olimpici <= 0
+PRINT_DB
+ADD Linoleum 8
+PRINT Linoleum
+DELETE_DB

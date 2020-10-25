@@ -1,0 +1,10 @@
+INIT_DB ferma_animale
+CREATE Uber FLOAT ID Consum Salariu_baza
+CREATE Bere FLOAT Salariu_baza TVA Consum
+PRINT Uber
+DELETE Bere Discount < 0.4532
+DELETE Bere
+PRINT_DB
+CREATE Studenti STRING Denumire
+ADD Uber 0.9404 0.0261 0.4541
+DELETE_DB

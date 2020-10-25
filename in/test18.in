@@ -1,0 +1,10 @@
+INIT_DB componente_pc
+CREATE Salarii FLOAT Impozit Total Pret/metru
+PRINT Salarii
+PRINT Salarii
+ADD Salarii 0.8497 0.9829 0.1359
+ADD Salarii 0.1893 0.9198 0.4532
+ADD Salarii 0.9686 0.5731 0.7089
+ADD Salarii 0.3507 0.7581 0.4418
+PRINT_DB
+DELETE_DB

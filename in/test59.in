@@ -1,0 +1,40 @@
+INIT_DB restaurant
+CREATE Echipari INT Marcaje Disponibile ID Cantitate Nr_Defecte Societati_Comerciale
+ADD Echipari 134 228 40 235 231 142
+ADD Echipari 130 5 139 127 123 127
+PRINT Echipari
+PRINT Tropicale
+DELETE Echipari
+ADD Echipari 222 90 30 245 130 233
+ADD Echipari 161 143 174 67 226 41
+CREATE Oameni STRING Importator Prenume Nume
+ADD Echipari 174 39 21 187 224 76
+DELETE Oameni
+ADD Oameni unique Henry Jane
+ADD Oameni wakeful brush Rose
+PRINT Oameni
+ADD Echipari 92 205 239 62 229 166
+PRINT_DB
+CREATE Balast FLOAT Pret/metru
+DELETE Echipari Societati_Comerciale < 208
+ADD Echipari 219 59 55 202 171 81
+DELETE Oameni Denumire == Hall
+ADD Oameni Gonzalez continue screeching
+ADD Oameni admit Hall afterthought
+DELETE Balast Salariu_baza < 0.6118
+DELETE Mirodenii Pret/bucata > 0.8600
+ADD Oameni wakeful Jonathan Anne
+PRINT Echipari
+ADD Echipari 227 5 175 241 91 166
+CREATE Elevi STRING Localitate
+DELETE Echipari
+DELETE Echipari Marcaje <= 256
+SEARCH Elevi Garantie < engine
+ADD Balast 0.7554
+PRINT Bujii
+ADD Elevi Linda
+ADD Echipari 55 191 217 87 26 209
+CREATE Studenti STRING Prenume Localitate ID Nume Importator Regiune Denumire
+ADD Oameni Jenkins Kelly keen
+PRINT_DB
+DELETE_DB

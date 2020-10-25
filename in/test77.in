@@ -1,0 +1,177 @@
+INIT_DB asociatie_locatari
+CREATE Masini FLOAT Salariu_baza Consum Pret/bucata Pret/metru Impozit ID Tip Discount
+PRINT Bujii
+SEARCH Masini Salariu_baza == 0.2051
+PRINT Masini
+PRINT_DB
+PRINT Masini
+ADD Asistenti arm George Green Lisa horrible straight synonymous
+PRINT_DB
+ADD Masini 0.8618 0.0739 0.0477 0.7324 0.8483 0.7364 0.9091 0.0379
+SEARCH Profesori Denumire < damaging
+PRINT_DB
+ADD Elevi Brown humorous dead useless Moore yellow
+PRINT Masini
+ADD Masini 0.9256 0.5568 0.0490 0.5530 0.9499 0.6785 0.0595 0.3089
+PRINT Studenti
+PRINT Masini
+ADD Camioane 0.3631 0.9947 0.8470 0.0610 0.9650 0.2126 0.8440 0.5282
+SEARCH Masini Pret/bucata > 0.7959
+PRINT_DB
+PRINT Masini
+CREATE Tropicale INT Societati_Comerciale Rating Disponibile Cantitate Olimpici Nr_Defecte Restantieri Marcaje
+CREATE Balast FLOAT Discount ID Consum Tip TVA Pret/metru
+PRINT Camioane
+PRINT Balast
+DELETE Balast Impozit < 0.7761
+ADD Balast 0.1262 0.1767 0.4098 0.0696 0.8482 0.4975
+ADD Uber 0.0559 0.3670 0.1048 0.0365 0.6304 0.5175
+PRINT Echipari
+PRINT Bere
+PRINT_DB
+PRINT Uber
+ADD Masini 0.4768 0.6144 0.9678 0.8845 0.4219 0.8838 0.5610 0.4219
+SEARCH Masini ID < 0.4245
+CREATE Electronice INT Restantieri Rating Rezervate Disponibile Cantitate Olimpici ID Marcaje
+ADD Electronice 100858 379634 112311 282229 507051 613994 163744 420889
+PRINT Racoritoare
+PRINT Electronice
+ADD Electronice 96893 520833 212019 591747 229318 34205 343498 558334
+PRINT Electronice
+PRINT Masini
+DELETE Linoleum
+PRINT Bujii
+PRINT_DB
+ADD Doctori Brown Martha Paula dazzling beds tremendous Barnes
+ADD Tropicale 434859 346683 331116 220425 91996 454091 86697 146865
+ADD Masini 0.2646 0.0036 0.3162 0.1587 0.3763 0.4705 0.7973 0.2430
+PRINT_DB
+PRINT_DB
+CREATE Asistenti STRING Tara_Origine Nume Denumire ID Regiune Garantie Importator Strada
+PRINT Tropicale
+ADD Asistenti jewel Parker Keith synonymous Ward hour Brown straight
+ADD Electronice 159545 581739 455273 98583 535316 183550 359275 97849
+CREATE Super_Cars STRING Localitate Prenume Denumire Strada Importator Garantie
+CREATE Echipari INT Rating Cantitate Disponibile Societati_Comerciale ID Rezervate Olimpici Nr_Defecte
+ADD Masini 0.5952 0.6893 0.9904 0.0080 0.1489 0.3021 0.4108 0.6234
+CREATE Salarii FLOAT Pret/bucata Salariu_baza Total Discount Tip Pret/metru
+CREATE Echipamente STRING Denumire ID Localitate Garantie Regiune Tara_Origine
+CREATE Utilaje FLOAT Salariu_baza Consum Pret/metru Impozit Total ID
+ADD Electronice 627704 28654 395072 137794 196674 648759 56776 448141
+DELETE Masini Impozit == 0.7775
+PRINT_DB
+PRINT Super_Cars
+PRINT Echipamente
+PRINT Masini
+ADD Uber 0.5721 0.2929 0.2073 0.4844 0.2562 0.8819
+DELETE Masini
+ADD Economie 547336 423296 380182 262701 559361 210326 46952 484048
+ADD Electronice 629242 515659 252466 80611 444146 148631 509197 22805
+ADD Doctori Andrea delay Kathryn Earl blade snatch Larry
+CREATE Racoritoare INT Cantitate Rezervate Rating Restantieri Marcaje Societati_Comerciale
+DELETE Super_Cars Tara_Origine <= Lisa
+CREATE Camioane FLOAT Pret/bucata Pret/metru Consum TVA Impozit Salariu_baza Discount Tip
+PRINT Fainoase
+PRINT Elevi
+PRINT Electronice
+SEARCH Tropicale Olimpici == 796
+PRINT_DB
+DELETE Obiecte
+ADD Camioane 0.3507 0.1524 0.2607 0.3165 0.4853 0.7982 0.0001 0.7586
+CREATE Bere FLOAT ID Impozit Consum Tip Pret/bucata Discount Salariu_baza
+DELETE Electronice
+CREATE Studenti STRING Prenume Strada Nume Importator ID Tara_Origine
+DELETE Camioane Pret/bucata < 0.5773
+PRINT Studenti
+ADD Balast 0.8367 0.3847 0.8916 0.2076 0.2756 0.3103
+DELETE Uber Pret/bucata >= 0.8294
+PRINT Studenti
+DELETE Salarii
+ADD Economie 444618 576365 294253 543891 33505 531675
+ADD Bere 0.1729 0.4309 0.6929 0.9543 0.8078 0.0774 0.9459
+ADD Studenti society Louise aunt Benjamin Brown jewel
+CREATE Uber FLOAT Pret/metru ID Impozit TVA Pret/bucata Discount Tip Salariu_baza
+PRINT_DB
+PRINT_DB
+PRINT Bere
+DELETE Obiecte Impozit == 0.9324
+PRINT Asistenti
+ADD Studente 1762 441729 411370 570339 554881 650365 160387
+ADD Asistenti Alexander Lillian Maria rustic Barnes Julia lock Kathy
+ADD Camioane 0.4697 0.8735 0.9397 0.7785 0.8497 0.6706 0.5833 0.6090
+ADD Ambientale 256307 606854 543478 368869 39407 373820 638849 150665
+PRINT_DB
+ADD Asistenti daughter Henderson Patricia Torres groovy wiry crooked Charles
+ADD Echipari 176963 240740 495732 547768 627855 112698 344087 13549
+PRINT Tropicale
+ADD Bursieri simple Evans straight Smith past ancient recondite profuse
+DELETE Studenti Nume >= lying
+ADD Echipari 152367 434102 465534 448473 454777 267012 545818 516307
+DELETE Salarii
+PRINT_DB
+PRINT Elevi
+DELETE Elevi
+ADD Utilaje 0.8670 0.8451 0.5064 0.1666 0.6172 0.4431
+DELETE Echipari
+SEARCH Bere TVA == 0.3486
+SEARCH Studenti Importator >= subtract
+ADD Bujii 296855 569355 292193 153233 421783 529715 208016 75811
+ADD Echipari 165932 252182 185148 136514 438070 310212 30553 381567
+ADD Bujii 521910 271866 99565 241484 34901 67720 413992 400158
+ADD Studenti balance Price meeting apathetic Sandra Sandra
+PRINT_DB
+ADD Masini 0.5104 0.0089 0.3990 0.9487 0.7542 0.3815 0.3495 0.2021
+CREATE Economie INT Marcaje Rating Restantieri Societati_Comerciale Olimpici Rezervate ID
+CREATE Instalatii FLOAT Pret/bucata TVA ID Impozit Pret/metru Tip
+DELETE Bujii Olimpici > 109521
+PRINT_DB
+DELETE Salarii
+PRINT Asistenti
+PRINT Bere
+DELETE Bere Total >= 0.5549
+PRINT Bere
+PRINT Economie
+SEARCH Obiecte ID <= 0.1804
+ADD Fainoase 124187 17267 156685 129589 47028 145152 44965
+DELETE Electronice
+DELETE Racoritoare
+DELETE Utilaje
+PRINT_DB
+CREATE Linoleum INT Rating Cantitate ID Disponibile Marcaje Societati_Comerciale Rezervate Olimpici
+DELETE Masini
+ADD Bursieri Paula Stephen Parker Rogers Kimberly Judith workable Michael
+CREATE Elevi STRING Tara_Origine Regiune ID Denumire Prenume Strada Garantie
+DELETE Linoleum Marcaje > 515241
+PRINT Utilaje
+PRINT Tropicale
+ADD Doctori Roberts probable Kimberly brush frightened Charles
+ADD Asistenti Perry Hughes noxious Mary responsible Donald lunch Diana
+PRINT Uber
+SEARCH Electronice Rezervate >= 493183
+PRINT Masini
+PRINT Asistenti
+DELETE Racoritoare
+ADD Fainoase 639857 28256 577118 381478 71976 201236 606057
+PRINT Asistenti
+ADD Masini 0.8388 0.7894 0.6395 0.0372 0.6121 0.6785 0.9524 0.9783
+ADD Linoleum 508980 473815 76617 559960 407900 459682 508208 611299
+ADD Tropicale 372627 323892 557348 580574 417869 124045 636455 411225
+PRINT_DB
+ADD Angajati Carter wiry Martinez tremendous Ann Kathy
+ADD Uber 0.1550 0.7337 0.9021 0.9595 0.5193 0.9264 0.7766 0.7551
+DELETE Electronice Olimpici <= 62415
+ADD Salarii 0.2434 0.6631 0.6108 0.1834 0.9735 0.2114
+DELETE Balast Pret/bucata < 0.6046
+ADD Echipari 10240 152718 638833 429576 289768 161900 577378 523498
+PRINT_DB
+DELETE Echipari Nr_Defecte <= 432647
+PRINT_DB
+PRINT Echipari
+CREATE Studente INT Olimpici Societati_Comerciale Rezervate ID Nr_Defecte Disponibile
+PRINT_DB
+PRINT Tropicale
+CREATE Ambientale INT Societati_Comerciale Nr_Defecte ID Disponibile Restantieri Marcaje Rezervate Cantitate
+ADD Bursieri pollution daughter key Walker unique Michael useless Martinez
+ADD Camioane 0.2047 0.5235 0.5358 0.0625 0.1585 0.6943 0.3692 0.4760
+ADD Salarii 0.7659 0.8041 0.5144 0.1616 0.4732 0.4479
+DELETE_DB

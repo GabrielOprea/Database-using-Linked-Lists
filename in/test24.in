@@ -1,0 +1,20 @@
+INIT_DB mobilier
+CREATE Salarii FLOAT ID Salariu_baza Tip Pret/bucata
+PRINT_DB
+DELETE Salarii
+DELETE Salarii
+ADD Salarii 0.4000 0.4631 0.1551 0.7253
+PRINT Salarii
+CREATE Doctori STRING Regiune Localitate
+ADD Doctori Larry Sanders
+ADD Doctori nondescript balance
+CREATE Economie INT Restantieri
+ADD Economie 244
+ADD Salarii 0.0338 0.7488 0.2628 0.5297
+PRINT Salarii
+PRINT Economie
+ADD Economie 105
+PRINT Economie
+ADD Doctori Henderson Thompson
+ADD Doctori escape daughter
+DELETE_DB

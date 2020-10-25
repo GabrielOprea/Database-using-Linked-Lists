@@ -1,0 +1,54 @@
+TABLE: Asistenti
+Strada                         ID                             Importator                     Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Localitate                     Regiune                        Nume                           Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Doctori" does not contain column "Strada".
+DATABASE: parc_auto
+
+TABLE: Asistenti
+Strada                         ID                             Importator                     Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Walker                         Bonnie                         Martinez                       groovy                         
+
+TABLE: Elevi
+Garantie                       ID                             Prenume                        Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+sort                           view                           Anderson                       tickle                         
+Paula                          difficult                      Lopez                          approval                       
+
+TABLE: Doctori
+Localitate                     Regiune                        Nume                           Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Garantie                       ID                             Prenume                        Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+sort                           view                           Anderson                       tickle                         
+Paula                          difficult                      Lopez                          approval                       
+
+DATABASE: parc_auto
+
+TABLE: Asistenti
+Strada                         ID                             Importator                     Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Walker                         Bonnie                         Martinez                       groovy                         
+
+TABLE: Elevi
+Garantie                       ID                             Prenume                        Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+sort                           view                           Anderson                       tickle                         
+Paula                          difficult                      Lopez                          approval                       
+Evans                          crooked                        Moore                          nondescript                    
+
+TABLE: Doctori
+Localitate                     Regiune                        Nume                           Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Tara_Origine                   Localitate                     Importator                     Prenume                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+

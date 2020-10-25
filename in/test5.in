@@ -1,0 +1,10 @@
+INIT_DB parc_auto
+CREATE Linoleum INT Olimpici Disponibile
+ADD Linoleum 1 0
+SEARCH Linoleum Restantieri >= 4
+PRINT_DB
+PRINT_DB
+PRINT_DB
+ADD Linoleum 4 7
+PRINT Linoleum
+DELETE_DB

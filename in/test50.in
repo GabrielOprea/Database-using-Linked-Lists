@@ -1,0 +1,40 @@
+INIT_DB parc_auto
+CREATE Doctori STRING Strada Prenume Regiune Denumire Garantie Nume Importator
+DELETE Doctori
+PRINT Doctori
+PRINT_DB
+PRINT Doctori
+ADD Doctori apparel terrific wakeful verdant stop Thompson Howard
+PRINT Doctori
+ADD Doctori Gonzalez Henderson humorous far-flung frightened Lopez Jack
+PRINT_DB
+ADD Doctori Raymond Todd event Sandra development blade bake
+CREATE Tropicale INT ID Rezervate
+PRINT_DB
+CREATE Linoleum INT ID Societati_Comerciale Rating
+ADD Doctori hot Rogers Garcia Perez workable line rate
+PRINT Doctori
+PRINT_DB
+CREATE Studente INT Societati_Comerciale Rating Restantieri Rezervate
+CREATE Bujii INT Disponibile Cantitate Rating Marcaje ID
+PRINT Linoleum
+ADD Doctori Carter Jimmy Keith downtown Jenkins aunt trace
+CREATE Instalatii FLOAT Impozit Pret/metru Discount Tip Salariu_baza TVA Consum
+DELETE Linoleum
+PRINT_DB
+DELETE Doctori
+ADD Studente 213 197 210 169
+DELETE Tropicale
+CREATE Echipari INT Olimpici Societati_Comerciale Rating ID
+ADD Linoleum 186 177 153
+ADD Linoleum 64 18 203
+PRINT Doctori
+PRINT Doctori
+ADD Instalatii 0.8075 0.1790 0.3271 0.6308 0.2724 0.0999 0.1653
+PRINT Linoleum
+ADD Bujii 19 224 215 27 194
+ADD Echipari 43 62 86 129
+DELETE Doctori
+CREATE Economie INT Societati_Comerciale
+CREATE Salarii FLOAT Salariu_baza Discount TVA Consum ID Pret/bucata
+DELETE_DB

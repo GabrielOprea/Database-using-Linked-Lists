@@ -1,0 +1,20 @@
+INIT_DB universitate
+CREATE Balast FLOAT Salariu_baza Tip Impozit ID Total
+CREATE Obiecte FLOAT Salariu_baza
+PRINT Balast
+ADD Instalatii 0.8575 0.1576 0.7865 0.5507
+ADD Balast 0.3442 0.3010 0.8954 0.1712 0.8687
+ADD Obiecte 0.8840
+ADD Obiecte 0.3976
+PRINT_DB
+ADD Balast 0.3880 0.3270 0.7634 0.9796 0.9196
+CREATE Elevi STRING Importator Garantie Prenume Strada
+CREATE Fainoase INT Rating Nr_Defecte ID Restantieri Disponibile
+SEARCH Balast Pret/metru >= 0.8790
+PRINT_DB
+PRINT_DB
+CREATE Oameni STRING Localitate
+DELETE Elevi
+PRINT Elevi
+CREATE Uber FLOAT Pret/bucata
+DELETE_DB

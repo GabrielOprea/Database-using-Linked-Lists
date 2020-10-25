@@ -1,0 +1,174 @@
+INIT_DB universitate
+CREATE Angajati STRING Prenume Regiune Denumire Garantie Nume Tara_Origine ID Localitate
+ADD Angajati engine nondescript Bell luxuriant Kimberly Keith Gray Russell
+PRINT Angajati
+ADD Salarii 0.9283 0.0578 0.3244 0.0303 0.8021 0.0999 0.4800
+ADD Obiecte 0.7727 0.7403 0.3178 0.2217 0.1363 0.8266 0.7159
+PRINT Angajati
+PRINT Angajati
+PRINT Camioane
+DELETE Angajati Garantie < adventurous
+CREATE Instalatii FLOAT Pret/bucata Total Pret/metru Impozit ID Discount Salariu_baza
+ADD Instalatii 0.6341 0.3695 0.3648 0.6947 0.7285 0.7920 0.6808
+ADD Obiecte 0.7895 0.2594 0.9118 0.0069 0.4880 0.2181
+DELETE Instalatii
+ADD Angajati Bonnie Kelly unique synonymous unique Howard Donald Foster
+DELETE Studente Disponibile <= 172783
+ADD Instalatii 0.6088 0.3165 0.7545 0.2946 0.7998 0.6152 0.3563
+ADD Economie 476356 405268 42417 347196 316349 3479 590967 619139
+PRINT Doctori
+CREATE Uber FLOAT Consum TVA ID Impozit Tip Salariu_baza
+ADD Uber 0.9532 0.0403 0.5925 0.3488 0.9958 0.4299
+DELETE Uber Total < 0.1247
+ADD Echipari 285631 412106 402570 121771 243102 500868 411565 488879
+CREATE Masini FLOAT Consum Pret/bucata TVA Salariu_baza Total Discount ID Impozit
+CREATE Racoritoare INT Societati_Comerciale Disponibile Rating Rezervate Restantieri Cantitate Olimpici
+PRINT_DB
+CREATE Ambientale INT Rezervate Olimpici Restantieri Disponibile Nr_Defecte ID Societati_Comerciale
+SEARCH Instalatii Salariu_baza == 0.2828
+ADD Instalatii 0.0615 0.7338 0.1587 0.2231 0.9421 0.1489 0.1451
+ADD Instalatii 0.4821 0.1571 0.1244 0.1565 0.9094 0.2264 0.7288
+PRINT_DB
+ADD Echipamente reply Lewis change George Gerald frightened
+CREATE Elevi STRING ID Tara_Origine Localitate Garantie Importator Denumire Strada
+PRINT Electronice
+PRINT Racoritoare
+CREATE Bursieri STRING Importator Localitate Strada Nume Denumire Prenume ID Garantie
+DELETE Doctori ID != Patricia
+ADD Elevi Edward boat crooked Annie Kelly rustic Moore
+DELETE Uber
+PRINT Echipari
+ADD Echipari 602071 217709 268282 625425 49097 110534 448786 639645
+PRINT Bursieri
+PRINT Angajati
+ADD Masini 0.4917 0.2349 0.0350 0.9945 0.8564 0.9641 0.1066 0.8650
+DELETE Elevi
+CREATE Oameni STRING Regiune Localitate Tara_Origine ID Nume Prenume Strada
+ADD Bujii 90430 470298 69689 98251 142180 271185
+PRINT Salarii
+ADD Obiecte 0.4334 0.3209 0.2958 0.1490 0.7482 0.0733 0.5488 0.3778
+DELETE Racoritoare
+PRINT_DB
+ADD Oameni Kathryn damaging Jimmy test Griffin Hall Evans
+ADD Linoleum 577855 64993 431314 392504 620507 242118 221035
+ADD Elevi Torres Brenda screeching Stephen Brian Baker Michael
+CREATE Echipari INT Societati_Comerciale Olimpici Rating Restantieri Cantitate Marcaje Rezervate Nr_Defecte
+CREATE Doctori STRING Nume Garantie Importator ID Prenume Denumire
+PRINT_DB
+DELETE Asistenti
+PRINT Angajati
+SEARCH Uber Impozit <= 0.4815
+PRINT_DB
+DELETE Masini Pret/metru == 0.2996
+PRINT Echipari
+DELETE Balast Consum <= 0.4882
+ADD Oameni Rose shape Howard Timothy wrist Emily keen
+ADD Studente 396552 595421 500496 600193 188185 263298 122539
+CREATE Asistenti STRING Regiune Tara_Origine Prenume Garantie Denumire Localitate Strada
+ADD Oameni Carlos Rodriguez dazzling aunt Sean horrible fairies
+DELETE Balast
+ADD Racoritoare 231591 296930 492892 618006 13476 6344 449404
+PRINT Fainoase
+ADD Bursieri brush Michael Rachel rustic minor terrific Jack Jeremy
+DELETE Linoleum
+PRINT Doctori
+DELETE Oameni
+PRINT Angajati
+SEARCH Oameni Nume != rustic
+ADD Bere 0.7295 0.7825 0.6317 0.0433 0.4657 0.7648 0.9320 0.1875
+CREATE Echipamente STRING Prenume Denumire ID Tara_Origine Strada Nume Localitate
+DELETE Mirodenii
+PRINT_DB
+SEARCH Elevi Importator >= Baker
+DELETE Instalatii ID < 0.0038
+DELETE Echipamente Localitate == coat
+PRINT_DB
+ADD Doctori wakeful Keith minor Hall wasteful Sandra
+CREATE Camioane FLOAT Pret/metru Discount TVA Total Impozit Consum
+ADD Angajati live threatening Rachel afterthought keen Baker Frances Beverly
+PRINT_DB
+PRINT_DB
+CREATE Utilaje FLOAT Discount Total Consum Impozit Pret/metru Salariu_baza
+SEARCH Electronice Rating != 566667
+DELETE Salarii
+PRINT Elevi
+PRINT Masini
+PRINT Echipari
+ADD Utilaje 0.2241 0.9825 0.6591 0.2885 0.4699 0.9974
+SEARCH Racoritoare Marcaje > 285109
+ADD Studenti Adam jewel Turner Kelly Cox sort Sean
+ADD Ambientale 114881 466462 134908 434367 26259 643035 351547
+DELETE Economie Rating == 412000
+ADD Masini 0.1149 0.8301 0.5337 0.2598 0.7152 0.1850 0.4478 0.4954
+ADD Racoritoare 104495 300320 584928 64079 365517 370568 234113
+PRINT_DB
+CREATE Salarii FLOAT Salariu_baza Discount Consum Pret/metru Total Pret/bucata Impozit TVA
+PRINT Salarii
+ADD Doctori Martinez past breezy sort Jeremy Jenkins
+ADD Camioane 0.0409 0.2471 0.6996 0.6027 0.1118 0.5964
+PRINT Profesori
+ADD Masini 0.6759 0.6526 0.7432 0.8221 0.5501 0.1909 0.0006 0.8806
+PRINT Linoleum
+DELETE Angajati Denumire > meeting
+PRINT Linoleum
+ADD Echipamente Lopez Baker Henry impulse wrist Walter cry
+ADD Elevi Keith Lillian straight Hall Beverly wing Sean
+ADD Bujii 607502 145636 237676 180931 333003 515102 553050
+ADD Linoleum 186430 177072 396723 450300 567695 291429 382443 402623
+DELETE Instalatii
+ADD Elevi Larry Rose Perez Rose arm Anne Baker
+PRINT_DB
+ADD Ambientale 548621 514126 403441 441312 550622 55889 130311
+CREATE Tropicale INT Restantieri Olimpici Disponibile ID Nr_Defecte Societati_Comerciale Marcaje
+PRINT_DB
+PRINT_DB
+CREATE Obiecte FLOAT Total Pret/bucata Impozit Pret/metru Salariu_baza ID Tip Consum
+PRINT Angajati
+ADD Economie 183846 369648 123035 87683 159951 596611 514639 493075
+PRINT Angajati
+ADD Salarii 0.6959 0.0390 0.0782 0.4575 0.0472 0.2117 0.3357 0.0586
+PRINT Tropicale
+ADD Salarii 0.6719 0.4321 0.9061 0.6818 0.8788 0.6775 0.1743 0.6510
+ADD Camioane 0.2099 0.9034 0.4234 0.0372 0.7610 0.1097
+PRINT_DB
+DELETE Doctori ID != stop
+PRINT Asistenti
+DELETE Oameni
+CREATE Bujii INT Disponibile Marcaje Rezervate Rating Restantieri Cantitate Societati_Comerciale Nr_Defecte
+ADD Doctori refuse Brooks wakeful Torres carve cluttered
+ADD Oameni jewel secret ice bless Louise Griffin meeting
+PRINT Racoritoare
+PRINT_DB
+PRINT_DB
+ADD Uber 0.3419 0.8871 0.0103 0.7938 0.0501 0.1838
+PRINT_DB
+DELETE Doctori
+ADD Oameni Mark David Cox street rustic queue workable
+ADD Oameni da motionless Jonathan shape wakeful Lewis recondite
+PRINT_DB
+PRINT Oameni
+DELETE Elevi
+PRINT Tropicale
+PRINT_DB
+DELETE Instalatii Total < 0.4984
+ADD Angajati Douglas noxious Clark past Stewart Martinez credit girls
+CREATE Profesori STRING Tara_Origine Garantie Localitate Strada Regiune Denumire Nume
+DELETE Masini TVA > 0.1436
+ADD Racoritoare 3665 124718 173284 295868 529927 333588 629744
+ADD Elevi Kathryn Rose Scott bloody Jack balance impolite
+DELETE Angajati Denumire < Christina
+PRINT Ambientale
+ADD Echipari 252913 244266 331299 51650 104529 192270 150387 344379
+ADD Ambientale 310920 591148 254747 580399 74337 520684 247030
+CREATE Super_Cars STRING Tara_Origine Regiune Nume Denumire Strada Localitate Garantie Prenume
+PRINT_DB
+ADD Angajati Larry admit Kathryn Brenda escape Lois secret wrist
+PRINT Instalatii
+DELETE Asistenti Garantie == racial
+ADD Oameni Richardson dead cry hungry thoughtful Denise Anderson
+ADD Angajati handy Keith abandoned Butler delay Timothy Diane useless
+DELETE Bujii
+PRINT Utilaje
+PRINT Ambientale
+ADD Salarii 0.8883 0.7035 0.0397 0.5130 0.4794 0.5653 0.9602 0.7183
+DELETE_DB

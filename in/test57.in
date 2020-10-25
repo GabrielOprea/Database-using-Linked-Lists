@@ -1,0 +1,40 @@
+INIT_DB piese_auto
+CREATE Echipamente STRING Tara_Origine Importator Prenume Nume Denumire Localitate
+ADD Echipamente Patricia measure verdant Judith Patricia lying
+PRINT_DB
+DELETE Echipamente Importator < thoughtful
+CREATE Bursieri STRING Prenume ID Importator Nume Strada Tara_Origine Denumire
+PRINT Balast
+ADD Echipamente Patterson spiteful apparel Sandra Hill recondite
+PRINT Bursieri
+ADD Echipamente Brooks bells Evelyn bless Powell Maria
+CREATE Doctori STRING Garantie Denumire Importator Regiune Strada
+DELETE Bursieri Prenume <= marble
+PRINT Bursieri
+ADD Bursieri aunt Julia Evelyn afterthought wrist eggnog brush
+DELETE Echipamente
+ADD Bursieri Kathryn Timothy Jenkins synonymous Martinez Jimmy Rodriguez
+CREATE Salarii FLOAT Consum Discount Total ID Pret/bucata Impozit Pret/metru
+PRINT_DB
+CREATE Economie INT ID Olimpici Rezervate
+CREATE Instalatii FLOAT Total
+ADD Echipamente apparel aunt King Raymond Carter impulse
+PRINT_DB
+ADD Salarii 0.9815 0.9373 0.7504 0.0094 0.9726 0.8181 0.3799
+PRINT_DB
+PRINT Bursieri
+PRINT Doctori
+CREATE Balast FLOAT Pret/metru ID
+ADD Doctori Sean coat Turner Hernandez ice
+ADD Instalatii 0.9288
+DELETE Bursieri
+CREATE Echipari INT Olimpici Disponibile
+PRINT_DB
+PRINT_DB
+ADD Bursieri Rose Melissa Ralph snatch Mark wrist Foster
+PRINT_DB
+PRINT Balast
+PRINT Instalatii
+DELETE Bursieri
+DELETE Salarii
+DELETE_DB

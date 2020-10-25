@@ -1,0 +1,20 @@
+INIT_DB masini_fabrica
+CREATE Doctori STRING Regiune Strada Prenume Localitate
+CREATE Studenti STRING Denumire Regiune
+PRINT_DB
+DELETE Doctori ID <= Russell
+ADD Studenti Jennifer motionless
+PRINT_DB
+ADD Studenti subtract tickle
+PRINT Doctori
+ADD Doctori snatch cluttered Evelyn Edward
+SEARCH Doctori ID < tickle
+CREATE Profesori STRING Strada Localitate
+ADD Doctori Hall shape refuse Parker
+PRINT_DB
+PRINT Studenti
+ADD Profesori Anderson Lopez
+DELETE Studenti Prenume == Roberts
+ADD Studenti Jack trace
+PRINT Studenti
+DELETE_DB

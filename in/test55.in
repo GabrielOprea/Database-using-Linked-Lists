@@ -1,0 +1,40 @@
+INIT_DB componente_pc
+CREATE Fainoase INT Rating Cantitate
+PRINT_DB
+CREATE Uber FLOAT Discount Impozit Consum Tip Pret/bucata ID
+PRINT Uber
+PRINT Fainoase
+ADD Uber 0.8191 0.0538 0.2789 0.6168 0.0832 0.9184
+PRINT Fainoase
+CREATE Economie INT Restantieri Societati_Comerciale Nr_Defecte Marcaje
+PRINT Fainoase
+PRINT_DB
+PRINT Fainoase
+PRINT_DB
+SEARCH Economie Rezervate != 7
+SEARCH Fainoase ID >= 36
+CREATE Utilaje FLOAT Pret/metru ID Discount Impozit
+DELETE Economie Restantieri == 166
+CREATE Masini FLOAT Salariu_baza Pret/bucata
+DELETE Fainoase
+DELETE Bursieri Nume >= Russell
+PRINT_DB
+ADD Uber 0.7446 0.9534 0.2340 0.3168 0.9931 0.9718
+PRINT Uber
+ADD Economie 124 124 98 193
+ADD Masini 0.5882 0.7713
+CREATE Studente INT Societati_Comerciale Rating Olimpici Rezervate Restantieri Disponibile
+ADD Economie 194 132 129 56
+ADD Masini 0.3068 0.2235
+PRINT_DB
+CREATE Studenti STRING Tara_Origine Denumire Localitate Strada
+PRINT_DB
+ADD Utilaje 0.3129 0.0637 0.9642 0.5127
+PRINT Uber
+PRINT Echipari
+SEARCH Uber TVA < 0.1168
+ADD Studente 208 106 155 208 243 37
+ADD Economie 85 122 109 102
+DELETE Masini
+ADD Uber 0.2206 0.7018 0.4396 0.3995 0.5659 0.3257
+DELETE_DB

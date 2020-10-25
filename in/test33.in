@@ -1,0 +1,20 @@
+INIT_DB parc_auto
+CREATE Uber FLOAT Pret/metru Pret/bucata Consum
+CREATE Bere FLOAT TVA
+ADD Bere 0.9501
+ADD Bere 0.0785
+CREATE Super_Cars STRING Nume Regiune Garantie
+SEARCH Super_Cars Strada < Frances
+ADD Bere 0.7527
+DELETE Bere
+PRINT_DB
+PRINT Bere
+CREATE Masini FLOAT Total Pret/metru Discount Tip
+PRINT_DB
+SEARCH Masini Consum < 0.8481
+SEARCH Doctori Denumire <= bake
+SEARCH Bere Discount < 0.1464
+SEARCH Masini Salariu_baza <= 0.5658
+CREATE Bujii INT Olimpici Nr_Defecte
+ADD Uber 0.7643 0.2161 0.8458
+DELETE_DB

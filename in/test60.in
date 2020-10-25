@@ -1,0 +1,120 @@
+INIT_DB haine
+CREATE Fainoase INT Rating ID Restantieri Nr_Defecte Olimpici Cantitate Disponibile Marcaje
+CREATE Bursieri STRING Tara_Origine Nume ID Prenume Garantie Localitate Importator
+PRINT Mirodenii
+DELETE Fainoase
+PRINT Fainoase
+PRINT Fainoase
+DELETE Fainoase
+ADD Fainoase 177118 123451 278005 570046 251202 502269 496564 55436
+PRINT_DB
+DELETE Elevi Prenume > Garcia
+SEARCH Studenti Strada <= lunch
+ADD Bursieri round Roberts beef Jeremy wing beds Kathleen
+CREATE Super_Cars STRING Localitate Denumire Garantie Importator ID Regiune Prenume Nume
+ADD Super_Cars loss Baker cluttered lying yellow Janet John Diana
+SEARCH Super_Cars Importator < humorous
+DELETE Bursieri Garantie > live
+DELETE Mirodenii
+PRINT_DB
+CREATE Profesori STRING ID Importator Garantie Prenume Regiune Tara_Origine
+ADD Doctori Timothy Randy Parker Mitchell berry beds
+CREATE Masini FLOAT Impozit Consum Pret/metru Total Salariu_baza TVA Discount
+PRINT Bere
+ADD Masini 0.2076 0.2280 0.7197 0.5771 0.5043 0.3239 0.5972
+PRINT Fainoase
+DELETE Profesori Regiune != balance
+PRINT Profesori
+DELETE Fainoase
+DELETE Bursieri
+CREATE Linoleum INT Cantitate Disponibile Rating Rezervate Marcaje Nr_Defecte
+PRINT_DB
+PRINT Bursieri
+DELETE Fainoase Disponibile >= 389358
+DELETE Masini Discount >= 0.8140
+PRINT_DB
+ADD Bursieri nondescript Diane guarded recondite Turner Martinez ask
+ADD Linoleum 471225 162868 403267 245726 31148 59538
+ADD Bursieri wakeful jewel Lopez nu uptight Torres dazzling
+PRINT Linoleum
+ADD Profesori Mark Jenkins Randy Ralph Barnes Kimberly
+SEARCH Bursieri Importator != Ward
+CREATE Bere FLOAT Consum Impozit TVA Total Pret/metru Salariu_baza
+CREATE Tropicale INT Restantieri Olimpici Nr_Defecte Rezervate Cantitate Marcaje
+CREATE Uber FLOAT Tip Impozit Consum Pret/metru Pret/bucata Salariu_baza
+ADD Uber 0.5985 0.1166 0.6253 0.9983 0.9015 0.6807
+SEARCH Masini ID >= 0.9496
+CREATE Elevi STRING ID Tara_Origine Denumire Regiune Nume Importator
+DELETE Linoleum
+PRINT Bere
+CREATE Studenti STRING Localitate Denumire Tara_Origine Regiune Nume Garantie
+PRINT Masini
+ADD Tropicale 332511 598005 199778 190355 563750 345354
+PRINT_DB
+SEARCH Echipari Rating > 109107
+DELETE Tropicale
+SEARCH Super_Cars Nume < Lois
+PRINT Elevi
+DELETE Profesori
+SEARCH Electronice Marcaje >= 381095
+ADD Fainoase 21897 501903 378605 527936 445980 198931 494349 522368
+CREATE Ambientale INT ID Rating Marcaje Disponibile Restantieri Rezervate
+DELETE Linoleum
+ADD Linoleum 286967 207271 278120 340556 129724 1307
+PRINT Super_Cars
+ADD Asistenti Thompson Sean past Ramirez nu building Rose round
+ADD Fainoase 183528 65172 17728 208599 646848 365493 620252 16306
+CREATE Electronice INT Disponibile Cantitate Marcaje Societati_Comerciale Rating Rezervate Restantieri ID
+ADD Fainoase 100549 433041 298258 438782 108610 385649 627494 628285
+DELETE Electronice
+PRINT_DB
+PRINT_DB
+CREATE Camioane FLOAT ID Pret/metru Discount Total Consum Pret/bucata
+PRINT Ambientale
+PRINT Camioane
+ADD Ambientale 508305 604273 426693 34926 435328 490056
+SEARCH Studenti Nume < Smith
+ADD Masini 0.4866 0.5573 0.5212 0.4079 0.9904 0.0173 0.4198
+PRINT_DB
+CREATE Utilaje FLOAT Total Salariu_baza TVA ID Consum Discount Impozit
+DELETE Ambientale
+ADD Utilaje 0.3626 0.6710 0.1370 0.9454 0.1320 0.1528 0.7782
+DELETE Utilaje
+CREATE Economie INT Olimpici Societati_Comerciale Disponibile Cantitate Rezervate Restantieri ID Rating
+PRINT_DB
+ADD Fainoase 179516 468697 501986 40837 583265 19398 61152 317327
+ADD Bujii 185099 322275 542738 23336 141824 300579
+PRINT Elevi
+ADD Economie 285311 497831 437170 564965 367656 104132 39033 165550
+ADD Studenti nice Jenkins Christina Coleman Gray admit
+ADD Tropicale 202916 165131 207068 373707 336153 444243
+CREATE Obiecte FLOAT Impozit ID Pret/metru TVA Total Discount Tip
+ADD Elevi wasteful luxuriant Anthony Edwards jewel Joyce
+ADD Camioane 0.8181 0.0785 0.2944 0.1177 0.8287 0.2884
+PRINT Racoritoare
+PRINT_DB
+PRINT_DB
+ADD Utilaje 0.3382 0.2845 0.4173 0.0122 0.4931 0.7006 0.5086
+PRINT Obiecte
+SEARCH Tropicale Disponibile >= 154264
+PRINT_DB
+PRINT Fainoase
+PRINT Super_Cars
+PRINT Linoleum
+DELETE Ambientale Cantitate <= 200869
+ADD Uber 0.2283 0.9796 0.7854 0.5906 0.4125 0.1648
+ADD Tropicale 487069 218557 599756 124317 89063 545050
+PRINT Asistenti
+DELETE Profesori
+DELETE Tropicale Cantitate < 559173
+PRINT_DB
+PRINT_DB
+PRINT_DB
+CREATE Echipamente STRING Importator Garantie Denumire Localitate Regiune Nume
+CREATE Asistenti STRING Tara_Origine ID Importator Nume Prenume Localitate Strada
+ADD Tropicale 582728 121038 209511 528803 12594 1468
+PRINT Bere
+ADD Fainoase 227151 553547 316097 201250 20653 541788 368239 18157
+SEARCH Masini Total <= 0.8313
+PRINT Camioane
+DELETE_DB

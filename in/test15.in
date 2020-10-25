@@ -1,0 +1,10 @@
+INIT_DB universitate
+CREATE Mirodenii FLOAT Pret/bucata Impozit ID
+CREATE Obiecte FLOAT Pret/bucata
+ADD Obiecte 0.6686
+PRINT Mirodenii
+CREATE Echipamente STRING Tara_Origine Nume Importator
+CREATE Doctori STRING Garantie Localitate
+PRINT_DB
+ADD Obiecte 0.7257
+DELETE_DB

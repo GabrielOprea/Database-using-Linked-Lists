@@ -1,0 +1,10 @@
+INIT_DB parc_auto
+CREATE Uber FLOAT ID TVA
+ADD Super_Cars Green luxuriant
+PRINT Uber
+ADD Uber 0.1120 0.3818
+CREATE Utilaje FLOAT Salariu_baza ID
+DELETE Uber
+ADD Utilaje 0.1027 0.0417
+ADD Uber 0.2555 0.7179
+DELETE_DB

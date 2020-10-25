@@ -1,0 +1,172 @@
+INIT_DB restaurant
+CREATE Oameni STRING Denumire Garantie Tara_Origine Nume Importator Regiune
+DELETE Oameni
+DELETE Balast
+SEARCH Elevi ID >= Carlos
+PRINT Echipari
+CREATE Elevi STRING Regiune Tara_Origine Garantie Importator Denumire Nume
+PRINT Elevi
+PRINT Asistenti
+CREATE Bursieri STRING ID Tara_Origine Garantie Nume Prenume Regiune
+CREATE Echipamente STRING Denumire Nume Prenume Regiune Tara_Origine Strada Localitate ID
+CREATE Echipari INT Rezervate Nr_Defecte Rating Restantieri ID Cantitate Olimpici Disponibile
+ADD Utilaje 0.2421 0.4785 0.1179 0.8379 0.4391 0.1885 0.4543 0.8875
+ADD Super_Cars Foster rich Anderson Howard Anne Paula Butler uptight
+PRINT Salarii
+PRINT_DB
+ADD Oameni Lisa Patrick remind Perez Henderson Cox
+ADD Super_Cars Denise Diane Rivera lying Bell Patricia Stephen Cox
+PRINT Elevi
+CREATE Angajati STRING Nume ID Prenume Localitate Strada Regiune Importator Tara_Origine
+PRINT Oameni
+ADD Bere 0.2896 0.8772 0.3702 0.2164 0.3743 0.1157 0.6023 0.5306
+DELETE Echipari Nr_Defecte >= 296354
+ADD Echipamente Collins hungry Louise Brown society Lois Garcia Patterson
+PRINT Doctori
+PRINT_DB
+DELETE Oameni Garantie == Martin
+DELETE Angajati Garantie >= Anderson
+PRINT Echipamente
+PRINT Masini
+ADD Bursieri secret impolite ask Lillian Henry sin
+PRINT_DB
+PRINT_DB
+ADD Tropicale 476675 618210 545372 445885 75235 414400
+DELETE Studenti
+ADD Oameni damaging Judith Brian aunt lying Maria
+PRINT_DB
+SEARCH Elevi Tara_Origine != Mitchell
+DELETE Studenti Nume <= Barnes
+ADD Oameni Julia Cox impossible Earl Scott Lewis
+ADD Oameni Linda street Lillian Louise street Carlos
+PRINT_DB
+SEARCH Bujii Marcaje < 594304
+ADD Oameni thoughtful wrist Evelyn Robert summer Ward
+ADD Linoleum 32687 172469 416123 296647 636925 407058 364605
+DELETE Camioane Impozit != 0.0920
+ADD Bursieri wasteful Bell Kathryn Sara round synonymous
+PRINT Echipamente
+CREATE Ambientale INT Restantieri Disponibile Societati_Comerciale Rezervate Rating Marcaje
+DELETE Bursieri Prenume >= Parker
+CREATE Doctori STRING Prenume ID Denumire Garantie Tara_Origine Importator
+PRINT Doctori
+PRINT_DB
+DELETE Elevi
+SEARCH Balast Impozit != 0.1005
+PRINT Studenti
+CREATE Super_Cars STRING Strada ID Nume Denumire Regiune Prenume Garantie
+ADD Bere 0.4050 0.0814 0.1277 0.1280 0.3574 0.9488 0.7294 0.6521
+ADD Utilaje 0.8026 0.6290 0.8048 0.2230 0.7609 0.5355 0.1319
+PRINT Bursieri
+PRINT Super_Cars
+DELETE Uber Tip >= 0.5061
+CREATE Instalatii FLOAT Discount Pret/metru Pret/bucata Impozit Total ID Tip Consum
+CREATE Electronice INT ID Rezervate Restantieri Marcaje Disponibile Cantitate Olimpici Societati_Comerciale
+ADD Bujii 527818 182659 304393 500961 324140 591817
+ADD Angajati Foster Foster Baker Lopez Mark credit Diane Long
+ADD Tropicale 327979 331329 126295 356434 28431 548138 441301
+CREATE Camioane FLOAT Salariu_baza Consum Impozit Pret/bucata ID Discount TVA Total
+PRINT Ambientale
+ADD Electronice 475034 429707 550674 521281 237151 81545 158712 276784
+PRINT Echipamente
+ADD Obiecte 0.8766 0.3454 0.1493 0.8323 0.3611 0.0702
+ADD Linoleum 226403 547675 399851 502307 550503 134891 101006 327758
+ADD Ambientale 380495 63172 377141 308229 401730 231333
+CREATE Studente INT Nr_Defecte Rating Cantitate Societati_Comerciale Rezervate Marcaje
+ADD Echipari 314052 401192 366234 61399 310861 168364 142399 402682
+CREATE Bere FLOAT Discount Total TVA ID Consum Salariu_baza
+PRINT Utilaje
+PRINT_DB
+DELETE Echipari
+ADD Utilaje 0.9892 0.3969 0.0441 0.1225 0.3459 0.7671
+PRINT Electronice
+DELETE Studenti Strada != stop
+ADD Electronice 585772 523690 10524 339403 88691 512803 294103 71173
+PRINT_DB
+ADD Studente 202401 276620 138564 315893 553573 81144
+PRINT Angajati
+ADD Masini 0.1289 0.9988 0.8907 0.0054 0.8941 0.8272 0.5633
+ADD Angajati Jane Louise event Louise Mary profuse Edward secret
+ADD Camioane 0.4423 0.5653 0.4901 0.2422 0.0775 0.3507 0.7914 0.3877
+ADD Studente 106295 265596 97922 275045 483290 48476
+PRINT Tropicale
+PRINT_DB
+DELETE Echipamente Denumire == Coleman
+ADD Ambientale 422605 169737 28917 347746 647356 406110
+PRINT_DB
+ADD Oameni aunt impolite minor Russell Mitchell Coleman
+CREATE Profesori STRING ID Prenume Nume Importator Garantie Denumire Strada
+DELETE Mirodenii Pret/metru <= 0.9329
+PRINT_DB
+PRINT Instalatii
+PRINT Bere
+PRINT_DB
+ADD Ambientale 72553 643621 388896 645364 201852 333364
+ADD Instalatii 0.2490 0.4585 0.1740 0.3205 0.6292 0.4014 0.3607 0.2223
+PRINT_DB
+PRINT Bursieri
+PRINT Doctori
+PRINT Elevi
+ADD Electronice 590847 619609 650527 577033 391377 488601 436866 497990
+PRINT Ambientale
+PRINT Electronice
+ADD Elevi ugly Edward Paula Ralph Jane Gonzales
+CREATE Linoleum INT Societati_Comerciale Restantieri Marcaje Olimpici Cantitate ID Disponibile
+PRINT Linoleum
+PRINT_DB
+ADD Studente 573769 555624 74249 294929 289831 579494
+PRINT Camioane
+PRINT_DB
+DELETE Ambientale
+CREATE Racoritoare INT Nr_Defecte ID Olimpici Restantieri Disponibile Cantitate Rating
+PRINT Super_Cars
+CREATE Salarii FLOAT Impozit Discount TVA Pret/metru Salariu_baza Tip Pret/bucata
+PRINT_DB
+SEARCH Studente Marcaje <= 282758
+SEARCH Uber Discount != 0.4482
+PRINT Asistenti
+PRINT_DB
+PRINT_DB
+ADD Angajati lock Kathryn tickle Diana Jennifer girls wing Gonzales
+ADD Electronice 471309 246428 390508 354878 330355 312376 262293 448757
+ADD Fainoase 218872 362429 321724 602212 125019 582714 226642
+SEARCH Bursieri Garantie <= ugly
+CREATE Asistenti STRING ID Nume Tara_Origine Prenume Regiune Localitate Garantie
+ADD Obiecte 0.4094 0.0190 0.1016 0.0722 0.3337 0.1710
+PRINT Bursieri
+PRINT Studenti
+ADD Asistenti approval blade Rose Gonzalez event squeal green
+PRINT Echipamente
+ADD Electronice 196064 197133 190733 582320 117720 36829 463764 512531
+PRINT_DB
+PRINT_DB
+ADD Linoleum 619327 2108 497671 264008 280494 606903 345713
+ADD Bursieri Parker bless vest Ann lying Richardson
+ADD Instalatii 0.2684 0.2964 0.3863 0.6052 0.3423 0.5170 0.1484 0.8164
+SEARCH Studente Marcaje != 241077
+PRINT_DB
+PRINT Racoritoare
+ADD Instalatii 0.3222 0.6099 0.4195 0.2595 0.7899 0.7285 0.9753 0.9716
+PRINT Electronice
+PRINT Bursieri
+PRINT_DB
+PRINT_DB
+ADD Bursieri Cook carve snatch Perry impolite yellow
+PRINT Studenti
+SEARCH Instalatii Pret/metru != 0.6556
+ADD Echipari 95768 261998 493271 16194 560462 261005 300260 591457
+SEARCH Mirodenii Pret/metru < 0.9474
+SEARCH Super_Cars Denumire != eggnog
+ADD Instalatii 0.6019 0.3996 0.2830 0.9270 0.6958 0.9980 0.9197 0.0336
+PRINT Echipari
+ADD Bere 0.2675 0.9405 0.6710 0.6029 0.7586 0.3042
+SEARCH Echipamente Tara_Origine != Patterson
+PRINT Linoleum
+ADD Echipari 233719 511637 333167 474147 128322 37630 206077 564293
+SEARCH Racoritoare Disponibile >= 533648
+ADD Bujii 480133 205430 122443 188561 305792 515145
+SEARCH Instalatii ID > 0.8255
+ADD Echipari 56189 548676 435682 178146 329281 98578 18792 241544
+SEARCH Oameni Garantie == Parker
+PRINT_DB
+DELETE_DB

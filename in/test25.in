@@ -1,0 +1,20 @@
+INIT_DB mobilier
+CREATE Camioane FLOAT Tip Pret/metru ID Salariu_baza Pret/bucata
+PRINT_DB
+ADD Camioane 0.0917 0.9482 0.3598 0.8310 0.2631
+CREATE Ambientale INT Rezervate
+PRINT Camioane
+ADD Ambientale 133
+PRINT Uber
+SEARCH Profesori Localitate > hour
+SEARCH Camioane ID <= 0.3355
+PRINT Ambientale
+PRINT_DB
+ADD Camioane 0.4983 0.6101 0.9852 0.9047 0.1856
+ADD Ambientale 105
+CREATE Utilaje FLOAT ID Salariu_baza
+SEARCH Utilaje Pret/metru >= 0.8871
+ADD Camioane 0.3709 0.4937 0.4442 0.5496 0.8820
+DELETE Ambientale Cantitate == 110
+ADD Utilaje 0.3938 0.1502
+DELETE_DB

@@ -1,0 +1,10 @@
+INIT_DB florarie
+CREATE Electronice INT Olimpici
+CREATE Instalatii FLOAT ID Total Pret/bucata
+ADD Instalatii 0.2569 0.4540 0.2076
+PRINT_DB
+PRINT_DB
+CREATE Obiecte FLOAT Tip Consum
+ADD Instalatii 0.1374 0.5071 0.7361
+CREATE Echipari INT Societati_Comerciale Olimpici Disponibile
+DELETE_DB

@@ -1,0 +1,40 @@
+INIT_DB universitate
+CREATE Linoleum INT ID
+CREATE Utilaje FLOAT Tip Pret/metru
+CREATE Asistenti STRING Nume Importator Garantie
+PRINT Oameni
+CREATE Obiecte FLOAT TVA
+CREATE Ambientale INT Olimpici Restantieri ID Marcaje Nr_Defecte Rating
+PRINT Obiecte
+PRINT Obiecte
+CREATE Angajati STRING ID
+ADD Angajati guarded
+ADD Obiecte 0.4527
+PRINT Ambientale
+PRINT Asistenti
+PRINT_DB
+SEARCH Utilaje Discount < 0.2626
+DELETE Angajati
+PRINT Masini
+PRINT Ambientale
+PRINT Obiecte
+ADD Ambientale 172 232 28 252 72 37
+ADD Asistenti Ward Brenda Cox
+SEARCH Ambientale Societati_Comerciale != 98
+ADD Ambientale 10 95 113 219 65 108
+PRINT_DB
+DELETE Obiecte
+ADD Utilaje 0.0487 0.1992
+ADD Utilaje 0.9249 0.2669
+ADD Linoleum 159
+ADD Angajati Gonzales
+PRINT Utilaje
+PRINT Angajati
+PRINT_DB
+PRINT Linoleum
+ADD Obiecte 0.3616
+CREATE Economie INT Societati_Comerciale Restantieri Disponibile
+PRINT_DB
+PRINT Ambientale
+CREATE Tropicale INT Rating
+DELETE_DB

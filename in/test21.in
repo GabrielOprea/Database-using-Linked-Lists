@@ -1,0 +1,20 @@
+INIT_DB parc_auto
+CREATE Asistenti STRING Strada ID Importator Localitate
+CREATE Elevi STRING Garantie ID Prenume Regiune
+PRINT Asistenti
+CREATE Doctori STRING Localitate Regiune Nume Prenume
+PRINT Doctori
+ADD Elevi sort view Anderson tickle
+SEARCH Doctori Strada == Henderson
+ADD Elevi Paula difficult Lopez approval
+ADD Asistenti Walker Bonnie Martinez groovy
+PRINT_DB
+PRINT Elevi
+DELETE Doctori Localitate < Martinez
+ADD Elevi Evans crooked Moore nondescript
+PRINT_DB
+ADD Elevi bells Lewis Cox horrible
+CREATE Angajati STRING Tara_Origine Localitate Importator Prenume Strada
+PRINT Angajati
+ADD Angajati Keith Lillian uptight Larry Julia
+DELETE_DB

@@ -1,0 +1,121 @@
+INIT_DB mobilier
+CREATE Salarii FLOAT Tip Impozit Discount TVA Total Salariu_baza Pret/metru Consum
+PRINT_DB
+ADD Salarii 0.0519 0.6640 0.8474 0.9571 0.5373 0.0510 0.7597 0.4276
+ADD Salarii 0.3584 0.3276 0.3990 0.8494 0.4761 0.6465 0.4296 0.4767
+PRINT_DB
+ADD Salarii 0.1835 0.8001 0.5009 0.2133 0.9579 0.8413 0.0578 0.9232
+PRINT_DB
+PRINT Salarii
+PRINT_DB
+ADD Bursieri pet Moore Richardson Adams handy impulse
+PRINT Salarii
+CREATE Oameni STRING Denumire Nume ID Localitate Importator Prenume Regiune Garantie
+CREATE Bursieri STRING Importator Localitate Denumire Prenume Strada Garantie Nume
+PRINT_DB
+ADD Salarii 0.3705 0.4454 0.2085 0.8884 0.0326 0.4297 0.7356 0.6845
+PRINT Profesori
+ADD Salarii 0.8797 0.5393 0.0546 0.5165 0.9089 0.3307 0.4990 0.1373
+PRINT_DB
+CREATE Studente INT Nr_Defecte Restantieri Rating Rezervate Marcaje Societati_Comerciale
+DELETE Obiecte Impozit != 0.7892
+ADD Oameni Henry pet green afterthought keen downtown Thompson Barnes
+CREATE Utilaje FLOAT TVA Consum Total Pret/metru Pret/bucata Impozit Discount ID
+PRINT_DB
+ADD Salarii 0.6469 0.8225 0.1557 0.7009 0.4236 0.2322 0.4519 0.2849
+ADD Bursieri Frances building rustic Jack reply Gonzalez Phillip
+ADD Utilaje 0.2604 0.2024 0.2745 0.9332 0.4973 0.9187 0.2554 0.7114
+CREATE Instalatii FLOAT TVA Total Salariu_baza Impozit ID Pret/metru Tip
+ADD Salarii 0.0223 0.2333 0.7226 0.2628 0.8693 0.2933 0.9699 0.0516
+ADD Oameni smash Paula Hill Kathryn escape Garcia Parker house
+PRINT Instalatii
+ADD Bursieri nu Evelyn Hall Jerry Lois Gerald Parker
+CREATE Electronice INT Marcaje Disponibile Olimpici Rezervate Cantitate Societati_Comerciale Rating
+DELETE Utilaje
+CREATE Bujii INT Olimpici Marcaje Restantieri Rezervate Rating ID Nr_Defecte
+ADD Bursieri Kathryn Garcia Bonnie beef ice breezy Turner
+ADD Studente 37494 28015 366267 102567 336531 206275
+CREATE Bere FLOAT Discount Pret/bucata Impozit Pret/metru ID Salariu_baza Total
+PRINT Utilaje
+PRINT Studente
+SEARCH Studente Societati_Comerciale >= 545787
+ADD Salarii 0.4124 0.5072 0.4768 0.5256 0.3957 0.4238 0.2913 0.8932
+DELETE Studente
+PRINT Ambientale
+ADD Oameni crooked Keith Baker Kelly Christina Janet Jenkins Russell
+PRINT Masini
+ADD Bujii 267330 581290 506666 381996 628945 131881 177490
+ADD Masini 0.7061 0.4920 0.1197 0.2125 0.6690 0.3022 0.7647 0.4056
+ADD Instalatii 0.8526 0.0659 0.8538 0.2431 0.1430 0.0386 0.3645
+ADD Instalatii 0.4869 0.9164 0.8591 0.7978 0.1560 0.0899 0.7345
+ADD Studente 388257 34231 138123 471423 336296 83093
+ADD Oameni Carlos far-flung Ward Patricia Lopez crooked Keith balance
+PRINT_DB
+ADD Electronice 280493 531619 273649 285831 479525 375578 19459
+CREATE Racoritoare INT Societati_Comerciale Rezervate Marcaje Olimpici Cantitate Restantieri Disponibile
+PRINT_DB
+ADD Bujii 407827 41838 390685 180593 255761 233252 561334
+ADD Racoritoare 378768 558550 473110 93134 80313 414628 532260
+CREATE Balast FLOAT ID Salariu_baza Discount Impozit Pret/bucata Consum TVA
+DELETE Studenti
+ADD Bere 0.5536 0.1932 0.1557 0.6695 0.3428 0.6547 0.3064
+ADD Instalatii 0.1277 0.5549 0.9811 0.1739 0.3126 0.4216 0.8031
+PRINT Utilaje
+ADD Bujii 249271 135736 550101 485972 47071 612667 297510
+ADD Instalatii 0.4285 0.9907 0.2128 0.4673 0.2203 0.6497 0.0408
+ADD Economie 588423 371608 466609 51914 635507 472600 592868 641967
+ADD Bujii 14434 87691 571261 450824 350092 135695 47187
+PRINT Camioane
+ADD Instalatii 0.4496 0.4590 0.9433 0.2692 0.3693 0.2781 0.7047
+DELETE Balast
+DELETE Utilaje
+PRINT_DB
+SEARCH Echipari Rating <= 611161
+ADD Bere 0.4637 0.0191 0.5016 0.2998 0.2396 0.7727 0.2874
+PRINT Bujii
+ADD Bere 0.4060 0.0017 0.3842 0.8625 0.6347 0.3977 0.8738
+ADD Studente 152832 243079 224942 474710 285189 164683
+ADD Instalatii 0.3681 0.1406 0.1297 0.9599 0.6797 0.7482 0.3424
+PRINT Utilaje
+CREATE Elevi STRING Localitate ID Garantie Regiune Tara_Origine Strada Nume
+ADD Bujii 621461 364020 496885 280821 511963 430567 388239
+ADD Studente 472853 442133 437086 506153 534764 432171
+SEARCH Ambientale Disponibile > 471087
+PRINT_DB
+ADD Electronice 208061 499663 544871 187907 595149 128463 269075
+ADD Utilaje 0.8739 0.4510 0.9665 0.4050 0.5717 0.2747 0.5955 0.3777
+DELETE Uber
+ADD Racoritoare 5539 487746 486642 47297 551845 132285 296547
+PRINT_DB
+ADD Elevi pet Jack Jeremy admit Gregory profuse line
+SEARCH Oameni Prenume >= Ward
+CREATE Tropicale INT Restantieri Marcaje Nr_Defecte Olimpici Rating Societati_Comerciale Disponibile Cantitate
+SEARCH Utilaje Pret/bucata != 0.1671
+CREATE Studenti STRING Localitate Regiune ID Denumire Nume Importator
+PRINT Profesori
+ADD Utilaje 0.7678 0.2305 0.2395 0.8494 0.1283 0.3355 0.0842 0.6031
+DELETE Oameni
+PRINT Studenti
+ADD Echipari 579906 360213 388052 291979 330827 185907
+ADD Utilaje 0.5125 0.6577 0.3635 0.4939 0.5129 0.1805 0.7531 0.6715
+ADD Bujii 275217 446038 250415 46579 67573 499596 79255
+PRINT Bujii
+CREATE Echipamente STRING Importator Tara_Origine Localitate Prenume Strada ID Nume
+ADD Electronice 628175 269685 26236 265962 614104 357034 522442
+ADD Instalatii 0.5865 0.7071 0.4535 0.3443 0.2315 0.9985 0.0649
+DELETE Utilaje Discount <= 0.2020
+PRINT_DB
+CREATE Fainoase INT Marcaje Cantitate Rezervate Olimpici Rating Societati_Comerciale ID
+ADD Balast 0.5910 0.0525 0.2563 0.7100 0.8406 0.1513 0.3457
+ADD Balast 0.9802 0.9968 0.8877 0.1053 0.4407 0.9568 0.8904
+ADD Oameni Denise Patricia Gray impossible Joyce Bonnie summer key
+ADD Studente 618300 225830 4773 195896 378202 222097
+ADD Bujii 356363 653884 318596 570478 47853 242331 488470
+ADD Balast 0.7988 0.0220 0.9341 0.2994 0.0212 0.8617 0.3145
+PRINT_DB
+PRINT_DB
+DELETE Instalatii
+PRINT Studenti
+PRINT_DB
+CREATE Angajati STRING Prenume Garantie Regiune Tara_Origine ID Nume Denumire
+DELETE_DB

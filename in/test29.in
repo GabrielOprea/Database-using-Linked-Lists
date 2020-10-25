@@ -1,0 +1,20 @@
+INIT_DB site_de_socializare
+CREATE Elevi STRING Importator Regiune Garantie Denumire
+ADD Elevi Cox apparel Melissa grade
+PRINT_DB
+PRINT_DB
+CREATE Camioane FLOAT Pret/metru Total TVA Salariu_baza
+ADD Camioane 0.8931 0.5230 0.1780 0.2424
+ADD Camioane 0.9667 0.9819 0.3593 0.5229
+CREATE Super_Cars STRING Garantie Tara_Origine ID Localitate Prenume
+ADD Super_Cars sin Joyce Earl blind bake
+SEARCH Elevi Prenume == terrific
+ADD Bere 0.9822 0.0263 0.0897
+ADD Super_Cars Patrick Coleman Lois balance wing
+CREATE Studente INT Nr_Defecte Rating Marcaje Societati_Comerciale Olimpici
+PRINT_DB
+ADD Studente 98 141 144 164 114
+PRINT Elevi
+ADD Bujii 199 188 63 91
+PRINT Super_Cars
+DELETE_DB

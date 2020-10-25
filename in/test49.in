@@ -1,0 +1,40 @@
+INIT_DB mobilier
+CREATE Utilaje FLOAT ID Discount Tip Salariu_baza Impozit Consum Pret/bucata
+ADD Utilaje 0.4178 0.2542 0.3712 0.9876 0.1722 0.9389 0.0272
+CREATE Doctori STRING Nume Strada Regiune Denumire
+CREATE Uber FLOAT Salariu_baza TVA Discount
+PRINT_DB
+CREATE Profesori STRING Tara_Origine
+SEARCH Utilaje Consum <= 0.0073
+CREATE Studenti STRING Localitate Garantie ID Denumire Regiune Importator
+SEARCH Utilaje ID != 0.9655
+ADD Doctori unique bells Ann Anderson
+DELETE Utilaje Impozit > 0.3258
+CREATE Electronice INT ID Marcaje Disponibile Rezervate Restantieri
+PRINT_DB
+PRINT Profesori
+ADD Utilaje 0.3402 0.1362 0.4704 0.8708 0.4311 0.3358 0.6742
+ADD Profesori apparel
+DELETE Doctori
+ADD Profesori eggnog
+ADD Super_Cars line da Earl
+CREATE Balast FLOAT Pret/bucata Total Pret/metru
+ADD Electronice 225 114 173 52 171
+PRINT_DB
+PRINT Studente
+SEARCH Doctori Localitate > Beverly
+SEARCH Balast Total > 0.6343
+CREATE Camioane FLOAT ID
+ADD Utilaje 0.9094 0.5383 0.2924 0.8974 0.3393 0.5486 0.2042
+CREATE Super_Cars STRING Regiune Strada Prenume Tara_Origine Denumire Garantie Importator
+ADD Electronice 0 94 238 12 252
+PRINT_DB
+PRINT Balast
+DELETE Uber
+DELETE Utilaje
+CREATE Studente INT Societati_Comerciale Marcaje Restantieri Nr_Defecte
+PRINT Electronice
+PRINT Electronice
+ADD Studenti apathetic Ralph blade Gonzalez bake wing
+ADD Balast 0.1211 0.9743 0.9785
+DELETE_DB

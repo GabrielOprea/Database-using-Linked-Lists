@@ -1,0 +1,20 @@
+INIT_DB componente_pc
+CREATE Elevi STRING Prenume
+CREATE Economie INT Disponibile Marcaje
+ADD Economie 215 9
+PRINT_DB
+CREATE Oameni STRING ID Nume Importator
+CREATE Super_Cars STRING Denumire Strada Regiune Nume Localitate
+ADD Oameni alcoholic limit Alexander
+PRINT Oameni
+CREATE Profesori STRING Importator Denumire
+ADD Super_Cars afterthought line probable Lewis Joyce
+ADD Economie 57 198
+PRINT Oameni
+ADD Profesori Andrea Edward
+CREATE Obiecte FLOAT Pret/metru Salariu_baza Impozit ID Pret/bucata
+ADD Profesori Gray useless
+ADD Oameni Parker test downtown
+SEARCH Economie Societati_Comerciale <= 153
+ADD Economie 74 141
+DELETE_DB

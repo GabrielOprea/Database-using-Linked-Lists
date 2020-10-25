@@ -1,0 +1,10 @@
+INIT_DB universitate
+CREATE Elevi STRING Tara_Origine Regiune
+ADD Elevi Sanders jewel
+DELETE Mirodenii Impozit >= 0.4539
+ADD Elevi Howard threatening
+CREATE Uber FLOAT Total
+CREATE Bursieri STRING Importator
+PRINT Elevi
+ADD Uber 0.0280
+DELETE_DB

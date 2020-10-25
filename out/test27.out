@@ -1,0 +1,41 @@
+Table "Masini" does not contain column "Impozit".
+Table "Salarii" does not contain column "Consum".
+TABLE: Masini
+Tip                            
+------------------------------ 
+
+TABLE: Economie
+Olimpici                       
+------------------------------ 
+
+Table "Salarii" does not contain column "Discount".
+TABLE: Electronice
+Disponibile                    
+------------------------------ 
+
+Table "Economie" does not contain column "Nr_Defecte".
+DATABASE: florarie
+
+TABLE: Salarii
+Total                          Impozit                        
+------------------------------ ------------------------------ 
+0.247300                       0.105100                       
+
+TABLE: Masini
+Tip                            
+------------------------------ 
+0.711700                       
+
+TABLE: Electronice
+Disponibile                    
+------------------------------ 
+58                             
+
+TABLE: Economie
+Olimpici                       
+------------------------------ 
+
+TABLE: Elevi
+Regiune                        Nume                           Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+

@@ -1,0 +1,10 @@
+INIT_DB site_de_socializare
+CREATE Tropicale INT ID Olimpici
+DELETE Tropicale
+PRINT Tropicale
+ADD Tropicale 3 3
+PRINT_DB
+CREATE Oameni STRING Garantie Nume Prenume
+ADD Tropicale 7 4
+ADD Oameni Todd Larry motionless
+DELETE_DB

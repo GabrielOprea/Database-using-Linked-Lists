@@ -1,0 +1,126 @@
+INIT_DB farmacie
+CREATE Mirodenii FLOAT Pret/metru Total Salariu_baza Consum Impozit TVA Discount Tip
+ADD Mirodenii 0.0317 0.1304 0.9676 0.3557 0.0882 0.3546 0.3129 0.0933
+CREATE Elevi STRING Localitate Prenume Tara_Origine Denumire Strada ID Nume Garantie
+CREATE Bujii INT Marcaje ID Cantitate Disponibile Nr_Defecte Rezervate
+ADD Camioane 0.2628 0.8076 0.0081 0.6321 0.9880 0.7795 0.7952
+DELETE Elevi
+ADD Mirodenii 0.1541 0.6750 0.8447 0.4095 0.6931 0.2963 0.0403 0.2303
+ADD Mirodenii 0.3968 0.9445 0.5549 0.5867 0.4224 0.3739 0.1633 0.7290
+DELETE Bujii ID <= 179595
+ADD Masini 0.3418 0.0827 0.7216 0.6831 0.3791 0.8022 0.1628
+DELETE Elevi Garantie <= vest
+CREATE Utilaje FLOAT Pret/bucata ID Consum Impozit TVA Discount Pret/metru
+PRINT Mirodenii
+ADD Mirodenii 0.9410 0.6076 0.3247 0.5064 0.1814 0.1380 0.3285 0.3540
+SEARCH Elevi Localitate == synonymous
+PRINT Mirodenii
+PRINT Elevi
+ADD Bujii 363889 565023 100487 298320 438896 342277
+ADD Elevi vest Foster Anne continue Kathryn jewel Jack Martinez
+ADD Bujii 564423 199327 61515 477648 369169 90730
+SEARCH Bujii ID <= 403851
+PRINT Elevi
+ADD Elevi Lillian evasive Gray rich ugly breezy Kathryn Parker
+ADD Bujii 553029 540528 150057 409223 501743 575452
+ADD Bere 0.3874 0.1188 0.4215 0.1082 0.2631 0.7750 0.5502
+SEARCH Bujii Olimpici < 323549
+PRINT_DB
+CREATE Bursieri STRING Prenume Importator ID Tara_Origine Strada Garantie
+PRINT Bujii
+CREATE Echipari INT Nr_Defecte ID Societati_Comerciale Olimpici Restantieri Rating Cantitate Disponibile
+ADD Utilaje 0.7155 0.3554 0.4931 0.5535 0.5259 0.2973 0.2087
+CREATE Linoleum INT Cantitate Nr_Defecte Disponibile ID Rating Societati_Comerciale Olimpici Rezervate
+PRINT Linoleum
+DELETE Echipari Rezervate < 103300
+ADD Bujii 208025 206155 519059 294836 136772 84070
+PRINT Echipari
+PRINT Bere
+CREATE Oameni STRING Prenume Importator ID Denumire Strada Garantie
+DELETE Linoleum Olimpici <= 435727
+PRINT Economie
+ADD Electronice 561745 286949 644293 227281 356841 366101 147470 221991
+ADD Studente 76410 435739 143836 317175 555231 107879 86424
+ADD Studente 126019 258821 471259 145534 604836 282285
+PRINT_DB
+ADD Bujii 563897 161727 15590 497584 525713 161680
+ADD Fainoase 551689 99054 328863 274414 117550 552621 453147 275864
+SEARCH Mirodenii Pret/bucata == 0.0825
+ADD Bursieri ugly arm Walter Thompson Brenda Walter
+PRINT_DB
+PRINT Mirodenii
+ADD Elevi Paula Rachel Carter Griffin meeting Jenkins round Joyce
+ADD Bursieri Baker admit wrist Patricia synonymous ancient
+PRINT Linoleum
+ADD Bursieri sin Benjamin Barnes Collins Brenda Perry
+PRINT Echipari
+DELETE Bursieri
+CREATE Electronice INT Rating ID Rezervate Olimpici Restantieri Societati_Comerciale Disponibile Nr_Defecte
+SEARCH Mirodenii Pret/bucata < 0.3583
+PRINT Economie
+ADD Bujii 62797 230621 222186 207342 607927 241802
+PRINT Doctori
+PRINT_DB
+SEARCH Studente Olimpici < 104390
+CREATE Tropicale INT Rating Marcaje Societati_Comerciale ID Olimpici Nr_Defecte Disponibile
+PRINT Bujii
+ADD Oameni breezy Thompson Sanders Thompson trace Martin
+ADD Oameni Carter Anna Kathryn Jonathan Phillip impolite
+PRINT Electronice
+PRINT_DB
+ADD Tropicale 168821 485260 426184 190073 507543 152363 258975
+ADD Mirodenii 0.3475 0.7838 0.1447 0.0249 0.5969 0.4093 0.9136 0.1822
+ADD Linoleum 118393 230898 73878 130019 597790 79916 450055 22630
+DELETE Electronice Restantieri <= 265096
+ADD Linoleum 614545 321530 12438 530529 287574 273985 7241 542662
+ADD Mirodenii 0.1012 0.2616 0.7099 0.8437 0.4910 0.7747 0.0197 0.9247
+SEARCH Echipari Olimpici < 511675
+PRINT Utilaje
+SEARCH Salarii Pret/bucata < 0.7817
+ADD Linoleum 318378 106553 375031 478301 119918 96000 187444 179755
+SEARCH Utilaje Impozit < 0.8247
+PRINT_DB
+ADD Mirodenii 0.3287 0.4640 0.9392 0.2820 0.2872 0.4235 0.0968 0.2096
+PRINT Echipari
+DELETE Economie Societati_Comerciale == 322740
+CREATE Salarii FLOAT Pret/metru Impozit Discount Total Pret/bucata Salariu_baza Tip TVA
+DELETE Electronice
+ADD Camioane 0.6469 0.0574 0.4601 0.1165 0.4239 0.2719 0.6122 0.1092
+DELETE Tropicale Nr_Defecte != 244217
+PRINT Echipari
+DELETE Masini Consum <= 0.4257
+PRINT_DB
+CREATE Instalatii FLOAT Total Pret/metru ID Pret/bucata TVA Discount
+PRINT_DB
+ADD Elevi Frances Henry event Cook drip noxious ice eggnog
+SEARCH Bursieri Localitate != Cook
+DELETE Angajati Denumire >= Baker
+ADD Utilaje 0.7358 0.1873 0.0796 0.4887 0.4209 0.2720 0.5901
+ADD Echipamente summer snatch Garcia Patterson Turner Kathryn fairies queue
+CREATE Angajati STRING Regiune Importator Nume Tara_Origine ID Garantie Strada Denumire
+PRINT Utilaje
+DELETE Bujii
+PRINT Mirodenii
+DELETE Profesori Nume == Kathryn
+ADD Bujii 300455 602778 201298 242389 369638 414863
+ADD Racoritoare 292687 6893 217113 558437 635121 236430
+PRINT_DB
+SEARCH Angajati Garantie != guarded
+PRINT Oameni
+ADD Mirodenii 0.4982 0.1080 0.6782 0.4624 0.4991 0.7110 0.3087 0.9046
+ADD Elevi ugly balance Lewis pollution society Robert Maria Evans
+ADD Mirodenii 0.1639 0.3316 0.2301 0.9776 0.8379 0.1731 0.8027 0.4285
+ADD Angajati Kathleen Edward Timothy Thompson George threatening carve thoughtful
+ADD Oameni thoughtful Irene Lisa Price minor live
+DELETE Linoleum Disponibile == 162894
+PRINT_DB
+ADD Bursieri Richardson impolite Bryant queue wiry Richardson
+ADD Asistenti Gonzalez Henry ask Diana abandoned clap
+PRINT Tropicale
+ADD Bursieri jewel Annie apparel refuse threatening Walter
+DELETE Echipari
+DELETE Utilaje Salariu_baza > 0.4234
+PRINT_DB
+PRINT Mirodenii
+PRINT Linoleum
+DELETE_DB

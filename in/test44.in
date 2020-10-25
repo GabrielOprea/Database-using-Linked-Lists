@@ -1,0 +1,40 @@
+INIT_DB asociatie_locatari
+CREATE Racoritoare INT Nr_Defecte Societati_Comerciale Rating Restantieri ID Disponibile
+ADD Racoritoare 255 174 126 252 116 5
+DELETE Racoritoare
+PRINT Racoritoare
+ADD Elevi impolite Jenkins
+CREATE Bursieri STRING Nume Denumire Strada Regiune Prenume
+PRINT Racoritoare
+CREATE Doctori STRING Localitate Regiune Nume Denumire Importator Garantie
+ADD Bursieri Parker dazzling Todd yawn Alexander
+DELETE Racoritoare
+PRINT_DB
+ADD Bursieri Donald Keith round past Elizabeth
+ADD Bursieri handy dead Irene Gonzales Stephen
+PRINT_DB
+ADD Racoritoare 68 111 49 86 250 28
+ADD Bursieri Jack Gregory ice Baker Griffin
+ADD Doctori Howard Lewis clap Lillian development Patricia
+PRINT Doctori
+PRINT Racoritoare
+ADD Ambientale 91 181 70 8 180 245
+PRINT_DB
+PRINT Echipari
+DELETE Bursieri Localitate != Patricia
+PRINT_DB
+SEARCH Racoritoare ID <= 22
+ADD Racoritoare 167 87 43 208 140 86
+SEARCH Bursieri ID == guarded
+CREATE Obiecte FLOAT ID Tip Total Discount Pret/bucata TVA
+CREATE Electronice INT Restantieri Rezervate Rating Societati_Comerciale Nr_Defecte Cantitate
+DELETE Doctori
+ADD Bursieri continue lunch squeal Perez Patricia
+PRINT Obiecte
+PRINT Bursieri
+SEARCH Doctori ID > da
+PRINT Electronice
+PRINT Utilaje
+CREATE Linoleum INT Disponibile ID Olimpici
+SEARCH Racoritoare Marcaje < 5
+DELETE_DB

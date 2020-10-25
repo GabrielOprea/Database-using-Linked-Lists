@@ -1,0 +1,40 @@
+INIT_DB florarie
+CREATE Elevi STRING Localitate Strada Nume
+PRINT_DB
+PRINT_DB
+CREATE Studenti STRING Regiune
+CREATE Echipari INT Nr_Defecte
+ADD Studenti Carter
+CREATE Electronice INT Restantieri
+PRINT Studenti
+CREATE Fainoase INT Restantieri Olimpici Cantitate
+ADD Electronice 243
+CREATE Super_Cars STRING Strada ID Nume Garantie Localitate
+PRINT_DB
+CREATE Economie INT Marcaje
+PRINT Studenti
+PRINT Fainoase
+PRINT_DB
+CREATE Bujii INT Restantieri Nr_Defecte Societati_Comerciale Disponibile
+ADD Echipari 235
+ADD Studenti ancient
+PRINT_DB
+ADD Economie 47
+DELETE Electronice Rating >= 132
+DELETE Studenti Nume < Roberts
+PRINT_DB
+ADD Elevi building evasive abandoned
+PRINT Super_Cars
+ADD Elevi terrific threatening Phillip
+PRINT Electronice
+ADD Elevi Martinez Ramirez engine
+ADD Studenti Griffin
+CREATE Obiecte FLOAT Pret/bucata ID Tip Total Pret/metru Impozit Salariu_baza
+PRINT_DB
+CREATE Camioane FLOAT Consum Impozit Salariu_baza
+CREATE Masini FLOAT ID Impozit Tip Discount Pret/metru
+ADD Fainoase 107 235 81
+PRINT Camioane
+PRINT Camioane
+PRINT Masini
+DELETE_DB

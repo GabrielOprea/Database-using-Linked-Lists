@@ -1,0 +1,40 @@
+INIT_DB asociatie_locatari
+CREATE Super_Cars STRING Garantie Localitate Importator
+CREATE Tropicale INT Disponibile
+DELETE Super_Cars
+PRINT_DB
+DELETE Tropicale
+CREATE Camioane FLOAT ID Total Consum Pret/bucata Salariu_baza TVA Tip
+DELETE Camioane
+DELETE Tropicale ID != 165
+ADD Super_Cars secret subtract cluttered
+ADD Camioane 0.1094 0.7639 0.5391 0.9110 0.8994 0.2868 0.5250
+ADD Tropicale 3
+CREATE Masini FLOAT TVA Pret/metru Consum Pret/bucata
+CREATE Asistenti STRING ID Prenume Strada Denumire Garantie Tara_Origine Regiune
+CREATE Linoleum INT Rezervate Societati_Comerciale Nr_Defecte Marcaje Restantieri Cantitate
+ADD Fainoase 5 101
+ADD Asistenti Roberts Michael Raymond Watson breezy impossible Jenkins
+ADD Super_Cars afterthought Brian Gray
+ADD Linoleum 91 101 179 97 172 209
+PRINT_DB
+ADD Super_Cars simple Ralph Anthony
+PRINT_DB
+ADD Masini 0.1279 0.6157 0.7203 0.7610
+ADD Tropicale 133
+ADD Super_Cars impossible impossible Hill
+DELETE Utilaje
+PRINT Super_Cars
+PRINT Camioane
+PRINT_DB
+ADD Asistenti Larry Baker Julia building Thompson Carter carve
+ADD Asistenti keen Sanders Perez bloody rate synonymous humorous
+PRINT_DB
+PRINT Camioane
+CREATE Profesori STRING Prenume Importator Strada Regiune Nume ID Tara_Origine
+ADD Asistenti afterthought squeal Lewis Hernandez Lopez probable dazzling
+PRINT_DB
+CREATE Bujii INT Marcaje Societati_Comerciale Restantieri Nr_Defecte Olimpici ID Cantitate
+PRINT Linoleum
+PRINT Tropicale
+DELETE_DB

@@ -1,0 +1,10 @@
+INIT_DB depozit_auchan
+CREATE Linoleum INT Rating
+DELETE Linoleum Cantitate > 6
+CREATE Ambientale INT Rezervate Nr_Defecte
+PRINT Linoleum
+PRINT Bursieri
+ADD Bujii 2 1 3
+PRINT Ambientale
+SEARCH Ambientale Rezervate <= 8
+DELETE_DB

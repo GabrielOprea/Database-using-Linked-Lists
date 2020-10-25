@@ -1,0 +1,170 @@
+INIT_DB universitate
+CREATE Oameni STRING Strada Importator Localitate Prenume Nume Regiune ID
+CREATE Electronice INT ID Rating Marcaje Nr_Defecte Rezervate Disponibile
+ADD Electronice 503003 431445 141528 534068 332890 561762
+PRINT_DB
+PRINT_DB
+PRINT Oameni
+ADD Bujii 523470 92071 597791 585484 392794 304609 163023 301333
+ADD Oameni Ward lunch adventurous Brooks wrist Gonzales Stewart
+ADD Ambientale 109594 181892 101633 449432 457491 272455
+CREATE Bursieri STRING Tara_Origine ID Nume Localitate Garantie Denumire Regiune Strada
+ADD Bujii 271672 31239 204339 372172 182624 630453 422262 144279
+CREATE Bujii INT Societati_Comerciale Restantieri Rating ID Marcaje Cantitate Nr_Defecte Olimpici
+CREATE Echipari INT Marcaje Restantieri Rezervate Nr_Defecte Societati_Comerciale Rating
+CREATE Echipamente STRING Prenume Strada Garantie Tara_Origine Regiune Importator
+CREATE Fainoase INT ID Rezervate Nr_Defecte Disponibile Restantieri Cantitate Societati_Comerciale
+CREATE Angajati STRING Localitate Garantie Regiune ID Strada Nume
+CREATE Salarii FLOAT Tip TVA Discount ID Pret/metru Consum
+ADD Ambientale 392715 253624 631954 510311 293758 293712 352829
+PRINT_DB
+DELETE Bursieri Regiune >= Walker
+PRINT_DB
+CREATE Elevi STRING Regiune Denumire Nume Prenume Garantie Strada Tara_Origine
+DELETE Balast Discount < 0.1602
+PRINT Instalatii
+PRINT_DB
+CREATE Uber FLOAT Consum Impozit Discount Tip TVA ID Salariu_baza Pret/bucata
+PRINT Bursieri
+PRINT_DB
+CREATE Mirodenii FLOAT ID Consum Discount Total Tip Impozit
+ADD Echipamente cluttered carve minor coat da snatch
+SEARCH Echipamente Tara_Origine <= reply
+PRINT Bursieri
+PRINT_DB
+ADD Electronice 632026 163412 612484 438273 179390 5835
+ADD Instalatii 0.1141 0.6032 0.9944 0.9715 0.3483 0.3025 0.5433 0.7442
+PRINT Economie
+DELETE Electronice
+PRINT_DB
+DELETE Bujii
+PRINT_DB
+PRINT Oameni
+SEARCH Mirodenii Total != 0.0863
+ADD Fainoase 411436 394125 197095 228064 98780 573209 455240
+ADD Angajati cluttered impulse Adams Paula Rogers Brooks
+PRINT Uber
+PRINT Echipamente
+ADD Angajati wiry Brian Adams uptight Lewis clap
+PRINT Salarii
+ADD Oameni change profuse Henderson Adam wrist Sean bake
+PRINT Echipamente
+ADD Oameni Baker Kathryn Jenkins Foster Parker uptight Edwards
+PRINT_DB
+PRINT Studente
+ADD Mirodenii 0.8516 0.0102 0.6705 0.9134 0.3449 0.9277
+SEARCH Obiecte ID >= 0.7096
+PRINT_DB
+PRINT Tropicale
+CREATE Studenti STRING Denumire Tara_Origine Localitate ID Importator Prenume
+ADD Elevi Melissa marble key Anne Griffin Emily Charles
+ADD Camioane 0.5578 0.9407 0.3258 0.0605 0.2597 0.6139 0.0731 0.3444
+ADD Echipamente motionless wrist Garcia Martinez adventurous drip
+ADD Angajati escape Stewart Kathryn Mitchell Watson evasive
+DELETE Mirodenii Pret/metru >= 0.6977
+ADD Echipari 204615 47396 175903 553386 171304 17689
+PRINT Fainoase
+ADD Echipamente eggnog Walker Long Phillip Melissa alcoholic
+SEARCH Electronice ID == 235584
+PRINT_DB
+ADD Salarii 0.6463 0.2696 0.1550 0.2003 0.1945 0.8528
+DELETE Echipari Marcaje > 529990
+CREATE Economie INT Nr_Defecte Restantieri Marcaje Societati_Comerciale Olimpici ID Rezervate
+ADD Super_Cars Butler refuse Keith Young handy grade Earl
+PRINT Echipari
+CREATE Racoritoare INT Nr_Defecte Disponibile Rezervate Marcaje Rating Olimpici Cantitate
+ADD Bursieri Kathryn Richardson Roberts Mark Sean Sanders Russell drip
+ADD Economie 194466 466512 349117 145059 30578 234779 303209
+DELETE Echipari
+PRINT Masini
+ADD Mirodenii 0.7973 0.8172 0.1911 0.1123 0.9646 0.9600
+PRINT Utilaje
+PRINT Salarii
+PRINT Fainoase
+DELETE Angajati
+ADD Bujii 343099 87735 168755 305269 223440 100866 549489 479219
+DELETE Bursieri
+PRINT_DB
+PRINT Echipari
+PRINT_DB
+ADD Fainoase 63321 3679 82403 413394 211116 196516 331683
+PRINT_DB
+PRINT_DB
+ADD Uber 0.8081 0.9242 0.3981 0.5962 0.8986 0.2406 0.0649 0.9843
+CREATE Masini FLOAT TVA Tip Impozit ID Pret/metru Discount Total Consum
+PRINT_DB
+PRINT Obiecte
+PRINT Economie
+ADD Oameni Roberts trace Mark Lois trace useless rustic
+PRINT_DB
+ADD Linoleum 152245 490920 341912 258561 301225 143494 285913 494879
+DELETE Bujii Olimpici < 255832
+ADD Oameni snatch alcoholic view Hall evasive Edward Nicholas
+DELETE Oameni
+PRINT Bujii
+SEARCH Masini Pret/metru != 0.3644
+SEARCH Echipari Societati_Comerciale < 358790
+SEARCH Uber TVA > 0.7908
+PRINT_DB
+ADD Elevi Perez Kathryn yellow afterthought Jenkins impulse beds
+SEARCH Masini Total != 0.9210
+PRINT_DB
+CREATE Doctori STRING Strada Garantie Nume Importator Regiune Tara_Origine Denumire ID
+PRINT Studenti
+ADD Bursieri Clark Sanders average pet hot grade ugly squeal
+ADD Uber 0.6173 0.3840 0.6701 0.1761 0.0245 0.2850 0.6186 0.2567
+PRINT Mirodenii
+SEARCH Economie Nr_Defecte <= 245350
+PRINT Ambientale
+DELETE Doctori Denumire <= probable
+PRINT Mirodenii
+PRINT Economie
+ADD Echipari 90991 644731 464988 162469 231645 516309
+ADD Oameni nu Adams Jenkins Douglas Garcia Earl Jerry
+ADD Super_Cars verdant event berry probable Lillian summer Foster
+ADD Echipamente Diana Bryant summer Louise synonymous Moore
+ADD Obiecte 0.6235 0.0237 0.5932 0.7204 0.9533 0.8243
+ADD Bursieri workable meeting Carter Carter impolite recondite profuse Janet
+CREATE Studente INT ID Societati_Comerciale Olimpici Disponibile Nr_Defecte Restantieri
+ADD Angajati Robert building David damaging wiry Jane
+PRINT_DB
+SEARCH Echipamente Tara_Origine != Diane
+ADD Racoritoare 234661 335914 253482 549805 442 576139 145936
+DELETE Angajati Garantie == bells
+PRINT Obiecte
+ADD Instalatii 0.2896 0.6254 0.8739 0.8032 0.9059 0.9986
+ADD Oameni live Sanders Nicholas eggnog yawn alcoholic Rose
+PRINT Electronice
+SEARCH Utilaje Salariu_baza < 0.0608
+CREATE Balast FLOAT Pret/bucata ID Salariu_baza Pret/metru Total Discount Consum TVA
+CREATE Linoleum INT Olimpici Rezervate Restantieri Rating Marcaje Societati_Comerciale Nr_Defecte Disponibile
+DELETE Uber ID > 0.8510
+ADD Masini 0.5895 0.6088 0.8905 0.2367 0.2664 0.3271 0.0490 0.4058
+DELETE Utilaje
+DELETE Balast
+ADD Camioane 0.6108 0.7705 0.9349 0.9461 0.8085 0.7471 0.5113
+CREATE Instalatii FLOAT Tip Discount Impozit Pret/metru Salariu_baza TVA
+PRINT_DB
+PRINT_DB
+PRINT Electronice
+DELETE Electronice
+CREATE Camioane FLOAT Pret/bucata TVA Impozit ID Discount Total
+ADD Salarii 0.4479 0.5090 0.4779 0.1103 0.6544 0.9553
+PRINT_DB
+ADD Instalatii 0.9797 0.3400 0.2912 0.7187 0.6072 0.4260
+DELETE Echipari
+DELETE Electronice Nr_Defecte < 446547
+SEARCH Echipari Rating <= 235361
+PRINT Economie
+PRINT_DB
+ADD Balast 0.8932 0.1479 0.4843 0.9220 0.8707 0.0166 0.9867 0.3991
+ADD Mirodenii 0.8322 0.7415 0.8417 0.1525 0.3023 0.7228
+ADD Echipamente Charles King Scott Parker hot Price
+ADD Bujii 361136 289104 357518 213252 178586 569441 652428 489206
+DELETE Bursieri Prenume > vest
+ADD Studente 626095 517997 296150 610877 449765 434700
+PRINT Electronice
+ADD Echipamente Sean Gerald Nicholas fairies fancy Garcia
+CREATE Super_Cars STRING Tara_Origine Prenume Nume Localitate Garantie Importator Strada Regiune
+CREATE Utilaje FLOAT Discount ID Pret/bucata Tip Total Pret/metru TVA Consum
+DELETE_DB

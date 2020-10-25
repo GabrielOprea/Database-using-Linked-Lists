@@ -1,0 +1,40 @@
+INIT_DB asociatie_locatari
+CREATE Mirodenii FLOAT ID Consum Pret/bucata TVA Discount Impozit
+CREATE Salarii FLOAT Impozit Salariu_baza TVA Pret/metru
+PRINT Oameni
+ADD Mirodenii 0.5388 0.6039 0.9763 0.2757 0.2453 0.6874
+DELETE Salarii
+ADD Mirodenii 0.8248 0.2120 0.6701 0.0886 0.6164 0.3645
+DELETE Mirodenii
+ADD Salarii 0.5922 0.8969 0.2054 0.9462
+PRINT_DB
+ADD Salarii 0.7179 0.1512 0.3235 0.7339
+CREATE Profesori STRING Denumire Garantie Localitate Nume Tara_Origine
+CREATE Economie INT Restantieri Rating
+DELETE Salarii Salariu_baza >= 0.5524
+PRINT Mirodenii
+PRINT Salarii
+CREATE Linoleum INT Rezervate Nr_Defecte
+PRINT_DB
+PRINT_DB
+DELETE Profesori
+CREATE Electronice INT Rezervate Societati_Comerciale Rating
+ADD Economie 189 12
+PRINT_DB
+PRINT_DB
+PRINT_DB
+ADD Electronice 204 250 19
+DELETE Economie
+DELETE Mirodenii
+PRINT_DB
+SEARCH Salarii Consum != 0.9433
+DELETE Linoleum Disponibile != 53
+ADD Echipamente Lillian wrist Anderson Donald Andrea breezy
+SEARCH Profesori Denumire <= Timothy
+PRINT Profesori
+ADD Linoleum 71 140
+ADD Profesori impolite wing past subtract synonymous
+ADD Salarii 0.3258 0.2529 0.0199 0.0426
+PRINT Profesori
+PRINT_DB
+DELETE_DB

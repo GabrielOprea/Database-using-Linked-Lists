@@ -1,0 +1,40 @@
+INIT_DB site_de_socializare
+CREATE Angajati STRING Localitate ID Importator
+PRINT_DB
+CREATE Mirodenii FLOAT Impozit ID TVA Total Pret/bucata Tip Salariu_baza
+CREATE Bere FLOAT Tip Total TVA Impozit Discount Consum
+CREATE Echipari INT Nr_Defecte
+ADD Angajati Brown Baker ugly
+PRINT Echipamente
+CREATE Fainoase INT Societati_Comerciale ID Olimpici Restantieri
+ADD Camioane 0.0226 0.6141
+SEARCH Bere Total != 0.9487
+ADD Angajati guarded Mark Jane
+PRINT Fainoase
+ADD Echipari 116
+CREATE Bujii INT Disponibile Olimpici Societati_Comerciale Nr_Defecte Rating
+ADD Angajati impolite Perez noxious
+CREATE Studente INT Disponibile Societati_Comerciale Rezervate ID Olimpici Rating
+PRINT Fainoase
+DELETE Fainoase Olimpici <= 103
+PRINT_DB
+CREATE Electronice INT Societati_Comerciale Cantitate Restantieri ID Nr_Defecte
+PRINT Studente
+ADD Fainoase 235 150 51 187
+CREATE Asistenti STRING Localitate
+ADD Doctori Denise society straight Kelly Baker key Mitchell
+ADD Bere 0.7439 0.0598 0.3588 0.9796 0.4936 0.5270
+PRINT Salarii
+ADD Fainoase 191 139 232 106
+SEARCH Angajati Localitate >= Ramirez
+CREATE Salarii FLOAT Pret/metru Pret/bucata Impozit Consum Total Tip Salariu_baza
+PRINT Studente
+PRINT Bere
+PRINT Electronice
+ADD Tropicale 242 105 256 188 74
+PRINT_DB
+SEARCH Angajati Garantie == minor
+DELETE Mirodenii
+PRINT Studente
+ADD Salarii 0.1465 0.9915 0.7059 0.2303 0.3918 0.5409 0.2174
+DELETE_DB

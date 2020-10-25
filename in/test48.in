@@ -1,0 +1,40 @@
+INIT_DB universitate
+CREATE Bujii INT Rezervate Nr_Defecte
+PRINT_DB
+ADD Echipamente Michael drip
+CREATE Studente INT Cantitate Nr_Defecte Rating Rezervate Disponibile
+ADD Studente 224 149 29 235 124
+PRINT Bujii
+DELETE Studente
+ADD Bujii 240 155
+CREATE Balast FLOAT Pret/metru Total
+PRINT Studente
+ADD Balast 0.9111 0.2610
+ADD Balast 0.9543 0.0520
+PRINT Bujii
+ADD Balast 0.6496 0.3768
+ADD Bujii 172 231
+PRINT_DB
+ADD Bujii 106 64
+PRINT Studente
+PRINT Bujii
+ADD Balast 0.7399 0.3796
+SEARCH Balast Pret/bucata <= 0.2440
+PRINT Studente
+CREATE Camioane FLOAT Pret/bucata Total Discount Pret/metru Salariu_baza
+DELETE Bujii Rezervate < 184
+ADD Balast 0.3476 0.7089
+CREATE Elevi STRING ID Garantie Tara_Origine Localitate
+ADD Elevi Foster Hall pollution Annie
+PRINT Ambientale
+PRINT_DB
+PRINT_DB
+CREATE Salarii FLOAT Discount Salariu_baza Consum
+CREATE Fainoase INT Rezervate Nr_Defecte Disponibile Societati_Comerciale Rating ID Restantieri
+ADD Studente 180 91 218 119 79
+DELETE Balast
+CREATE Echipamente STRING Denumire ID Strada Garantie Localitate Importator Tara_Origine
+SEARCH Elevi Nume != Griffin
+PRINT Fainoase
+PRINT Echipamente
+DELETE_DB

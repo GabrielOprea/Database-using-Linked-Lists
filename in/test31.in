@@ -1,0 +1,20 @@
+INIT_DB restaurant
+CREATE Studente INT Disponibile Cantitate Marcaje
+DELETE Studente
+PRINT Studente
+ADD Studente 247 84 240
+CREATE Masini FLOAT Pret/bucata TVA
+ADD Studente 195 216 98
+CREATE Electronice INT Cantitate Nr_Defecte Marcaje
+DELETE Masini
+ADD Electronice 207 91 162
+ADD Masini 0.6119 0.0507
+DELETE Masini TVA == 0.2475
+ADD Masini 0.9988 0.2946
+ADD Electronice 144 176 214
+PRINT Racoritoare
+ADD Electronice 194 80 13
+CREATE Angajati STRING Tara_Origine Garantie ID
+PRINT Angajati
+PRINT_DB
+DELETE_DB

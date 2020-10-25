@@ -1,0 +1,20 @@
+INIT_DB haine
+CREATE Economie INT Rating Restantieri
+PRINT_DB
+PRINT_DB
+PRINT Racoritoare
+ADD Economie 235 245
+ADD Economie 158 218
+PRINT Economie
+CREATE Oameni STRING Tara_Origine Strada Garantie Prenume Regiune
+ADD Profesori average dazzling
+PRINT Economie
+ADD Economie 120 241
+PRINT_DB
+ADD Oameni apparel impolite rich Turner Young
+CREATE Obiecte FLOAT Salariu_baza Discount Pret/bucata
+PRINT Oameni
+PRINT Oameni
+CREATE Linoleum INT Restantieri Nr_Defecte Disponibile
+SEARCH Oameni ID > abandoned
+DELETE_DB

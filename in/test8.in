@@ -1,0 +1,10 @@
+INIT_DB companie
+CREATE Linoleum INT ID Cantitate Societati_Comerciale
+PRINT_DB
+DELETE Linoleum ID >= 4
+ADD Linoleum 7 10 3
+PRINT_DB
+PRINT_DB
+CREATE Studenti STRING Garantie Denumire
+PRINT_DB
+DELETE_DB

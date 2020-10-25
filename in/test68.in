@@ -1,0 +1,128 @@
+INIT_DB abonament_STB
+CREATE Camioane FLOAT Salariu_baza Impozit ID Pret/bucata Total TVA
+ADD Mirodenii 0.9153 0.2830 0.4568 0.5535 0.0518 0.9450 0.3372 0.8255
+CREATE Tropicale INT Disponibile Cantitate Societati_Comerciale Olimpici Restantieri Rating
+PRINT_DB
+PRINT Electronice
+DELETE Tropicale Nr_Defecte < 246364
+ADD Camioane 0.7236 0.0338 0.8546 0.1872 0.3978 0.2940
+DELETE Camioane ID == 0.7774
+ADD Camioane 0.2841 0.2894 0.5816 0.7952 0.8489 0.5409
+DELETE Obiecte Total == 0.7564
+ADD Tropicale 58255 178194 636527 430337 236837 429370
+DELETE Camioane
+SEARCH Tropicale Marcaje == 397867
+PRINT_DB
+PRINT Studenti
+PRINT Balast
+SEARCH Camioane Pret/metru >= 0.4594
+PRINT_DB
+PRINT_DB
+CREATE Profesori STRING Regiune Prenume Nume Localitate Importator Denumire ID
+ADD Profesori far-flung afterthought Bryant green escape subtract Gregory
+PRINT_DB
+CREATE Fainoase INT Disponibile Marcaje Restantieri Societati_Comerciale Olimpici Cantitate Nr_Defecte ID
+ADD Camioane 0.5862 0.7764 0.7593 0.9258 0.4777 0.2511
+PRINT_DB
+PRINT_DB
+DELETE Camioane Pret/bucata < 0.7987
+CREATE Super_Cars STRING Localitate Nume ID Importator Garantie Prenume
+DELETE Super_Cars
+PRINT Ambientale
+ADD Asistenti Rogers Ward Kathy Anderson Carlos refuse Lewis
+ADD Fainoase 323474 546472 182395 594477 178234 317423 28335 46346
+PRINT Camioane
+CREATE Bere FLOAT Pret/metru Tip Salariu_baza TVA Impozit Total ID
+ADD Fainoase 231022 340407 256125 340383 119050 173474 597502 332226
+PRINT Fainoase
+PRINT Angajati
+SEARCH Uber TVA > 0.2377
+ADD Bere 0.3884 0.6188 0.2799 0.2417 0.6878 0.0465 0.6027
+SEARCH Utilaje Salariu_baza <= 0.6007
+ADD Bere 0.2431 0.5871 0.4768 0.3894 0.3493 0.8188 0.9195
+PRINT Camioane
+CREATE Masini FLOAT ID Salariu_baza Total Impozit TVA Pret/metru Pret/bucata Consum
+PRINT Bere
+PRINT Masini
+ADD Profesori Perez Gerald Lopez delay blade Donald nu
+ADD Masini 0.2827 0.5877 0.7131 0.6180 0.8515 0.0438 0.5727 0.3821
+ADD Linoleum 404086 350534 45146 632050 457700 446704
+ADD Super_Cars Anna stop Lopez motionless entertaining secret
+ADD Camioane 0.4160 0.5907 0.6027 0.3044 0.2056 0.9736
+PRINT Profesori
+DELETE Camioane Consum != 0.0501
+ADD Angajati blade snatch fairies Henry Jenkins eggnog Collins Kelly
+PRINT Bere
+CREATE Utilaje FLOAT Consum Total TVA Impozit Salariu_baza Tip
+ADD Tropicale 590560 255811 454150 591022 79319 265743
+PRINT_DB
+ADD Tropicale 445866 477686 99466 584832 180181 596341
+ADD Profesori Brandon cry Bonnie Ward wakeful Henderson approval
+PRINT_DB
+DELETE Super_Cars
+PRINT Tropicale
+SEARCH Fainoase Disponibile > 616611
+DELETE Super_Cars
+PRINT_DB
+ADD Profesori Richardson Jack bake bless Foster Rodriguez Hall
+ADD Fainoase 37037 580776 283758 59365 85694 625949 465820 357734
+ADD Camioane 0.0760 0.1420 0.7618 0.2037 0.9058 0.4305
+ADD Instalatii 0.3225 0.5332 0.1080 0.3981 0.6572 0.8575 0.8053
+ADD Fainoase 547100 16954 584727 148219 463901 299392 39761 536021
+PRINT Bere
+PRINT Elevi
+DELETE Utilaje Impozit != 0.7502
+ADD Masini 0.8914 0.5932 0.6052 0.8800 0.3770 0.4492 0.7570 0.2229
+PRINT Fainoase
+PRINT Camioane
+ADD Super_Cars Jimmy Cox Anthony Bryant simple Charles
+ADD Fainoase 229421 179134 218928 637518 296132 72291 648755 23742
+ADD Tropicale 608214 52597 637346 617583 544139 327631
+CREATE Salarii FLOAT Consum Pret/metru Pret/bucata Impozit ID Tip
+CREATE Ambientale INT Disponibile Rezervate Olimpici ID Marcaje Societati_Comerciale Nr_Defecte Cantitate
+ADD Camioane 0.6477 0.8682 0.0366 0.5470 0.6505 0.1296
+SEARCH Echipamente Localitate < Janet
+ADD Camioane 0.3808 0.1549 0.6306 0.1683 0.8880 0.8161
+ADD Tropicale 380800 305778 78010 618187 178297 441933
+DELETE Salarii Pret/bucata != 0.3999
+ADD Angajati Gray Evelyn Brooks Ruby Evans crooked
+ADD Camioane 0.1827 0.0647 0.5906 0.3797 0.2441 0.9656
+CREATE Mirodenii FLOAT Total Pret/metru Impozit Discount Salariu_baza Pret/bucata
+DELETE Utilaje
+PRINT_DB
+ADD Masini 0.2487 0.9638 0.4630 0.8900 0.6182 0.1604 0.1919 0.2356
+ADD Ambientale 316080 353482 571941 579331 276661 448427 391649 305476
+DELETE Salarii
+PRINT_DB
+DELETE Fainoase
+ADD Fainoase 626940 640898 432064 406379 637362 294878 427156 573894
+SEARCH Linoleum Rezervate != 218034
+PRINT_DB
+ADD Linoleum 332276 182254 343972 97288 93742 479330 66768 149079
+CREATE Oameni STRING Importator Denumire Localitate Nume Strada Garantie
+DELETE Camioane
+ADD Doctori guarded Jenkins Frances Torres eggnog Scott
+CREATE Uber FLOAT TVA Total ID Impozit Tip Consum Pret/bucata Discount
+CREATE Balast FLOAT ID Tip Consum Total Impozit Discount
+PRINT Camioane
+ADD Bere 0.2866 0.2469 0.3469 0.8066 0.9704 0.3190 0.8318
+ADD Balast 0.5433 0.5965 0.3569 0.3650 0.0432 0.5296
+DELETE Profesori Regiune == straight
+DELETE Doctori
+CREATE Economie INT Disponibile Olimpici ID Nr_Defecte Marcaje Rating
+ADD Fainoase 151512 45123 590650 224383 193310 231790 137671 545576
+ADD Economie 553547 186256 508592 579910 164129 504507
+PRINT Bere
+ADD Ambientale 607535 588230 566083 634518 607542 159109 108840 250252
+SEARCH Mirodenii Consum < 0.2880
+SEARCH Economie Olimpici <= 15171
+DELETE Doctori
+SEARCH Ambientale Nr_Defecte != 145473
+PRINT Profesori
+SEARCH Angajati Importator <= spiteful
+DELETE Profesori Strada != fancy
+DELETE Bursieri
+ADD Ambientale 398327 162296 308817 477719 331983 28702 93269 636472
+ADD Profesori Garcia ancient limit yellow Anthony Campbell drip
+ADD Ambientale 507475 490526 600603 274735 572746 580566 185160 66487
+DELETE_DB

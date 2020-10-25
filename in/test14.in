@@ -1,0 +1,10 @@
+INIT_DB ferma_animale
+CREATE Uber FLOAT Discount Tip Salariu_baza
+ADD Uber 0.9462 0.0510 0.5890
+DELETE Uber
+CREATE Angajati STRING Denumire
+ADD Uber 0.4346 0.8753 0.6441
+PRINT Angajati
+ADD Angajati Jenkins
+ADD Uber 0.0551 0.9965 0.3962
+DELETE_DB

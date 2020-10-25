@@ -1,0 +1,10 @@
+INIT_DB abonament_STB
+CREATE Angajati STRING Importator Garantie
+ADD Angajati Diana handy
+CREATE Fainoase INT Nr_Defecte Cantitate
+ADD Fainoase 1 8
+SEARCH Angajati Strada > Henry
+ADD Fainoase 2 1
+ADD Instalatii 0.7482
+PRINT_DB
+DELETE_DB

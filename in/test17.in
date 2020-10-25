@@ -1,0 +1,10 @@
+INIT_DB parc_auto
+CREATE Salarii FLOAT Total
+CREATE Balast FLOAT Consum
+PRINT Balast
+PRINT_DB
+PRINT_DB
+DELETE Balast
+CREATE Camioane FLOAT Salariu_baza Total ID
+PRINT_DB
+DELETE_DB

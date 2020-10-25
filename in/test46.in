@@ -1,0 +1,40 @@
+INIT_DB restaurant
+CREATE Studenti STRING Strada ID Denumire Garantie Prenume
+CREATE Elevi STRING ID
+PRINT Elevi
+DELETE Studenti
+ADD Elevi engine
+CREATE Bere FLOAT Consum TVA ID Impozit Tip Total
+CREATE Instalatii FLOAT Pret/metru Impozit Total ID Pret/bucata TVA
+CREATE Balast FLOAT Total Pret/metru Discount TVA Consum Tip ID
+CREATE Echipari INT Marcaje Rezervate Societati_Comerciale Disponibile Olimpici
+ADD Echipari 23 157 183 117 182
+DELETE Elevi
+ADD Bere 0.2753 0.4319 0.4451 0.8710 0.7151 0.6505
+CREATE Bursieri STRING Strada Importator
+DELETE Studenti Prenume < Howard
+DELETE Bursieri Strada != Rodriguez
+PRINT_DB
+ADD Bere 0.0959 0.0858 0.8780 0.0256 0.7905 0.9929
+DELETE Bursieri
+CREATE Angajati STRING Strada
+DELETE Balast
+PRINT_DB
+CREATE Oameni STRING Denumire
+DELETE Balast
+ADD Instalatii 0.8943 0.5027 0.3067 0.2712 0.1776 0.2850
+CREATE Camioane FLOAT Tip Total Discount Pret/metru Salariu_baza Consum
+PRINT_DB
+PRINT Camioane
+ADD Studenti Jane Walter ugly straight lying
+ADD Oameni hot
+ADD Bere 0.2393 0.7303 0.0877 0.9991 0.5002 0.0277
+PRINT_DB
+ADD Studenti Louise engine Michael approval coat
+SEARCH Angajati Garantie != Long
+CREATE Racoritoare INT Disponibile Marcaje Nr_Defecte Cantitate
+PRINT Camioane
+PRINT Oameni
+DELETE Elevi
+PRINT_DB
+DELETE_DB

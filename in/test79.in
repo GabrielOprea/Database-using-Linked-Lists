@@ -1,0 +1,179 @@
+INIT_DB restaurant
+CREATE Racoritoare INT Cantitate Nr_Defecte ID Societati_Comerciale Olimpici Marcaje Rating Disponibile
+PRINT_DB
+CREATE Bujii INT Rezervate Disponibile Cantitate Olimpici Marcaje Nr_Defecte Societati_Comerciale ID
+CREATE Camioane FLOAT Consum Total Discount Salariu_baza ID Impozit TVA Tip
+ADD Camioane 0.3952 0.6913 0.6000 0.6408 0.9358 0.5873 0.3196 0.3744
+ADD Camioane 0.9042 0.5524 0.3654 0.2947 0.1159 0.0135 0.6327 0.4047
+PRINT_DB
+SEARCH Super_Cars Tara_Origine != Robert
+PRINT Bujii
+DELETE Racoritoare Rating != 212260
+CREATE Bere FLOAT Discount Pret/metru ID Pret/bucata TVA Consum Tip
+CREATE Oameni STRING Tara_Origine Strada Prenume Importator Nume Denumire Garantie
+ADD Bere 0.6130 0.2526 0.3138 0.4362 0.9011 0.5744 0.3931
+ADD Bere 0.0629 0.7344 0.4293 0.2395 0.1817 0.3118 0.4816
+PRINT Oameni
+ADD Bere 0.9171 0.6157 0.1754 0.6800 0.1596 0.4102 0.9930
+PRINT Echipamente
+DELETE Salarii
+PRINT Electronice
+CREATE Asistenti STRING Importator Nume Localitate ID Regiune Garantie Prenume
+ADD Bujii 53728 524036 622239 298138 160794 580967 105480 330091
+PRINT Bere
+ADD Bere 0.9774 0.5258 0.8060 0.3944 0.9699 0.9220 0.7127
+SEARCH Racoritoare Marcaje < 566379
+PRINT_DB
+ADD Elevi Joyce wing David threatening Jeremy horrible
+PRINT_DB
+PRINT_DB
+CREATE Balast FLOAT Consum Pret/metru Total Pret/bucata Salariu_baza TVA
+PRINT Asistenti
+ADD Asistenti Earl stop rate Brian Butler bake Anthony
+CREATE Studenti STRING Prenume Strada Importator ID Regiune Nume Garantie Tara_Origine
+CREATE Echipamente STRING Tara_Origine Denumire Regiune ID Localitate Garantie
+CREATE Doctori STRING Garantie ID Denumire Regiune Tara_Origine Strada Importator
+ADD Bere 0.1399 0.4518 0.4494 0.2779 0.1893 0.8378 0.8848
+PRINT Camioane
+DELETE Economie ID < 480737
+DELETE Oameni
+PRINT_DB
+ADD Bujii 390179 637330 445675 424248 387435 510434 83510 352634
+ADD Racoritoare 350014 496523 236125 457652 448722 457030 521446 86159
+PRINT Obiecte
+PRINT Obiecte
+CREATE Instalatii FLOAT Impozit Salariu_baza Tip TVA Consum Discount Pret/metru
+PRINT Oameni
+PRINT Echipamente
+DELETE Ambientale
+ADD Balast 0.5778 0.9631 0.6458 0.3356 0.7306 0.3182
+PRINT_DB
+CREATE Utilaje FLOAT Total Tip Discount ID Pret/metru Salariu_baza Impozit Consum
+PRINT Camioane
+ADD Studenti Foster Parker Bell Turner Sanders Kathleen line workable
+ADD Balast 0.2128 0.7650 0.9309 0.0567 0.8952 0.8131
+SEARCH Obiecte Pret/bucata > 0.7104
+DELETE Doctori
+PRINT Mirodenii
+PRINT Asistenti
+CREATE Elevi STRING Garantie Importator Strada Nume Prenume ID Localitate Tara_Origine
+ADD Balast 0.0627 0.4602 0.6132 0.4007 0.1602 0.9321
+ADD Ambientale 213269 545761 357728 147364 589856 471437 483045 511181
+PRINT_DB
+PRINT_DB
+ADD Utilaje 0.5166 0.9809 0.5752 0.2293 0.3920 0.7790 0.9595 0.4821
+PRINT Balast
+DELETE Asistenti
+PRINT_DB
+PRINT Masini
+PRINT_DB
+DELETE Masini Discount <= 0.5280
+CREATE Ambientale INT Cantitate Marcaje ID Rating Olimpici Nr_Defecte Societati_Comerciale
+CREATE Angajati STRING Regiune Nume Garantie ID Strada Importator Prenume
+CREATE Salarii FLOAT Pret/metru Salariu_baza Pret/bucata ID Tip TVA
+ADD Studenti minor Frances nice Linda Keith Kathryn Parker Julia
+CREATE Echipari INT Marcaje Rezervate Societati_Comerciale Nr_Defecte Restantieri Cantitate
+ADD Mirodenii 0.6397 0.5058 0.3466 0.2341 0.0921 0.5019
+CREATE Masini FLOAT Total Impozit TVA Pret/bucata ID Pret/metru Discount
+ADD Obiecte 0.9616 0.8868 0.9718 0.6870 0.3029 0.1384 0.7276 0.8307
+ADD Studente 371597 181756 259754 513691 545572 345173
+DELETE Masini
+CREATE Super_Cars STRING Strada Importator Garantie Nume Prenume Localitate
+PRINT Linoleum
+DELETE Doctori
+SEARCH Utilaje Pret/metru > 0.6221
+DELETE Balast Salariu_baza != 0.5266
+PRINT Asistenti
+CREATE Economie INT ID Olimpici Marcaje Restantieri Societati_Comerciale Cantitate Disponibile
+ADD Bujii 288697 302307 339516 379706 382964 363766 564838 586353
+PRINT Utilaje
+DELETE Salarii
+ADD Salarii 0.8427 0.8274 0.4617 0.9870 0.2562 0.3266
+PRINT_DB
+PRINT Fainoase
+PRINT Studente
+PRINT Balast
+ADD Mirodenii 0.8878 0.8222 0.2625 0.3491 0.1134 0.0101 0.9619 0.1326
+PRINT_DB
+CREATE Tropicale INT Olimpici Nr_Defecte Marcaje Rating Societati_Comerciale Disponibile ID Restantieri
+ADD Elevi Rogers Jeremy lying fancy Jimmy Denise Thompson jewel
+PRINT Camioane
+ADD Bursieri snatch sort clap Martha Stephen Barnes Collins yawn
+PRINT Tropicale
+ADD Super_Cars Mark Garcia George Jack Hernandez key
+PRINT Balast
+SEARCH Salarii Discount != 0.5281
+ADD Angajati Carter Torres Barnes Raymond Jenkins Donald wing
+PRINT_DB
+CREATE Uber FLOAT Pret/metru Impozit Consum ID TVA Total Pret/bucata Salariu_baza
+DELETE Bere
+ADD Echipari 260149 399905 302195 241452 215295 138643
+SEARCH Oameni ID <= Lewis
+ADD Angajati Gray Maria Gonzalez Green trace Andrea Lillian
+DELETE Echipari Cantitate == 200288
+SEARCH Instalatii Total < 0.8116
+ADD Instalatii 0.0144 0.9708 0.3797 0.4007 0.9644 0.5837 0.0172
+ADD Echipamente Howard delay Walter Louise Roberts loss
+ADD Profesori Brenda view Jenkins Powell average Jack
+CREATE Fainoase INT Nr_Defecte Cantitate Marcaje Disponibile Rezervate Olimpici
+PRINT Asistenti
+ADD Doctori Howard frightened Baker Raymond responsible King Sandra
+ADD Bujii 451374 562088 595596 547962 251878 505583 178993 625065
+DELETE Bere
+PRINT Economie
+PRINT_DB
+ADD Utilaje 0.9473 0.3836 0.1270 0.1026 0.4846 0.8190 0.6359 0.0587
+ADD Tropicale 522125 583896 274671 633819 522759 251767 98576 143086
+PRINT Echipari
+PRINT Ambientale
+ADD Doctori Brandon green Parker Lewis eggnog Irene Diana
+PRINT_DB
+ADD Economie 183346 405445 381237 239726 90452 377264 135727
+DELETE Masini Discount > 0.4919
+PRINT Doctori
+DELETE Instalatii
+PRINT_DB
+PRINT_DB
+DELETE Echipari
+ADD Uber 0.2969 0.8121 0.0775 0.1304 0.5616 0.9407 0.8638 0.3851
+SEARCH Elevi Tara_Origine > alcoholic
+ADD Economie 261142 605920 233587 198872 173052 590126 554283
+PRINT_DB
+ADD Instalatii 0.8346 0.9945 0.7093 0.3163 0.1011 0.7355 0.9297
+CREATE Mirodenii FLOAT Impozit Discount Salariu_baza Total TVA Consum Pret/metru ID
+ADD Linoleum 329557 95803 77168 376545 112407 201050 306625
+PRINT_DB
+ADD Bere 0.6596 0.3381 0.2634 0.3058 0.5250 0.3105 0.5208
+CREATE Linoleum INT Rating Disponibile Nr_Defecte Societati_Comerciale Restantieri ID Marcaje
+PRINT_DB
+DELETE Ambientale
+PRINT Linoleum
+ADD Echipari 623347 404188 610316 565097 91164 347993
+DELETE Tropicale
+PRINT Instalatii
+ADD Camioane 0.4654 0.5437 0.8837 0.3464 0.7485 0.2885 0.3490 0.8239
+PRINT Elevi
+ADD Super_Cars Reed jewel wasteful Rose Donald stop
+PRINT Echipamente
+ADD Bere 0.8420 0.2691 0.5729 0.4148 0.9899 0.9648 0.4579
+ADD Elevi Henry view Barnes wrist Gonzales live Anthony Martinez
+ADD Studente 500376 366673 418066 467539 415399 199285
+PRINT_DB
+ADD Racoritoare 516028 378233 598238 356895 355133 175211 188132 590349
+PRINT_DB
+DELETE Camioane Salariu_baza > 0.7021
+PRINT Profesori
+DELETE Camioane Impozit == 0.5488
+PRINT_DB
+PRINT Racoritoare
+PRINT Echipamente
+PRINT_DB
+PRINT_DB
+ADD Bujii 203988 209480 161964 531414 328907 261351 614981 204258
+ADD Tropicale 600511 264034 521991 457266 189179 127108 306452 33781
+ADD Camioane 0.6390 0.6609 0.3808 0.8580 0.8194 0.9709 0.7096 0.1796
+ADD Profesori minor Perry Garcia Martin Benjamin Gonzalez
+PRINT Balast
+DELETE Economie Societati_Comerciale > 359859
+DELETE Bujii
+DELETE_DB

@@ -1,0 +1,20 @@
+INIT_DB site_de_socializare
+CREATE Tropicale INT ID Rezervate
+DELETE Tropicale
+CREATE Angajati STRING Garantie Regiune
+CREATE Bursieri STRING ID Strada Importator Regiune Prenume
+DELETE Tropicale ID > 183
+CREATE Oameni STRING Denumire Tara_Origine Regiune Prenume
+CREATE Utilaje FLOAT TVA Discount Pret/metru Impozit ID
+ADD Tropicale 144 70
+SEARCH Utilaje ID == 0.3208
+PRINT Bursieri
+CREATE Balast FLOAT TVA ID Pret/metru
+ADD Bursieri stop Rose downtown eggnog Jack
+DELETE Bursieri
+PRINT_DB
+PRINT Oameni
+SEARCH Bursieri Strada > Randy
+CREATE Asistenti STRING Nume Prenume Regiune Importator Denumire
+PRINT Oameni
+DELETE_DB

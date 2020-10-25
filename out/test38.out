@@ -1,0 +1,22 @@
+DATABASE: componente_pc
+
+TABLE: Elevi
+Prenume                        
+------------------------------ 
+
+TABLE: Economie
+Disponibile                    Marcaje                        
+------------------------------ ------------------------------ 
+215                            9                              
+
+TABLE: Oameni
+ID                             Nume                           Importator                     
+------------------------------ ------------------------------ ------------------------------ 
+alcoholic                      limit                          Alexander                      
+
+TABLE: Oameni
+ID                             Nume                           Importator                     
+------------------------------ ------------------------------ ------------------------------ 
+alcoholic                      limit                          Alexander                      
+
+Table "Economie" does not contain column "Societati_Comerciale".

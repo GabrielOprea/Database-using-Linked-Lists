@@ -1,0 +1,20 @@
+INIT_DB farmacie
+CREATE Uber FLOAT Impozit Discount Tip
+DELETE Uber
+PRINT_DB
+CREATE Utilaje FLOAT Consum Discount ID Pret/metru Tip
+CREATE Ambientale INT Disponibile Cantitate
+ADD Ambientale 34 89
+ADD Uber 0.9764 0.2147 0.1225
+ADD Utilaje 0.3346 0.0485 0.0967 0.0381 0.0081
+ADD Bujii 45 18 93
+PRINT Utilaje
+DELETE Utilaje Pret/metru < 0.1729
+DELETE Ambientale
+PRINT_DB
+PRINT Uber
+ADD Uber 0.5908 0.1811 0.6194
+SEARCH Ambientale Societati_Comerciale == 106
+SEARCH Uber Salariu_baza < 0.9164
+CREATE Mirodenii FLOAT Consum Discount Tip ID
+DELETE_DB

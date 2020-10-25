@@ -1,0 +1,9 @@
+TABLE: Bere
+Consum                         ID                             TVA                            
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Localitate                     Regiune                        Tara_Origine                   
+------------------------------ ------------------------------ ------------------------------ 
+
+Table "Economie" does not contain column "Olimpici".

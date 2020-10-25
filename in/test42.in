@@ -1,0 +1,40 @@
+INIT_DB asociatie_locatari
+CREATE Uber FLOAT ID Pret/bucata Salariu_baza Consum
+SEARCH Uber ID < 0.3622
+ADD Uber 0.0106 0.0334 0.8837 0.3746
+PRINT Uber
+CREATE Balast FLOAT Impozit ID TVA
+SEARCH Balast Pret/metru == 0.6172
+DELETE Uber
+ADD Balast 0.4519 0.5736 0.4772
+PRINT_DB
+ADD Uber 0.2222 0.0677 0.5076 0.0062
+PRINT_DB
+PRINT_DB
+ADD Balast 0.7431 0.5283 0.0410
+ADD Electronice 1
+ADD Uber 0.8915 0.3464 0.4497 0.4001
+CREATE Fainoase INT Rating Marcaje Restantieri Nr_Defecte
+ADD Balast 0.0031 0.5591 0.6419
+ADD Balast 0.8935 0.8364 0.9259
+PRINT Uber
+DELETE Balast TVA == 0.1125
+PRINT Uber
+CREATE Bujii INT Marcaje
+PRINT Fainoase
+CREATE Racoritoare INT Olimpici Cantitate
+DELETE Racoritoare Marcaje < 60
+ADD Uber 0.0157 0.0665 0.7407 0.6041
+PRINT_DB
+ADD Fainoase 125 32 224 79
+PRINT Racoritoare
+ADD Masini 0.5037 0.3606 0.5311
+PRINT Tropicale
+ADD Racoritoare 213 75
+ADD Balast 0.0684 0.2289 0.6128
+DELETE Racoritoare
+ADD Racoritoare 25 188
+PRINT_DB
+ADD Balast 0.8918 0.6758 0.3759
+PRINT_DB
+DELETE_DB

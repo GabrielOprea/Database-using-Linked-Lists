@@ -1,0 +1,20 @@
+INIT_DB farmacie
+CREATE Utilaje FLOAT Pret/metru Total
+PRINT_DB
+PRINT_DB
+ADD Utilaje 0.1216 0.3242
+DELETE Utilaje Consum != 0.8168
+PRINT Utilaje
+CREATE Economie INT Societati_Comerciale Disponibile Rezervate ID Nr_Defecte
+ADD Ambientale 205
+CREATE Asistenti STRING ID Denumire Garantie Localitate Strada
+ADD Asistenti nondescript ugly Bonnie Douglas Cox
+PRINT_DB
+ADD Asistenti Rivera Randy Elizabeth Perez Roberts
+ADD Economie 160 64 204 186 57
+CREATE Instalatii FLOAT ID Impozit Consum TVA Tip
+CREATE Mirodenii FLOAT Salariu_baza Tip
+CREATE Tropicale INT Restantieri ID Rating
+ADD Economie 22 30 79 72 188
+PRINT_DB
+DELETE_DB

@@ -1,0 +1,127 @@
+INIT_DB universitate
+CREATE Bere FLOAT Pret/bucata Discount Salariu_baza TVA Pret/metru Impozit ID
+ADD Bere 0.1828 0.2612 0.4718 0.9925 0.2098 0.8671 0.9365
+ADD Bere 0.7736 0.1823 0.4213 0.0674 0.1055 0.9561 0.5054
+PRINT Bere
+ADD Bere 0.1234 0.1097 0.7360 0.3467 0.8596 0.3363 0.1914
+CREATE Utilaje FLOAT Consum Pret/bucata Tip Salariu_baza ID Impozit Discount
+PRINT_DB
+CREATE Electronice INT Societati_Comerciale Cantitate Marcaje Rezervate Restantieri ID
+DELETE Masini
+CREATE Doctori STRING Prenume Tara_Origine Nume Regiune Denumire ID
+CREATE Bursieri STRING Nume Strada Denumire ID Garantie Prenume Importator
+DELETE Studenti Tara_Origine <= keen
+DELETE Electronice Disponibile >= 386223
+PRINT_DB
+ADD Studenti Shawn Irene Rogers threatening Smith Young horrible
+DELETE Doctori Prenume > Collins
+PRINT_DB
+PRINT Doctori
+ADD Bere 0.0654 0.4035 0.2145 0.3189 0.3897 0.6034 0.4886
+CREATE Balast FLOAT ID Consum Tip Discount TVA Pret/metru Pret/bucata
+CREATE Studenti STRING Garantie Localitate ID Regiune Strada Importator
+ADD Bursieri ice Moore humorous Andrea Raymond snatch synonymous
+ADD Bere 0.3605 0.2330 0.8873 0.7119 0.9238 0.6037 0.2715
+SEARCH Studente Rating != 479470
+PRINT Balast
+ADD Profesori Ann summer Denise Linda downtown subtract wiry
+DELETE Balast ID == 0.9767
+PRINT_DB
+DELETE Doctori Prenume < measure
+PRINT Bursieri
+PRINT_DB
+CREATE Fainoase INT Rezervate Marcaje Cantitate Nr_Defecte Disponibile Olimpici Societati_Comerciale Restantieri
+CREATE Ambientale INT Nr_Defecte Olimpici Cantitate ID Rating Disponibile Marcaje Rezervate
+DELETE Tropicale Societati_Comerciale < 283399
+PRINT_DB
+PRINT Doctori
+CREATE Echipari INT Nr_Defecte ID Rezervate Restantieri Societati_Comerciale Cantitate
+PRINT Angajati
+ADD Mirodenii 0.8162 0.3699 0.6678 0.2756 0.4760 0.8024 0.7153 0.7057
+ADD Fainoase 471532 213446 342035 652608 565447 35016 62605 550908
+ADD Balast 0.7320 0.6586 0.4066 0.4575 0.5635 0.0609 0.0055
+PRINT Echipari
+PRINT_DB
+ADD Ambientale 644861 545401 579478 451010 170708 524359 218115 652344
+ADD Mirodenii 0.4408 0.4501 0.6895 0.2036 0.0891 0.7151 0.9730 0.2978
+ADD Studenti simple Moore synonymous squeal Lillian Gonzales
+PRINT Studente
+PRINT_DB
+ADD Mirodenii 0.9122 0.8470 0.4070 0.0585 0.7335 0.7388 0.8556 0.0502
+PRINT Studenti
+CREATE Tropicale INT Marcaje Olimpici Nr_Defecte Rezervate Restantieri Disponibile Cantitate
+PRINT Echipari
+ADD Utilaje 0.3535 0.4900 0.3238 0.6615 0.9215 0.0247 0.1525
+SEARCH Studente ID != 547575
+PRINT Studenti
+DELETE Fainoase
+DELETE Doctori Tara_Origine == Green
+ADD Obiecte 0.2479 0.7616 0.3434 0.7224 0.3733 0.9525 0.9791
+ADD Utilaje 0.4971 0.4476 0.7535 0.4599 0.1051 0.5881 0.7651
+CREATE Masini FLOAT Pret/bucata Pret/metru Tip Salariu_baza ID TVA Discount
+ADD Bere 0.8525 0.4314 0.8385 0.8704 0.4661 0.0451 0.3068
+PRINT Doctori
+ADD Linoleum 598714 627575 523911 134308 339221 459728 540757
+ADD Elevi line Bryant Kathryn Gregory motionless Ruby hour
+ADD Bere 0.7911 0.1558 0.3601 0.1752 0.8044 0.5731 0.9233
+PRINT_DB
+ADD Bursieri bake racial jewel nice Ward Gonzalez drip
+DELETE Echipamente
+CREATE Salarii FLOAT Salariu_baza Total Consum Impozit ID Tip Pret/metru
+PRINT_DB
+ADD Bursieri brush Brooks fancy Bell Patricia Garcia bloody
+CREATE Super_Cars STRING ID Tara_Origine Importator Localitate Garantie Nume Strada
+DELETE Electronice
+ADD Super_Cars Benjamin arm Adam synonymous shape Evans Larry
+PRINT Super_Cars
+PRINT_DB
+SEARCH Profesori ID >= bells
+DELETE Super_Cars
+ADD Utilaje 0.6947 0.4571 0.1774 0.4399 0.4560 0.1864 0.6117
+DELETE Asistenti
+DELETE Masini
+PRINT_DB
+PRINT_DB
+SEARCH Masini Pret/metru != 0.9284
+ADD Angajati eggnog Butler damaging horrible Bryant queue Kathy Linda
+CREATE Bujii INT ID Olimpici Societati_Comerciale Marcaje Nr_Defecte Rezervate
+ADD Bujii 205269 61265 115801 489719 246502 208006
+DELETE Balast Total == 0.3348
+ADD Masini 0.4204 0.1851 0.3643 0.4568 0.1822 0.4296 0.7150
+ADD Utilaje 0.1320 0.7316 0.4519 0.2389 0.9934 0.3473 0.1273
+CREATE Oameni STRING Strada ID Localitate Tara_Origine Nume Garantie
+PRINT Salarii
+PRINT_DB
+SEARCH Tropicale Rezervate != 584517
+ADD Doctori house berry hot secret da dazzling
+PRINT_DB
+PRINT Echipari
+ADD Balast 0.3674 0.2183 0.7552 0.6290 0.7738 0.7884 0.5367
+PRINT Fainoase
+PRINT Profesori
+ADD Studenti aunt Henry Anne Gonzales key entertaining
+PRINT Electronice
+CREATE Profesori STRING ID Regiune Prenume Strada Garantie Nume
+DELETE Super_Cars
+PRINT Utilaje
+PRINT Salarii
+SEARCH Bursieri Denumire >= Kelly
+DELETE Bujii Restantieri == 639028
+PRINT Doctori
+PRINT Oameni
+PRINT_DB
+DELETE Tropicale Rating == 3459
+ADD Doctori Stephen rate Shawn event Sanders Adams
+ADD Studente 556051 609754 517621 621741 356360 173110
+PRINT Utilaje
+ADD Echipari 126607 398524 393098 85183 379430 643949
+PRINT Profesori
+DELETE Bursieri
+ADD Ambientale 417247 634258 31385 472499 331454 146672 295814 281786
+ADD Fainoase 30942 182421 336636 6351 96303 249753 318687 201881
+SEARCH Salarii ID < 0.5608
+PRINT Oameni
+PRINT Super_Cars
+PRINT_DB
+ADD Bursieri verdant useless probable green change Shawn Stephen
+DELETE_DB

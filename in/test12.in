@@ -1,0 +1,10 @@
+INIT_DB parc_auto
+CREATE Instalatii FLOAT Tip
+CREATE Asistenti STRING Garantie Localitate Prenume
+ADD Instalatii 0.9478
+ADD Instalatii 0.0155
+PRINT Instalatii
+PRINT Asistenti
+CREATE Studente INT Olimpici Cantitate
+ADD Asistenti rustic key Ward
+DELETE_DB

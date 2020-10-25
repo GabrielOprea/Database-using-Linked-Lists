@@ -1,0 +1,122 @@
+INIT_DB asociatie_locatari
+CREATE Echipari INT Olimpici Nr_Defecte Disponibile Rezervate Cantitate Marcaje ID Rating
+ADD Uber 0.8629 0.0963 0.8729 0.8656 0.1047 0.1965
+CREATE Bursieri STRING Tara_Origine Nume Importator Regiune Strada Prenume Localitate
+PRINT_DB
+ADD Bursieri downtown Jack Anna marble keen Green Henry
+CREATE Economie INT Marcaje Nr_Defecte Cantitate ID Restantieri Rating
+ADD Echipari 154306 284094 80540 224545 79724 486024 508782 338284
+PRINT Bursieri
+ADD Echipari 354497 243485 141553 628542 194434 88007 90919 5638
+DELETE Elevi
+CREATE Bujii INT Marcaje Restantieri Disponibile Societati_Comerciale Rating Nr_Defecte ID
+CREATE Doctori STRING Garantie Localitate Regiune ID Denumire Tara_Origine Strada
+CREATE Elevi STRING Regiune Nume Tara_Origine ID Denumire Strada
+SEARCH Elevi ID <= line
+CREATE Masini FLOAT Pret/bucata Salariu_baza ID Discount TVA Tip Pret/metru Impozit
+CREATE Camioane FLOAT Pret/metru Salariu_baza Pret/bucata Discount TVA Consum
+ADD Economie 95682 544973 397465 503109 627703 8740
+ADD Elevi probable screeching subtract Henry Moore blade
+DELETE Masini
+CREATE Tropicale INT Rezervate Disponibile Societati_Comerciale Nr_Defecte Cantitate Rating Olimpici ID
+PRINT_DB
+ADD Mirodenii 0.4340 0.8190 0.2374 0.2391 0.5902 0.4371 0.2255 0.8000
+ADD Masini 0.2844 0.1946 0.5643 0.6117 0.1887 0.3114 0.7295 0.0624
+DELETE Studente
+PRINT_DB
+DELETE Tropicale Nr_Defecte > 367749
+SEARCH Salarii Impozit >= 0.2793
+SEARCH Studenti Regiune == Lillian
+PRINT Camioane
+ADD Electronice 106352 289527 596075 628830 19006 82257 533831 619935
+ADD Elevi Walker Ruby luxuriant Adam Benjamin Kathryn
+CREATE Mirodenii FLOAT Total Discount Pret/bucata ID Impozit Consum
+PRINT_DB
+ADD Utilaje 0.0260 0.4144 0.5891 0.7019 0.4636 0.9050 0.3750
+PRINT Fainoase
+ADD Doctori workable event handy lying Rodriguez Hughes Rose
+ADD Masini 0.5445 0.2605 0.8240 0.7399 0.4328 0.2548 0.3536 0.9103
+DELETE Economie Nr_Defecte != 110078
+PRINT_DB
+PRINT Mirodenii
+DELETE Masini
+ADD Echipari 363136 489043 645728 282548 163327 249036 345920 433284
+CREATE Fainoase INT Disponibile Rezervate Rating Cantitate Nr_Defecte ID
+PRINT_DB
+ADD Economie 703 243222 188815 34150 185998 587075
+ADD Racoritoare 135638 279148 329866 564209 247695 403490
+DELETE Doctori Garantie <= reply
+DELETE Mirodenii
+ADD Tropicale 229 105160 528402 102713 63163 451556 66496 276783
+ADD Mirodenii 0.2047 0.1142 0.0349 0.8423 0.5588 0.7792
+ADD Bujii 636903 258700 475701 194060 234081 210376 624954
+CREATE Angajati STRING Localitate ID Regiune Prenume Tara_Origine Strada Nume
+CREATE Utilaje FLOAT ID Tip TVA Discount Consum Impozit
+PRINT Echipari
+PRINT_DB
+PRINT_DB
+ADD Angajati Paula Lois snatch Brooks Paula Hughes Green
+PRINT Balast
+ADD Doctori Moore society Patricia arm Walker Edward recondite
+DELETE Oameni
+PRINT Economie
+PRINT Electronice
+ADD Angajati Lisa unique Lewis escape Jerry Jimmy yellow
+DELETE Masini Impozit >= 0.8400
+ADD Camioane 0.7141 0.4913 0.0929 0.4536 0.2496 0.7631
+ADD Utilaje 0.8998 0.3876 0.6087 0.9396 0.9665 0.0928
+ADD Camioane 0.1739 0.8750 0.5640 0.0264 0.2029 0.4646
+PRINT_DB
+DELETE Utilaje
+CREATE Ambientale INT Olimpici Cantitate Marcaje Restantieri Societati_Comerciale Disponibile Rating Nr_Defecte
+SEARCH Echipari Rating <= 495554
+ADD Utilaje 0.7658 0.2444 0.4763 0.9341 0.0322 0.9730
+CREATE Profesori STRING Garantie Nume Regiune Strada Prenume Importator Denumire
+SEARCH Doctori Strada == uptight
+PRINT Angajati
+ADD Economie 621931 88633 101087 256508 345374 246817
+ADD Bujii 222089 364553 497484 563420 267185 602556 627657
+PRINT_DB
+DELETE Echipari
+PRINT_DB
+SEARCH Utilaje Discount < 0.8461
+ADD Asistenti Sandra Carter wasteful afterthought summer carve
+PRINT Doctori
+DELETE Ambientale ID < 117657
+ADD Profesori Adam Torres limit Mark lock Linda measure
+PRINT_DB
+SEARCH Bursieri Strada != meeting
+DELETE Echipari
+ADD Bujii 453196 224765 304348 441944 326205 441561 482391
+PRINT_DB
+PRINT Profesori
+ADD Oameni Anderson Perry Earl Jonathan Lisa bless
+ADD Balast 0.0306 0.3267 0.8299 0.0051 0.4205 0.5170 0.8371
+PRINT Racoritoare
+DELETE Oameni Regiune == eggnog
+ADD Elevi Christina Foster beds Turner rich Brian
+ADD Profesori Bryant Louise daughter drip Mitchell Alexander pet
+CREATE Balast FLOAT TVA Salariu_baza ID Impozit Pret/bucata Consum Total
+DELETE Mirodenii Impozit > 0.6671
+PRINT_DB
+ADD Economie 286853 143906 233551 536023 344710 379757
+PRINT_DB
+CREATE Obiecte FLOAT Pret/metru Consum Total Discount TVA ID
+CREATE Uber FLOAT Impozit Pret/metru Tip Discount ID Salariu_baza Consum
+SEARCH Bujii Olimpici != 469614
+PRINT Bujii
+CREATE Racoritoare INT Olimpici Rezervate Marcaje Cantitate Nr_Defecte Societati_Comerciale ID Disponibile
+ADD Oameni key Smith Anne Frances responsible horrible
+ADD Bujii 596738 122862 480542 171793 19908 167339 319856
+ADD Mirodenii 0.7383 0.0380 0.2638 0.0916 0.6498 0.7829
+PRINT_DB
+CREATE Super_Cars STRING Strada Importator Nume Tara_Origine Denumire Garantie Prenume ID
+SEARCH Echipamente Garantie > David
+ADD Obiecte 0.0740 0.9563 0.4319 0.2452 0.2852 0.6608
+PRINT Echipari
+PRINT Racoritoare
+DELETE Ambientale ID >= 165320
+ADD Bere 0.5673 0.0235 0.2619 0.8481 0.6313 0.6736 0.0894
+CREATE Bere FLOAT Pret/metru Salariu_baza TVA Discount Impozit Consum
+CREATE Instalatii FLOAT Pret/bucata Total Pret/metru Salariu_baza ID TVA Consum Tip
+DELETE_DB

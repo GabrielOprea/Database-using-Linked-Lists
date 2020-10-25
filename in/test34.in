@@ -1,0 +1,20 @@
+INIT_DB florarie
+CREATE Camioane FLOAT Pret/metru
+SEARCH Camioane TVA >= 0.3531
+CREATE Bujii INT Marcaje ID Cantitate
+PRINT_DB
+DELETE Camioane
+PRINT Camioane
+ADD Camioane 0.2681
+CREATE Angajati STRING Localitate
+PRINT Angajati
+CREATE Balast FLOAT Total Pret/bucata Impozit Consum
+DELETE Angajati Regiune != Jerry
+DELETE Camioane
+DELETE Angajati Importator != Roberts
+ADD Balast 0.5074 0.1044 0.3861 0.7106
+ADD Balast 0.1638 0.3744 0.5449 0.8880
+DELETE Studenti Regiune >= rate
+ADD Camioane 0.9373
+CREATE Echipamente STRING Prenume Localitate
+DELETE_DB

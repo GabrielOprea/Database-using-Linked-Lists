@@ -1,0 +1,40 @@
+INIT_DB universitate
+CREATE Linoleum INT Olimpici Marcaje
+ADD Echipari 52 251 161 135 8 153
+ADD Linoleum 118 10
+CREATE Salarii FLOAT Salariu_baza Discount TVA Consum Pret/bucata Pret/metru
+DELETE Linoleum Rezervate < 35
+ADD Linoleum 163 168
+PRINT Linoleum
+DELETE Asistenti
+DELETE Salarii Total >= 0.9171
+CREATE Obiecte FLOAT Discount Pret/bucata
+ADD Utilaje 0.8397 0.9569 0.7746 0.6870 0.2317 0.2686 0.1271
+CREATE Super_Cars STRING ID Localitate Garantie Strada Nume
+ADD Linoleum 54 216
+DELETE Obiecte
+PRINT_DB
+CREATE Echipamente STRING Strada Tara_Origine
+DELETE Echipamente Nume == Keith
+SEARCH Super_Cars Tara_Origine <= remind
+ADD Obiecte 0.7314 0.3205
+ADD Super_Cars delay summer unique Denise Carter
+ADD Super_Cars Patterson impossible Randy Nicholas damaging
+SEARCH Salarii Total != 0.0542
+ADD Super_Cars hungry Randy Carter dead Torres
+CREATE Angajati STRING Tara_Origine Localitate
+PRINT Balast
+PRINT Super_Cars
+DELETE Salarii Impozit > 0.0851
+SEARCH Obiecte Impozit == 0.6545
+ADD Salarii 0.5577 0.4802 0.7254 0.3584 0.4698 0.1600
+SEARCH Angajati Denumire <= racial
+CREATE Bujii INT Nr_Defecte Marcaje Restantieri Rezervate Societati_Comerciale
+PRINT Salarii
+PRINT_DB
+PRINT Bujii
+CREATE Instalatii FLOAT Pret/bucata Discount TVA
+PRINT_DB
+ADD Angajati Hernandez Frances
+ADD Bujii 101 172 207 96 96
+DELETE_DB

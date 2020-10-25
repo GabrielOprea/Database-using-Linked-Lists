@@ -1,0 +1,40 @@
+INIT_DB depozit_auchan
+CREATE Tropicale INT Cantitate Nr_Defecte Olimpici Disponibile ID Societati_Comerciale
+DELETE Tropicale
+DELETE Tropicale
+CREATE Bursieri STRING ID
+ADD Tropicale 46 228 128 23 256 162
+ADD Tropicale 141 136 196 113 185 230
+ADD Bursieri bells
+PRINT Bursieri
+PRINT Bursieri
+ADD Bursieri lying
+ADD Bursieri Annie
+CREATE Balast FLOAT Tip Total TVA Discount Pret/bucata Salariu_baza Consum
+SEARCH Bursieri Importator > Kelly
+ADD Tropicale 93 250 184 90 20 141
+DELETE Bursieri
+PRINT Bursieri
+PRINT_DB
+PRINT Bursieri
+PRINT_DB
+SEARCH Tropicale Restantieri != 93
+CREATE Economie INT Cantitate Marcaje Restantieri ID Disponibile
+ADD Utilaje 0.2923 0.1401
+CREATE Electronice INT Olimpici Marcaje Societati_Comerciale Rezervate Restantieri ID Cantitate
+ADD Economie 187 203 65 101 90
+DELETE Tropicale Olimpici > 63
+PRINT Economie
+ADD Tropicale 76 42 78 255 79 252
+CREATE Bere FLOAT Consum Impozit Pret/bucata Salariu_baza
+DELETE Economie Rezervate <= 30
+ADD Echipari 140 61 217 219 242
+ADD Salarii 0.1238 0.4579 0.6916 0.9314 0.9622
+DELETE Electronice
+PRINT_DB
+ADD Economie 182 90 182 110 225
+CREATE Ambientale INT Societati_Comerciale Cantitate Marcaje
+PRINT_DB
+ADD Bursieri coat
+ADD Ambientale 231 68 127
+DELETE_DB

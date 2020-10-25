@@ -1,0 +1,10 @@
+INIT_DB piese_auto
+CREATE Studenti STRING Denumire
+CREATE Studente INT Rezervate ID
+ADD Studenti Randy
+ADD Studenti ask
+PRINT Studenti
+CREATE Asistenti STRING Importator
+ADD Asistenti cluttered
+PRINT_DB
+DELETE_DB

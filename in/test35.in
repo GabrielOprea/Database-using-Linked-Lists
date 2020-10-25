@@ -1,0 +1,20 @@
+INIT_DB asociatie_locatari
+CREATE Profesori STRING Importator Strada Tara_Origine
+CREATE Electronice INT Disponibile Rating ID
+ADD Electronice 229 146 38
+PRINT Electronice
+PRINT Profesori
+ADD Profesori Foster Martinez hot
+CREATE Masini FLOAT Pret/metru Consum Impozit Tip
+CREATE Balast FLOAT Pret/metru Salariu_baza Impozit Pret/bucata Tip
+ADD Tropicale 203 131
+DELETE Mirodenii TVA == 0.6120
+CREATE Ambientale INT Rezervate Rating Cantitate
+CREATE Echipamente STRING Prenume Strada Regiune Localitate
+CREATE Bursieri STRING Denumire Nume Regiune
+SEARCH Bursieri Localitate != Patrick
+ADD Balast 0.5456 0.9039 0.2685 0.9162 0.4586
+CREATE Studenti STRING Nume Denumire Strada Importator
+PRINT Electronice
+ADD Ambientale 255 81 117
+DELETE_DB

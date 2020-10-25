@@ -1,0 +1,20 @@
+INIT_DB parc_auto
+CREATE Angajati STRING Denumire Localitate Regiune
+CREATE Salarii FLOAT ID Salariu_baza TVA Total
+PRINT Angajati
+CREATE Linoleum INT Rezervate Disponibile Rating Nr_Defecte
+ADD Salarii 0.7268 0.4987 0.5711 0.2052
+DELETE Linoleum Societati_Comerciale < 129
+ADD Linoleum 47 27 240 1
+DELETE Linoleum Cantitate >= 180
+PRINT_DB
+PRINT Angajati
+DELETE Uber Pret/metru == 0.7964
+DELETE Angajati
+PRINT Angajati
+CREATE Echipamente STRING Localitate
+CREATE Obiecte FLOAT Pret/metru Salariu_baza TVA ID
+PRINT_DB
+PRINT_DB
+DELETE Echipamente Denumire != delay
+DELETE_DB

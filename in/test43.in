@@ -1,0 +1,40 @@
+INIT_DB mobilier
+CREATE Racoritoare INT Rezervate Olimpici Marcaje Restantieri Rating
+ADD Racoritoare 110 172 249 136 245
+ADD Racoritoare 255 70 173 204 179
+PRINT_DB
+PRINT_DB
+SEARCH Racoritoare Cantitate != 128
+PRINT Racoritoare
+ADD Racoritoare 139 4 142 188 205
+ADD Racoritoare 71 229 206 139 96
+ADD Racoritoare 176 42 70 253 199
+CREATE Elevi STRING Denumire Garantie ID Importator Prenume Nume
+DELETE Elevi Nume >= Rose
+SEARCH Elevi Strada <= Kathryn
+ADD Utilaje 0.8228 0.9631 0.1250 0.1664 0.4692 0.2232
+PRINT Racoritoare
+PRINT_DB
+CREATE Bujii INT Disponibile Nr_Defecte
+CREATE Studenti STRING Strada Localitate ID Importator Nume Tara_Origine Prenume
+DELETE Elevi
+DELETE Elevi Garantie <= plants
+ADD Racoritoare 246 42 203 239 9
+CREATE Economie INT Rezervate Disponibile Cantitate Rating Marcaje
+ADD Elevi Rivera hot blind Alexander Lewis Campbell
+ADD Studenti drip apathetic past bake lunch rustic Earl
+ADD Racoritoare 61 189 155 160 246
+ADD Racoritoare 44 250 108 25 224
+PRINT Economie
+DELETE Studenti Denumire == workable
+DELETE Uber TVA > 0.6459
+ADD Economie 184 114 150 29 194
+ADD Studenti Elizabeth credit key Emily unique Turner Barnes
+PRINT_DB
+PRINT_DB
+ADD Studenti Irene nu development Coleman Benjamin Diana squeal
+ADD Economie 233 36 3 86 109
+PRINT_DB
+PRINT Bujii
+CREATE Masini FLOAT Consum Discount Impozit Salariu_baza Total TVA ID
+DELETE_DB

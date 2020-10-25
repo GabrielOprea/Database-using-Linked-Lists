@@ -1,0 +1,10 @@
+INIT_DB farmacie
+CREATE Bujii INT Nr_Defecte Disponibile
+CREATE Salarii FLOAT TVA Discount Impozit
+ADD Bujii 2 8
+CREATE Mirodenii FLOAT Impozit Consum
+CREATE Ambientale INT Rezervate
+CREATE Profesori STRING ID Tara_Origine
+SEARCH Ambientale ID > 9
+PRINT Mirodenii
+DELETE_DB

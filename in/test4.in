@@ -1,0 +1,10 @@
+INIT_DB componente_pc
+CREATE Balast FLOAT Total Consum
+ADD Bujii 3
+PRINT Balast
+PRINT_DB
+CREATE Camioane FLOAT Salariu_baza Discount
+PRINT Balast
+ADD Camioane 0.7167 0.4524
+ADD Camioane 0.6866 0.0174
+DELETE_DB

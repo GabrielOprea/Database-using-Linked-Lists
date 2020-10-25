@@ -1,0 +1,40 @@
+INIT_DB companie
+CREATE Profesori STRING Strada Nume Prenume Denumire ID
+DELETE Profesori
+PRINT Profesori
+ADD Profesori verdant King blind Sandra Patrick
+ADD Profesori wrist Foster Jane Lewis ask
+ADD Profesori pollution sort straight Edwards Diane
+ADD Profesori crooked Kathryn cry Kathryn Anthony
+PRINT Profesori
+CREATE Oameni STRING Importator Strada Tara_Origine
+DELETE Profesori
+ADD Profesori Rachel Bryant Foster Howard Green
+DELETE Profesori Garantie <= lock
+CREATE Electronice INT Marcaje Cantitate
+CREATE Doctori STRING Regiune Nume
+ADD Uber 0.0776 0.5005 0.7453 0.0491 0.6708 0.8541 0.7841
+ADD Profesori Ann Lisa workable Baker Linda
+CREATE Fainoase INT Cantitate Rating Rezervate
+DELETE Profesori Prenume == Hernandez
+PRINT Profesori
+ADD Profesori street horrible Lisa test Frances
+ADD Fainoase 183 175 209
+PRINT Profesori
+ADD Ambientale 131 171 147 90 230 252
+CREATE Super_Cars STRING Denumire ID Importator Regiune Strada Prenume
+CREATE Ambientale INT ID Nr_Defecte Restantieri Cantitate Rating
+PRINT_DB
+ADD Doctori Rose Sara
+CREATE Tropicale INT ID Societati_Comerciale Marcaje
+ADD Profesori unique Denise Emily queue nice
+ADD Oameni Anderson Charles nondescript
+CREATE Balast FLOAT Pret/metru Tip
+DELETE Oameni
+ADD Oameni plants Andrea Frances
+ADD Doctori impulse event
+ADD Balast 0.7590 0.9368
+PRINT_DB
+ADD Doctori Garcia Price
+SEARCH Profesori Localitate != Randy
+DELETE_DB

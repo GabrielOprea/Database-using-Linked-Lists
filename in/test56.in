@@ -1,0 +1,40 @@
+INIT_DB parc_auto
+CREATE Tropicale INT Marcaje Olimpici Restantieri
+ADD Tropicale 187 102 72
+CREATE Echipari INT ID Olimpici Marcaje
+ADD Tropicale 215 161 126
+DELETE Tropicale Cantitate >= 231
+CREATE Oameni STRING ID Strada Importator Tara_Origine Garantie Regiune
+PRINT Super_Cars
+PRINT_DB
+ADD Tropicale 21 126 19
+ADD Oameni Baker Price Anne Rose girls Ramirez
+ADD Echipari 42 192 28
+DELETE Oameni Nume >= Annie
+ADD Doctori Price Perry Hill Henry Jenkins
+DELETE Tropicale
+ADD Echipari 247 151 106
+ADD Oameni Diane humorous workable probable Adams Jennifer
+PRINT_DB
+ADD Echipari 124 166 102
+PRINT_DB
+ADD Oameni wing Jeremy thoughtful Gregory Baker Annie
+CREATE Studente INT Rezervate Societati_Comerciale Rating Olimpici Nr_Defecte
+CREATE Doctori STRING Importator Garantie
+ADD Studente 164 234 180 200 115
+PRINT Studente
+CREATE Electronice INT Olimpici Rezervate
+PRINT_DB
+CREATE Asistenti STRING Tara_Origine Strada
+ADD Tropicale 225 175 207
+PRINT_DB
+CREATE Masini FLOAT Tip TVA
+PRINT_DB
+PRINT Obiecte
+ADD Electronice 197 186
+ADD Studente 28 167 11 60 147
+ADD Echipari 191 135 230
+ADD Masini 0.7477 0.1327
+CREATE Bujii INT Nr_Defecte ID Marcaje Disponibile Rating Restantieri
+SEARCH Echipari Societati_Comerciale < 168
+DELETE_DB

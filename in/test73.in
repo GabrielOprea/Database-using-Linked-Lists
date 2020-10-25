@@ -1,0 +1,173 @@
+INIT_DB mobilier
+CREATE Doctori STRING ID Importator Denumire Nume Strada Regiune Prenume
+ADD Mirodenii 0.1614 0.6803 0.3427 0.8308 0.8136 0.2123
+ADD Doctori Paula secret uptight escape Larry delay remind
+ADD Doctori blade Rose Shawn Rivera Griffin Jane street
+PRINT_DB
+CREATE Bujii INT Cantitate Rating Societati_Comerciale Rezervate Olimpici ID Restantieri Marcaje
+PRINT Masini
+CREATE Ambientale INT Rezervate ID Marcaje Cantitate Nr_Defecte Restantieri
+PRINT Angajati
+ADD Uber 0.6330 0.9338 0.3526 0.1273 0.2042 0.2345
+DELETE Bujii
+PRINT Bujii
+ADD Ambientale 314018 548806 299475 546454 594598 582882
+ADD Ambientale 182808 384130 617571 410087 477026 130441
+ADD Ambientale 653864 17387 467262 301765 515079 275346
+PRINT Economie
+PRINT Doctori
+PRINT Ambientale
+DELETE Ambientale Disponibile < 430255
+DELETE Angajati Importator <= Bonnie
+DELETE Bursieri Prenume > Ruby
+PRINT Bujii
+PRINT_DB
+PRINT Ambientale
+PRINT Ambientale
+DELETE Ambientale
+DELETE Fainoase Rezervate > 410110
+SEARCH Doctori Garantie <= thoughtful
+CREATE Economie INT Rating Rezervate ID Cantitate Restantieri Societati_Comerciale Olimpici
+DELETE Economie
+CREATE Fainoase INT ID Nr_Defecte Olimpici Restantieri Disponibile Cantitate
+ADD Profesori Irene Thompson trace Nicholas Bell Lisa Kathryn
+DELETE Ambientale
+PRINT_DB
+PRINT Echipamente
+ADD Ambientale 293668 432150 67665 623676 45133 543345
+PRINT_DB
+ADD Obiecte 0.0212 0.0156 0.9349 0.4722 0.1623 0.8273 0.5295
+CREATE Bere FLOAT Tip Impozit Salariu_baza Consum ID Discount TVA
+PRINT_DB
+CREATE Super_Cars STRING ID Regiune Prenume Garantie Nume Importator Tara_Origine Localitate
+DELETE Masini
+ADD Ambientale 363766 520868 58825 524881 648850 647988
+CREATE Angajati STRING Nume Importator ID Localitate Denumire Tara_Origine Regiune
+DELETE Super_Cars
+PRINT_DB
+CREATE Racoritoare INT Rezervate Societati_Comerciale Olimpici Nr_Defecte Cantitate Restantieri Marcaje
+DELETE Tropicale Rezervate < 473758
+ADD Uber 0.7434 0.9711 0.9595 0.8952 0.3537 0.4312 0.0028
+SEARCH Profesori Localitate != Jenkins
+ADD Racoritoare 265279 421868 364778 594627 106366 214602 523503
+DELETE Bere Salariu_baza <= 0.0610
+ADD Masini 0.6136 0.9332 0.6006 0.5405 0.0790 0.5005
+ADD Bujii 557696 4581 303610 414494 412715 595150 607289 470721
+DELETE Racoritoare
+CREATE Linoleum INT Rating Cantitate Disponibile Rezervate Restantieri Marcaje Olimpici ID
+ADD Balast 0.7223 0.7836 0.8898 0.3223 0.5345 0.5803 0.5618
+ADD Economie 284163 471507 269728 630529 372264 327007 272351
+CREATE Profesori STRING Prenume Garantie Localitate ID Tara_Origine Regiune Strada Denumire
+PRINT Economie
+PRINT Racoritoare
+PRINT Mirodenii
+ADD Economie 212187 311460 518063 174283 21698 419241 456300
+PRINT_DB
+CREATE Balast FLOAT Discount Consum Pret/bucata ID Pret/metru Impozit Salariu_baza Total
+ADD Profesori Perez Bryant Campbell Scott hour Irene Long Martha
+ADD Linoleum 531506 511444 231754 236441 511538 616721 292809 295717
+PRINT Economie
+PRINT_DB
+PRINT Fainoase
+PRINT_DB
+PRINT_DB
+DELETE Mirodenii
+DELETE Echipari Olimpici != 538633
+DELETE Echipari Societati_Comerciale <= 350264
+ADD Echipamente Judith Charles Melissa Evans cry difficult
+DELETE Bursieri Tara_Origine == arm
+PRINT Instalatii
+ADD Ambientale 80790 627606 385804 261380 597250 603689
+ADD Bere 0.7761 0.0387 0.7183 0.3863 0.2842 0.8897 0.4041
+CREATE Tropicale INT Rezervate Societati_Comerciale Disponibile Rating Nr_Defecte Restantieri
+DELETE Super_Cars
+PRINT Tropicale
+PRINT Economie
+PRINT_DB
+SEARCH Bere Salariu_baza > 0.7111
+PRINT Economie
+ADD Profesori Brooks Baker hour Powell change Coleman cry Powell
+PRINT Profesori
+PRINT_DB
+DELETE Racoritoare Olimpici < 228774
+DELETE Bujii Marcaje == 88323
+SEARCH Angajati Nume != far-flung
+ADD Bere 0.4644 0.0716 0.4101 0.9849 0.3005 0.3372 0.9415
+ADD Fainoase 518861 528727 68854 351350 511295 196152
+PRINT Camioane
+PRINT_DB
+SEARCH Elevi Denumire <= spiteful
+PRINT Racoritoare
+ADD Asistenti Elizabeth credit Jerry dead plants Griffin Patrick
+CREATE Elevi STRING Localitate ID Nume Prenume Tara_Origine Strada Garantie
+CREATE Oameni STRING Nume ID Prenume Importator Denumire Regiune Tara_Origine Garantie
+ADD Bujii 480782 482533 232670 296119 328745 472129 607138 159154
+CREATE Bursieri STRING Strada Nume Denumire ID Localitate Tara_Origine Importator
+ADD Camioane 0.4473 0.4859 0.0215 0.5834 0.8288 0.7504 0.5703
+ADD Bujii 78186 641712 105814 247390 211364 79737 306913 598344
+CREATE Asistenti STRING Regiune Localitate ID Tara_Origine Denumire Nume Garantie
+PRINT Bere
+ADD Instalatii 0.7986 0.1351 0.5070 0.1111 0.6370 0.6525
+CREATE Echipamente STRING Garantie Nume Regiune Denumire Strada ID Prenume Importator
+PRINT Doctori
+PRINT_DB
+ADD Elevi rich Scott luxuriant lying Bonnie spiteful keen
+ADD Elevi simple Moore test pet straight Hill evasive
+PRINT_DB
+PRINT_DB
+PRINT_DB
+PRINT Bere
+PRINT_DB
+ADD Masini 0.9311 0.6561 0.1860 0.5791 0.3334 0.6749 0.8001
+PRINT Tropicale
+DELETE Fainoase Cantitate > 21387
+ADD Balast 0.5138 0.2638 0.7577 0.6449 0.7076 0.7684 0.0962 0.7950
+PRINT Camioane
+SEARCH Angajati Garantie <= Frances
+DELETE Echipari Disponibile <= 616907
+PRINT_DB
+ADD Studenti Louise line Sanders Parker keen Ward dead Kathy
+ADD Bursieri credit Watson refuse bells Kathryn Jenkins Louise
+PRINT_DB
+ADD Studenti Smith delay luxuriant line Christina Adams Kathleen
+PRINT_DB
+DELETE Fainoase
+ADD Masini 0.0801 0.3630 0.1225 0.4455 0.7443 0.0137 0.0666
+SEARCH Salarii TVA < 0.7192
+DELETE Economie Rezervate > 586432
+ADD Electronice 23192 2999 543609 38048 65464 364220 28699
+ADD Bursieri Foster Kathryn terrific Lewis coat development berry
+DELETE Bere Total == 0.5727
+PRINT Super_Cars
+PRINT_DB
+ADD Fainoase 458407 56933 578117 260506 258152 621109
+SEARCH Fainoase Disponibile > 611974
+ADD Linoleum 272255 20371 251268 647983 543947 431021 529786 463545
+ADD Fainoase 39677 335555 567992 119502 212524 394231
+PRINT Ambientale
+CREATE Uber FLOAT Discount Tip Salariu_baza Consum TVA Total
+PRINT_DB
+DELETE Studenti
+ADD Echipamente event yellow eggnog Brooks Barnes Joyce Brown Carter
+ADD Racoritoare 203657 357948 198009 382508 282178 358803 294816
+ADD Oameni Lisa crooked Gregory impolite noxious bells Cook Bonnie
+ADD Oameni Gonzalez Reed Griffin wasteful King blind Rogers blade
+DELETE Echipari
+ADD Economie 194232 491250 402049 19028 106945 577907 328098
+ADD Studente 146696 17891 617517 618160 384579 276600 510108
+ADD Asistenti Diana Brooks fairies development Jerry Moore Bryant
+PRINT Mirodenii
+ADD Doctori house Jane Timothy summer Linda evasive Lewis
+ADD Super_Cars Keith Rose Collins Sandra Lois Gonzalez Lois reply
+PRINT_DB
+ADD Bere 0.4549 0.0005 0.4469 0.5553 0.7245 0.2648 0.5230
+PRINT Masini
+SEARCH Bere Salariu_baza < 0.4372
+ADD Instalatii 0.0328 0.6875 0.8201 0.9792 0.2528 0.1647 0.7628
+CREATE Studente INT Olimpici Societati_Comerciale Cantitate Marcaje Restantieri Rating ID Disponibile
+PRINT_DB
+ADD Bere 0.1782 0.2008 0.9605 0.0431 0.5547 0.2238 0.4343
+PRINT Oameni
+PRINT Economie
+PRINT_DB
+DELETE_DB

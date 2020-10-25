@@ -1,0 +1,40 @@
+INIT_DB haine
+CREATE Ambientale INT Societati_Comerciale Olimpici ID Marcaje Nr_Defecte
+ADD Ambientale 225 190 53 36 215
+ADD Ambientale 46 239 185 26 48
+SEARCH Ambientale Restantieri != 204
+ADD Ambientale 222 119 117 186 12
+PRINT Ambientale
+ADD Ambientale 49 162 120 181 205
+CREATE Studente INT Nr_Defecte Disponibile Olimpici Marcaje Cantitate ID Rezervate
+ADD Fainoase 74
+PRINT Ambientale
+PRINT Ambientale
+DELETE Ambientale Restantieri == 3
+PRINT Studente
+ADD Ambientale 253 134 87 10 105
+ADD Studente 18 93 56 250 91 126 236
+ADD Studente 170 201 50 17 192 93 107
+SEARCH Studente Rezervate <= 217
+DELETE Ambientale
+ADD Studente 253 251 87 233 171 86 217
+PRINT Studente
+SEARCH Ambientale Rating < 177
+PRINT Ambientale
+CREATE Salarii FLOAT Discount Pret/bucata ID Tip Salariu_baza Consum
+ADD Studente 91 185 103 177 162 53 220
+PRINT_DB
+ADD Studente 144 160 195 218 61 205 170
+SEARCH Studente Rezervate != 40
+PRINT Ambientale
+DELETE Salarii
+ADD Salarii 0.3092 0.2524 0.7334 0.7982 0.8060 0.0346
+ADD Ambientale 194 229 195 88 138
+SEARCH Studente Rezervate < 64
+PRINT Studente
+ADD Studente 94 49 243 55 157 126 202
+ADD Salarii 0.0037 0.4887 0.6559 0.3283 0.9846 0.4648
+CREATE Utilaje FLOAT Pret/bucata Impozit Tip Consum
+PRINT_DB
+PRINT Studente
+DELETE_DB

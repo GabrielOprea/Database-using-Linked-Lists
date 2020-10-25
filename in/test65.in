@@ -1,0 +1,125 @@
+INIT_DB companie
+CREATE Salarii FLOAT TVA Impozit Discount Pret/bucata Pret/metru Tip
+PRINT_DB
+CREATE Uber FLOAT Discount Pret/bucata Total ID Tip TVA Consum Impozit
+SEARCH Uber ID == 0.9388
+PRINT_DB
+ADD Profesori luxuriant sort Earl Ward Nicholas useless Baker
+PRINT Instalatii
+PRINT_DB
+PRINT Uber
+ADD Uber 0.4482 0.6584 0.7942 0.1290 0.1310 0.5101 0.6801 0.9719
+PRINT Racoritoare
+DELETE Salarii Salariu_baza >= 0.9786
+ADD Bujii 503007 141775 181858 99422 236427 600389 206976 357004
+ADD Uber 0.6516 0.9312 0.1016 0.2458 0.1763 0.9854 0.5254 0.7627
+ADD Mirodenii 0.6740 0.5150 0.1077 0.4119 0.4411 0.3216 0.9651 0.1887
+ADD Uber 0.6181 0.4055 0.1872 0.6102 0.2829 0.0116 0.8755 0.9417
+ADD Asistenti remind guarded cry event Raymond admit
+PRINT Bujii
+ADD Salarii 0.5696 0.5282 0.9925 0.1852 0.1157 0.4255
+PRINT Salarii
+ADD Super_Cars guarded hour Jonathan credit dazzling event Lewis threatening
+ADD Salarii 0.7973 0.1641 0.6085 0.8546 0.5407 0.4986
+DELETE Salarii Total >= 0.6806
+ADD Racoritoare 476429 349937 316034 10454 251827 636107 123480 180760
+ADD Uber 0.6378 0.0387 0.4395 0.1737 0.9695 0.1778 0.6504 0.9751
+PRINT Uber
+ADD Bere 0.8371 0.1833 0.9913 0.7684 0.0924 0.9173 0.0010 0.6148
+PRINT_DB
+PRINT Salarii
+ADD Masini 0.5861 0.5887 0.8969 0.5047 0.3512 0.5396
+CREATE Oameni STRING Localitate Nume Tara_Origine Regiune Strada ID Prenume Importator
+CREATE Studente INT Restantieri Rating Olimpici Marcaje Disponibile Nr_Defecte
+ADD Studente 593406 122797 399496 164832 298838 459400
+ADD Oameni uptight eggnog thoughtful Griffin Bryant bloody Patricia fancy
+DELETE Studente
+DELETE Super_Cars
+DELETE Studente Nr_Defecte < 431456
+ADD Oameni Linda Sanders rustic Bonnie Gonzales brush jewel crooked
+PRINT Obiecte
+PRINT Linoleum
+ADD Studente 136567 241674 486950 188619 263870 321640
+CREATE Profesori STRING Localitate Importator Regiune Nume ID Denumire Garantie Prenume
+DELETE Bujii
+PRINT_DB
+PRINT_DB
+DELETE Profesori Denumire != secret
+DELETE Oameni Nume <= wrist
+PRINT Profesori
+CREATE Echipamente STRING Nume Tara_Origine Localitate ID Prenume Denumire
+ADD Echipamente Bonnie Foster Richardson groovy thoughtful Howard
+CREATE Obiecte FLOAT Pret/metru Consum Tip Salariu_baza Impozit Discount
+DELETE Echipamente
+CREATE Bursieri STRING Denumire Regiune Prenume Strada Tara_Origine Localitate Nume
+ADD Asistenti verdant Butler screeching Howard beef downtown wing adventurous
+DELETE Oameni
+ADD Oameni Perry ancient synonymous Ward Henderson apathetic Rivera Douglas
+CREATE Utilaje FLOAT Pret/bucata Total Impozit Consum Pret/metru Discount Tip TVA
+DELETE Obiecte
+PRINT Tropicale
+ADD Oameni Patricia line Garcia handy minor Lisa Kelly apparel
+DELETE Echipamente
+PRINT_DB
+ADD Uber 0.0153 0.1413 0.3321 0.3823 0.3641 0.2936 0.1883 0.0581
+ADD Salarii 0.0311 0.9147 0.8176 0.5619 0.6729 0.8386
+ADD Elevi Griffin trace Raymond Green keen Janet
+PRINT Bursieri
+PRINT Echipamente
+SEARCH Uber Tip <= 0.8474
+PRINT_DB
+DELETE Ambientale
+DELETE Utilaje
+PRINT Profesori
+SEARCH Uber ID < 0.8916
+ADD Bursieri berry downtown drip apparel Jack brush Smith
+DELETE Studenti
+ADD Echipamente Bryant John verdant Lewis Hall Garcia
+ADD Uber 0.6342 0.0623 0.5766 0.3756 0.4578 0.2867 0.2472 0.5703
+DELETE Uber Discount < 0.2221
+CREATE Echipari INT Rating Nr_Defecte ID Marcaje Cantitate Olimpici Societati_Comerciale Disponibile
+ADD Uber 0.6670 0.8753 0.5541 0.1241 0.2121 0.5175 0.6159 0.8438
+DELETE Uber
+CREATE Studenti STRING Garantie Importator Denumire Localitate Prenume Tara_Origine Regiune
+ADD Oameni Bell building Julia Frances Butler Mitchell Kathy Turner
+DELETE Bursieri
+CREATE Mirodenii FLOAT Pret/metru Discount Impozit Tip Consum TVA
+ADD Studenti Emily Lopez ice Rose Long Brenda Rose
+CREATE Electronice INT Disponibile Nr_Defecte Rating Societati_Comerciale Cantitate Restantieri Olimpici Rezervate
+PRINT Bursieri
+DELETE Echipamente Importator >= Paula
+DELETE Electronice Nr_Defecte > 525655
+ADD Bursieri Turner groovy Howard Joyce Howard handy Perez
+ADD Studenti Baker eggnog handy damaging Roberts Parker engine
+CREATE Bujii INT Rating Olimpici Rezervate Restantieri Disponibile Cantitate
+PRINT Oameni
+ADD Racoritoare 249240 391766 562767 582146 468411 166231 390189
+SEARCH Utilaje ID >= 0.6734
+DELETE Obiecte
+ADD Linoleum 12778 399852 425959 453431 301693 426479 381398
+ADD Obiecte 0.1083 0.0496 0.8219 0.1564 0.3079 0.4022
+ADD Bujii 8784 327565 615528 390495 650292 500559
+ADD Oameni Adam Edward Mark Garcia bake subtract sin Gerald
+SEARCH Utilaje Pret/bucata >= 0.5767
+CREATE Doctori STRING Strada Prenume Regiune Garantie Denumire Importator Nume
+DELETE Instalatii Pret/bucata <= 0.4784
+DELETE Mirodenii Salariu_baza == 0.4691
+DELETE Super_Cars
+DELETE Utilaje
+ADD Bursieri development Nicholas Brenda dead reply pet Donald
+DELETE Obiecte Tip >= 0.5166
+PRINT Utilaje
+PRINT_DB
+ADD Profesori lying Garcia Raymond Kathleen Randy Earl terrific Keith
+DELETE Bursieri Localitate < Green
+CREATE Fainoase INT Restantieri Rating Olimpici Nr_Defecte Disponibile Societati_Comerciale
+ADD Studenti Alexander Mark bells Henderson society berry Bonnie
+PRINT_DB
+PRINT Tropicale
+CREATE Tropicale INT Disponibile Olimpici Societati_Comerciale Rezervate Rating ID Nr_Defecte
+PRINT Salarii
+PRINT Tropicale
+SEARCH Mirodenii Pret/bucata >= 0.5113
+ADD Studente 445567 221773 106437 653147 314718 572917
+SEARCH Bujii Marcaje >= 225654
+DELETE_DB

@@ -1,0 +1,20 @@
+INIT_DB florarie
+CREATE Salarii FLOAT Total Impozit
+CREATE Masini FLOAT Tip
+DELETE Masini Impozit > 0.0445
+SEARCH Salarii Consum < 0.4238
+CREATE Electronice INT Disponibile
+CREATE Economie INT Olimpici
+PRINT Masini
+PRINT Economie
+ADD Salarii 0.2473 0.1051
+SEARCH Salarii Discount <= 0.4780
+PRINT Electronice
+ADD Electronice 58
+ADD Masini 0.7117
+SEARCH Economie Nr_Defecte < 11
+CREATE Elevi STRING Regiune Nume Importator Garantie
+PRINT_DB
+CREATE Uber FLOAT Impozit Pret/metru Consum
+ADD Salarii 0.5996 0.7383
+DELETE_DB

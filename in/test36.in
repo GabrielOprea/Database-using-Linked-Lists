@@ -1,0 +1,20 @@
+INIT_DB depozit_auchan
+CREATE Uber FLOAT Consum Salariu_baza
+CREATE Camioane FLOAT Pret/metru Tip ID TVA Total
+SEARCH Camioane Total <= 0.1564
+ADD Camioane 0.3828 0.9212 0.6820 0.3325 0.7145
+ADD Uber 0.8535 0.2798
+PRINT_DB
+DELETE Balast Pret/metru <= 0.2181
+ADD Camioane 0.0232 0.4300 0.9277 0.1753 0.6084
+PRINT_DB
+CREATE Economie INT Rating Olimpici Rezervate Marcaje Cantitate
+DELETE Uber
+DELETE Economie
+PRINT Uber
+PRINT_DB
+ADD Echipari 164
+CREATE Echipari INT Rating Marcaje Olimpici
+CREATE Bursieri STRING Denumire Prenume ID Regiune
+ADD Economie 233 157 236 188 221
+DELETE_DB

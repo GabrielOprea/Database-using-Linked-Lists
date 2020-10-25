@@ -1,0 +1,117 @@
+DATABASE: asociatie_locatari
+
+TABLE: Tropicale
+Disponibile                    
+------------------------------ 
+
+Table "Tropicale" not found in database.
+Table "Super_Cars" not found in database.
+Table "Camioane" not found in database.
+Table "Tropicale" not found in database.
+Table "Fainoase" not found in database.
+Table "Super_Cars" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Masini
+TVA                            Pret/metru                     Consum                         Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+ID                             Prenume                        Strada                         Denumire                       Garantie                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Roberts                        Michael                        Raymond                        Watson                         breezy                         impossible                     Jenkins                        
+
+TABLE: Linoleum
+Rezervate                      Societati_Comerciale           Nr_Defecte                     Marcaje                        Restantieri                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+91                             101                            179                            97                             172                            209                            
+
+Table "Super_Cars" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Masini
+TVA                            Pret/metru                     Consum                         Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+ID                             Prenume                        Strada                         Denumire                       Garantie                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Roberts                        Michael                        Raymond                        Watson                         breezy                         impossible                     Jenkins                        
+
+TABLE: Linoleum
+Rezervate                      Societati_Comerciale           Nr_Defecte                     Marcaje                        Restantieri                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+91                             101                            179                            97                             172                            209                            
+
+Table "Tropicale" not found in database.
+Table "Super_Cars" not found in database.
+Table "Utilaje" not found in database.
+Table "Super_Cars" not found in database.
+Table "Camioane" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Masini
+TVA                            Pret/metru                     Consum                         Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.127900                       0.615700                       0.720300                       0.761000                       
+
+TABLE: Asistenti
+ID                             Prenume                        Strada                         Denumire                       Garantie                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Roberts                        Michael                        Raymond                        Watson                         breezy                         impossible                     Jenkins                        
+
+TABLE: Linoleum
+Rezervate                      Societati_Comerciale           Nr_Defecte                     Marcaje                        Restantieri                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+91                             101                            179                            97                             172                            209                            
+
+DATABASE: asociatie_locatari
+
+TABLE: Masini
+TVA                            Pret/metru                     Consum                         Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.127900                       0.615700                       0.720300                       0.761000                       
+
+TABLE: Asistenti
+ID                             Prenume                        Strada                         Denumire                       Garantie                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Roberts                        Michael                        Raymond                        Watson                         breezy                         impossible                     Jenkins                        
+Larry                          Baker                          Julia                          building                       Thompson                       Carter                         carve                          
+keen                           Sanders                        Perez                          bloody                         rate                           synonymous                     humorous                       
+
+TABLE: Linoleum
+Rezervate                      Societati_Comerciale           Nr_Defecte                     Marcaje                        Restantieri                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+91                             101                            179                            97                             172                            209                            
+
+Table "Camioane" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Masini
+TVA                            Pret/metru                     Consum                         Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.127900                       0.615700                       0.720300                       0.761000                       
+
+TABLE: Asistenti
+ID                             Prenume                        Strada                         Denumire                       Garantie                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Roberts                        Michael                        Raymond                        Watson                         breezy                         impossible                     Jenkins                        
+Larry                          Baker                          Julia                          building                       Thompson                       Carter                         carve                          
+keen                           Sanders                        Perez                          bloody                         rate                           synonymous                     humorous                       
+afterthought                   squeal                         Lewis                          Hernandez                      Lopez                          probable                       dazzling                       
+
+TABLE: Linoleum
+Rezervate                      Societati_Comerciale           Nr_Defecte                     Marcaje                        Restantieri                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+91                             101                            179                            97                             172                            209                            
+
+TABLE: Profesori
+Prenume                        Importator                     Strada                         Regiune                        Nume                           ID                             Tara_Origine                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rezervate                      Societati_Comerciale           Nr_Defecte                     Marcaje                        Restantieri                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+91                             101                            179                            97                             172                            209                            
+
+Table "Tropicale" not found in database.
